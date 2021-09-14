@@ -1,0 +1,1194 @@
+index,İlan Başlığı,Semt,Mahalle,Oda Sayısı,Binanın Yaşı,Binanın Kat Sayısı,Bulunduğu Kat,Brüt Metrekare,Banyo Sayısı,Site İçerisinde,Isıtma Tipi,Fiyat
+0, ESENYURT MEYDAN'DA 2+1 115M2 2+1 ÇİFT BALKONLU LÜX DAİRE,Esenyurt,Bağlarçeşme Mahallesi,3+1,0,9,6. Kat,130,1,0,KombiDoğalgaz,399000
+1, ESENYURT ATATÜRK MH. ACİLLL SATILIK BAHÇELİ BAHÇE KATI , Esenyurt, Atatürk Mahallesi,2+1,4,6,Bahçe Katı,130,1,0,KombiDoğalgaz,190000
+2, ÖZ AKTAŞ'TAN ESENYURT'TA CADDE'YE KOMSU MÜTHİŞ KONUMDA 2+1 110M2, Esenyurt, Pınar Mahallesi,2+1,0,5,2. Kat,110,1,0,KombiDoğalgaz,315000
+3, MARİN İNŞAAT'TAN METROBÜSE YAKIN YATIRIM İÇİN BİRE BİR DAİRELER!, Esenyurt, Mehterçeşme Mahallesi,3+1,2,6,3. Kat,130,2,0,KombiDoğalgaz,240000
+4, BEYLİKDÜZÜNDE ÖZEL MİMARİ TASARIM 3+1 METROBÜSE 10 DK SATILIK, Beylikdüzü, Yakuplu Mahallesi,3+1,0,6,2. Kat,145,1,0,KombiDoğalgaz,548000
+5, TEK YETKİLİ! ÖZEL YAPIM EBEVYN+3 BALKON+Ç.ODASI EMSALSİZ LÜX 3+1, Maltepe, Altıntepe Mahallesi,3+1,20,4,2. Kat,140,2,0,KombiDoğalgaz,829000
+6, ÖZ AKTAŞ'TAN MUHTEŞEM KONUMDA 3+1 Y.GİRİŞ LÜX DAİRE, Esenyurt, Battalgazi Mahallesi,3+1,0,5,-1,125,1,0,KombiDoğalgaz,299000
+7, ÖZ AKTAŞ'TAN CADDE ÜSTÜ PARK MANZARALI 90M2 2+1 LÜX DAİRE, Esenyurt, Osmangazi Mahallesi,2+1,0,5,2. Kat,100,1,0,KombiDoğalgaz,289000
+8, ÖZ AKTAŞ'TAN SIFIR BİNADA 2+1 UYGUN ORTA KAT LÜX DAİRE, Esenyurt, Pınar Mahallesi,2+1,0,5,2. Kat,100,1,0,KombiDoğalgaz,275000
+9, İNŞAAT FİRMASINDAN ESENYURT KIRAÇ'TA 3+1 TEK DAİRE ÜZERİ, Esenyurt, Hürriyet Mahallesi,3+1,4,5,2. Kat,145,1,0,MerkeziDoğalgaz,419000
+10, ÖZ AKTAŞ'TAN MUHACİR MAHAHLLESİNDE 2+1 110M2 DEKORLU LÜX DAİRE, Esenyurt, Osmangazi Mahallesi,2+1,0,5,2. Kat,110,1,0,KombiDoğalgaz,335000
+11, ÖZ AKTAŞ'TAN YENİ BİNADA SIFIR DAİRE 90M2 2+1 KREDİYE UYGUN, Esenyurt, Necip Fazıl Kısakürek Mahallesi,2+1,0,5,2. Kat,100,1,0,KombiDoğalgaz,285000
+12, İNŞAAT FİRMASINDAN PARKA KOMSU GENİŞ 3+1 ORTA KAT DAİRE, Esenyurt, Çınar Mahallesi,3+1,0,5,2. Kat,145,2,0,KombiDoğalgaz,399000
+13,ÖZ AKTAŞ'TAN SİTE İÇERİSİNDE 100M2 KÖŞE DAİRE 2+1 , Esenyurt, İstiklal Mahallesi,2+1,3,20,6. Kat,110,1,0,KombiDoğalgaz,359000
+14, ÖZ AKTAŞ'TAN KREDİYE UYGUN LÜX DEKORLU 2+1 100M2 ARAKAT DAİRE, Esenyurt, Çınar Mahallesi,2+1,0,5,2. Kat,110,1,0,KombiDoğalgaz,289000
+15, BEYLİKDÜZÜ YAKUPLU'DA GENİŞ METROBÜSE YAKIN 2+1 DAİRE , Beylikdüzü, Yakuplu Mahallesi,2+1,0,4,2. Kat,105,1,0,KombiDoğalgaz,439000
+16,Gaziosmanpaşa Bağlarbaşı Mahallesi'nde Satılık Daire , Gaziosmanpaşa, Bağlarbaşı Mahallesi,3+1,11-20,5,Bodrum,110,1,0,KombiDoğalgaz,295000
+17, KOZYATAĞI PRESTİJLİ BİNADA 120 M2 NET ÖNÜ AÇIK FERAH 3+1 DAİRE, Kadıköy, 19 Mayıs Mahallesi,3+1,20,10,8. Kat,140,1,0,MerkeziDoğalgaz,1570000
+18,  DOSTHANEEMLAK TAN 50 YIL MH SATILIK KELEPİR TEMİZ 2+1 DAİRE, Sultangazi, 50. Yıl Mahallesi,2+1,4,5,Bahçe Katı,105,1,0,KombiDoğalgaz,280000
+19, GAZİOSMANPAŞA MERKEZ MAHALLESİ KAVAKLI SK SATILIK 2+1 DAİRE, Gaziosmanpaşa, Merkez Mahallesi,2+1,20,5,5. Kat,100,1,0,KombiDoğalgaz,370000
+20, Home Vizyon Bahçelievler Satılık Butik Sitede Lüx 3+1 Daire. , Bahçelievler, Çobançeşme Mahallesi,3+1,5-10,4,3. Kat,130,2,0,KombiDoğalgaz,789000
+21, Gaziosmanpaşa'da satılık 2+1 daire giriş üstü, Gaziosmanpaşa, Bağlarbaşı Mahallesi,2+1,0,5,1. Kat,85,1,0,KombiDoğalgaz,650000
+22,Nivo Ataköy istanbulun en prestijli projesinde acil satılık., Bakırköy, Ataköy 7-8-9-10. Kısım Mahallesi,1+1,0,17,5. Kat,93,1,1,Merkezi(PayÖlçer),1450000
+23," ELZEM YAPI'DAN MERKEZİ KONUMDA İSKANLI, GENİŞ 3+1 SATILIK ARAKAT", Sancaktepe, Safa Mahallesi,3+1,3,4,2. Kat,135,1,0,KombiDoğalgaz,435000
+24,ESENYURT MEHMET AKİFERSOY MAH. 1+1 RESİDENCE SATILIK DAİRE , Esenyurt, Mehmet Akif Ersoy Mahallesi,1+1,0,11,5. Kat,55,1,1,KombiDoğalgaz,265000
+25,KİRA ÖDER GİBİ EV SAHİBİ OLUN %50 PEŞİNAT %50 Sİ 60 AY 0 FAİZ, Esenyurt, Zafer Mahallesi,3+1,0,17,10-20,160,1,1,Merkezi(PayÖlçer),350000
+26, AVCILAR AMBARLI MAH'DA 5+1 DUBLEKS DAİRE, Avcılar, Ambarlı Mahallesi,5+1,5-10,3,Çatı Dubleks,235,2,0,KombiDoğalgaz,850000
+27, Beylikdüzü Deniz İstanbul Mercan Konakları 2+1 Daire, Beylikdüzü, Marmara Mahallesi,2+1,0,6,Giriş,106,2,1,KombiDoğalgaz,1700000
+28, İN WEST OF İSTANBUL AMAZİNG PRİCE GOOD LOCATİON İNCREDİBLE PRİCE, Beylikdüzü, Cumhuriyet Mahallesi,3+1,0,15,6. Kat,130,1,0,KombiDoğalgaz,239000
+29,BAĞCILAR BARBAROS MAH'DA 2+1 110 M2 SATILIK DAİRE, Bağcılar, Barbaros Mahallesi,2+1,20,7,5. Kat,120,1,0,KombiDoğalgaz,275000
+30,MARİN İNSAATTAN CUMHURİYETTE 2+1 METROBÜSE 5 DAİKA MESAFEDE DAİRE, Esenyurt, Cumhuriyet Mahallesi,2+1,2,5,1. Kat,110,1,0,KombiDoğalgaz,180000
+31,"Next House'dan Yayla'da 2+1 90M2,Fırsat,Lüx,Daire", Bahçelievler, Soğanlı Mahallesi,2+1,0,5,Giriş,90,1,0,KombiDoğalgaz,589000
+32, MODERN 34'den  Cevizli'de  Geniş  İskanlı  Ara  Kat  Satılık 2+1, Maltepe, Cevizli Mahallesi,2+1,3,5,1. Kat,100,2,0,KombiDoğalgaz,775000
+33,MARİN İNŞAATTAN GÜZELYURTTA 2+1 TEMİZ GİYİNME ODALI DAİRE FIRSATI, Esenyurt, Güzelyurt Mahallesi,2+1,1,5,1. Kat,110,1,0,KombiDoğalgaz,170000
+34,MARİN İNŞAATTAN SAADETDEREDE3+1 GENİŞ GİYİNME ODALI DAİRE FIRSATI, Esenyurt, Saadetdere Mahallesi,3+1,2,5,1. Kat,130,2,0,KombiDoğalgaz,255000
+35, İNŞAAT FİRMASINDAN SATILIK MERKEZDE SIFIR ASANSÖRLÜ 2+1 DAİRE, Esenyurt, İncirtepe Mahallesi,2+1,0,4,2. Kat,100,1,0,KombiDoğalgaz,335000
+36,NOFT YAPI'DAN SATILIK KOMBİLİ ŞIK TASARIMLI BAHÇE KATI DAİRE, Esenyurt, Güzelyurt Mahallesi,2+1,0,6,Bahçe Katı,95,1,0,KombiDoğalgaz,219000
+37, BEYLİKDÜZÜ'NDE FULL DONANIMA SAHİP ŞIK TASARIMLI ULTRA LÜKS 3+1, Esenyurt, Ardıçlı Mahallesi,3+1,0,15,6. Kat,130,1,0,KombiDoğalgaz,240000
+38,BAŞKENT YAPI'DAN KREDİ YOK KEFİL YOK ELDEN 60 AY TAKSİT İMKANI, Beylikdüzü, Cumhuriyet Mahallesi,2+1,0,21,9. Kat,115,2,0,KombiDoğalgaz,259000
+39, DiLER YAPI GÜVENCESİYLE İSKANLI SATILIK DAİRE 85 M2 METROYA 7 DK, Maltepe, Zümrütevler Mahallesi,2+1,4,4,3. Kat,85,1,0,KombiDoğalgaz,440000
+40, EMLAKVAR OSMANGAZİ'DE 4+1 ÇATI DUBLEKSİ KATTA TEK İSKANLI, Sancaktepe, Osmangazi Mahallesi,4+1,5-10,4,Çatı Dubleks,170,2,0,KombiDoğalgaz,500000
+41, BEYLİKDÜZÜ KAVAKLI MAHALLESİNDE V.İ.P SATILIK DUBLEKS DAİRE, Beylikdüzü, Kavaklı Mahallesi,5+1,0,5,2. Kat,265,2,0,KombiDoğalgaz,1700000
+42, YENİBOSNADA ÇAKMAK DURAĞINDA SATILIK 100 m2 2+1 KREDİLİ DAİRE, Bahçelievler, Zafer Mahallesi,2+1,20,4,4. Kat,100,1,0,KombiDoğalgaz,325000
+43,İSTİKLAL MERKEZDE 4+1 KAT DUBLEKSİ, Ümraniye, İstiklal Mahallesi,4+1,5-10,5,Çatı Dubleks,155,2,0,KombiDoğalgaz,830000
+44, GÖZTEPE MİNİBÜS CADDEDİNE PARALEL CADDE ÜZERİNDE O  DAİRE, Kadıköy, Merdivenköy Mahallesi,2+1,0,9,7. Kat,95,2,0,MerkeziDoğalgaz,1075000
+45,BEYLİKDÜZÜ YAŞAM VADİSİNE YAKIN ÇİFT BALKONLU AÇIK CEPHELİ 3+1, Beylikdüzü, Adnan Kahveci Mahallesi,3+1,4,4,2. Kat,150,2,0,KombiDoğalgaz,797500
+46,BEYLİKDÜZÜ MİGROS DURAĞINA 5DK YÜRÜME İSKANLI LÜKS DİZAYNLI 3+1, Beylikdüzü, Barış Mahallesi,3+1,11-20,14,7. Kat,170,2,0,KombiDoğalgaz,970000
+47,Ağaoğlu Eltes Gold Residence 20.kat Bahçesi Yanı 164m2, Ümraniye, Madenler Mahallesi,3+1,11-20,27,10-20,164,2,0,KombiDoğalgaz,1450000
+48,Çekmeköy – Üsküdar Metro hattının Necip Fazıl Durağına 400 metre, Ümraniye, Necip Fazıl Mahallesi,3+1,11-20,8,1. Kat,135,2,0,KombiDoğalgaz,700000
+49, MARİN İNŞAATTAN BEYLİKDÜZÜ YAKUPLUDA 3+1 MERKEZİ KONUMLU DAİRE!!, Beylikdüzü, Yakuplu Mahallesi,3+1,2,5,4. Kat,130,2,0,KombiDoğalgaz,300000
+50,EMSALLERİNİN ÇOK ÇOK ÜSTÜNDE LÜX 3+1DAİREMİZ EN DİP FİYATTA SİZİN, Beylikdüzü, Cumhuriyet Mahallesi,3+1,1,8,3. Kat,130,1,0,KombiDoğalgaz,327000
+51,Pendik Çarşısında 3+1 130 m2 Teraslı Satılık Daire, Pendik, Batı Mahallesi,3+1,20,4,1. Kat,130,1,0,KombiDoğalgaz,450000
+52,Beylikdüzü yakuplu'da metrobüse yürüme mesafesinde 2+1 fırsatı, Beylikdüzü, Yakuplu Mahallesi,2+1,0,4,2. Kat,110,2,0,KombiDoğalgaz,489000
+53,BEYLİKDÜZÜ YAKUPLU'DA METROBÜSE YÜRÜME MESAFESİNDE 3+1 FIRSATI , Beylikdüzü, Yakuplu Mahallesi,3+1,0,4,2. Kat,145,1,0,KombiDoğalgaz,639000
+54,DAKİK EMLAKTAN OVAYENİCE MAH SATILIK 10.000m² BESİCİLİK ÇİFTLİĞİ, Çatalca, Ovayenice Mahallesi,6+3,5-10,2,Giriş,10000,3,0,Sobalı,4650000
+55, BEYLİKDÜZÜNDE BUTİK SİTE İÇİNDE KAPALI OTOPARKLI 3+1 LÜKS DAİRE, Beylikdüzü, Kavaklı Mahallesi,3+1,0,7,5. Kat,130,1,0,KombiDoğalgaz,240000
+56, TRUVA MALTPDE ELİT BÖLGE ŞOK FİYAT İŞTE FIRSAT 1.KAT 120'M2' 3+1, Maltepe, Fındıklı Mahallesi,3+1,5-10,5,1. Kat,120,1,0,KombiDoğalgaz,455000
+57,GÖKTAŞ YAPI'DAN HAFTANIN FIRSATI 3+1 130 M2 İSKANLI !!!, Esenyurt, Yunus Emre Mahallesi,3+1,5-10,4,4. Kat,135,1,0,KombiDoğalgaz,395000
+58,GÖKTAŞ YAPI'DAN MÜKEMMEL KONUM'DA 3+1 150 M2 SİTE İÇİ!!!, Başakşehir, Bahçeşehir 2. Kısım Mahallesi,3+1,5-10,8,Giriş,160,2,0,KombiDoğalgaz,850000
+59,PRESTİJ PARK VATANDAŞLIĞA UYGUN 3+1 SATILIK DAİRE, Esenyurt, Zafer Mahallesi,3+1,2,16,4. Kat,174,2,0,Merkezi(PayÖlçer),990000
+60,YENİDOĞAN MERKEZDE ASANSÖRLÜ 2. KAT OTURUMA HAZIR DAİRE, Sancaktepe, Yenidoğan Mahallesi,2+1,3,4,2. Kat,100,1,0,KombiDoğalgaz,379000
+61, ESENYURT YEŞİLKENT MAH. 2+1 ARA KAT RESİDANS SATILIK DAİRE , Esenyurt, Yeşilkent Mahallesi,2+1,0,18,7. Kat,105,1,1,KombiDoğalgaz,580000
+62,MİMAROBA SATILIK DENİZ MANZARALI LÜKS 4+1 TRİPLEKS VİLLA , Büyükçekmece, Mimaroba Mahallesi,4+1,5-10,3,Villa Tipi,328,2,0,KombiDoğalgaz,1350000
+63,Başakşehir evvel İstanbul sitesinde satılık kelepir 4+1 daire, Başakşehir, Kayabaşı Mahallesi,4+1,4,2,1. Kat,180,3,0,YerdenIsıtma,1900000
+64,NOFT YAPIDAN SATILIK ÇİFT BALKONLU KOMBİLİ ÖN CEPHE DAİRE FIRSATI, Esenyurt, Güzelyurt Mahallesi,2+1,2,6,1. Kat,110,1,0,KombiDoğalgaz,379000
+65,NOFT YAPI'DAN SATILIK ÇİFT TERASLI KOMBİLİ FERAH DAİRE FIRSATI, Esenyurt, Güzelyurt Mahallesi,2+1,2,5,5. Kat,110,1,0,KombiDoğalgaz,369000
+66, ESENYURT ÖRNEK MAH. 1+1 SİTE İÇİNDE GÜVENLİKLİ SATILIK DAİRE , Esenyurt, Örnek Mahallesi,1+1,5-10,7,5. Kat,65,1,1,Merkezi(PayÖlçer),310000
+67,"Next House'dan, Göl ve Deniz Manzaralı,250M2,Özel Yapım Dubleks.", Küçükçekmece, Fatih Mahallesi,4+1,0,14,10-20,250,3,0,Merkezi(PayÖlçer),2600000
+68, SARIYER MASLAK ECLİPSE LÜKS 2+1 SATILIK DAİRE, Sarıyer, Maslak Mahallesi,2+1,5-10,30,10-20,105,1,1,Merkezi(PayÖlçer),2650000
+69, ESENYURT DOGAN ARASLI BULVARI CAD. 1+1 SİTE İÇİNDE SATILIK DAİRE, Esenyurt, Bağlarçeşme Mahallesi,1+1,5-10,10,4. Kat,72,1,1,KombiDoğalgaz,345000
+70,BAHÇELİEVLER DE 3+1 SATILIK DAİRE , Bahçelievler, Soğanlı Mahallesi,3+1,11-20,5,Giriş,120,1,0,KombiDoğalgaz,560000
+71,SARIYER MASLAK 42 1+1 SATILIK DAİRE  , Sarıyer, Maslak Mahallesi,1+1,5-10,30,10-20,70,1,1,Merkezi(PayÖlçer),2550000
+72, ESENYURT CUMHURİYET MAH. 1+1 SATILIK DAİRE, Esenyurt, Piri Reis Mahallesi,1+1,5-10,14,3. Kat,70,1,1,Merkezi(PayÖlçer),350000
+73,SANCAKTEPE'NİN YÜKSELEN YILDIZI YENİDOĞAN'DA MERKEZİ KONUMDA 2+1 , Sancaktepe, Yunus Emre Mahallesi,2+1,0,6,2. Kat,95,1,0,KombiDoğalgaz,400000
+74, ESENYURT ÜÇEVLER  MH. 2+1 95M² 1. KAT DAİRE, Esenyurt, Fatih Mahallesi,2+1,4,6,1. Kat,105,1,0,KombiDoğalgaz,330000
+75,MARİN İNŞAATTAN SAADETDEREDE TORİUM AVM ARKASINDA FIRSAT2+1 DAİRE, Esenyurt, Saadetdere Mahallesi,2+1,1,5,3. Kat,110,1,0,KombiDoğalgaz,175000
+76, BEYLİKDÜZÜ MARİNA'YA KOMŞU SIFIR EŞSİZ 2+1 DAİRE !, Beylikdüzü, Yakuplu Mahallesi,2+1,0,5,2. Kat,110,1,0,KombiDoğalgaz,519000
+77, BEYLİKDÜZÜ YAKUPLU'DA EŞSİZ MANZARALI DEV M2 UYGUN 3+2 DUBLEKS !, Beylikdüzü, Yakuplu Mahallesi,3+2,4,5,4. Kat,180,2,0,KombiDoğalgaz,629000
+78, CENNET MAHALLESİNDE E-5 KENARI SATILIK SIFIR BALKONLU Y.GİRİŞ , Küçükçekmece, Cennet Mahallesi,2+1,0,5,Giriş,90,1,0,KombiDoğalgaz,750000
+79, AVCILAR CİHANGİR BU AYIN KELEPİR 2+1 SIFIR DAİRESİ RÜZGAR YAPIDA, Avcılar, Cihangir Mahallesi,2+1,2,6,1. Kat,110,1,0,KombiDoğalgaz,203000
+80, ESENYURT  LÜX BİR YAŞAMA GEÇMEYE HAZIRMISINIZ...??, Esenyurt, Atatürk Mahallesi,2+1,0,7,5. Kat,110,1,0,KombiDoğalgaz,220000
+81, آپارتمان های لوکس در غرب استانبول با بهترین شرایط فرو, Esenyurt, Cumhuriyet Mahallesi,3+1,0,15,7. Kat,130,1,0,KombiDoğalgaz,245000
+82,METROBÜSE 3 DK TEK DAİRE ÜZERİ 130 NET M2 3+1 EBEVEN BANYOLU !!!, Esenyurt, Güzelyurt Mahallesi,3+1,0,6,1. Kat,145,1,0,KombiDoğalgaz,562000
+83,GÜVERCİN İNŞAAT'TAN 2+1 110 M2 KAÇIRILMAYACAK KUPON DAİRE !!!!!!, Esenyurt, Bağlarçeşme Mahallesi,2+1,0,5,3. Kat,110,1,0,KombiDoğalgaz,259000
+84,MERKEZİ KONUMDA 3+1 EMSALSİZ KELEPİR DAİRE 165 M2 2.KAT ÖN CEPHE, Esenyurt, Örnek Mahallesi,3+1,0,5,2. Kat,165,1,0,KombiDoğalgaz,447000
+85,GÜVERCİN YAPI FARKIYLA ŞİŞİRİLMEMİŞ FİYATLAR İLE 150M2 3+1 4.KAT, Esenyurt, Yenikent Mahallesi,3+1,2,5,4. Kat,150,1,0,KombiDoğalgaz,379000
+86, ESENYURT MEHMET AKİFTE METROBÜSE ÇOK YAKIN FIRSAT SATILIK DAİRE, Esenyurt, Mehmet Akif Ersoy Mahallesi,2+1,4,5,2. Kat,120,1,0,KombiDoğalgaz,360000
+87, ESENYURT PINAR MAH. SİTE İÇİNDE EŞYALI 1+1 SIFIR DAİRE , Esenyurt, Pınar Mahallesi,1+1,0,14,3. Kat,90,1,1,Merkezi(PayÖlçer),280000
+88,ESENYURT 3+1 ARA KAT 130 M2 YEŞİLKENT MAH. SATILIK DAİRE , Esenyurt, Yeşilkent Mahallesi,3+1,0,5,3. Kat,145,1,0,KombiDoğalgaz,485000
+89, Toki Menekşe Evleri-1'de 84m2 Marmaray'a Yakın 2+1 Satılık Daire, Küçükçekmece, Atakent Mahallesi,2+1,11-20,11,10-20,84,1,1,KombiDoğalgaz,740000
+90, YEŞİLKENT 2'DE VATANDAŞLIĞA UYGUN 5+1 SATILIK DAİRE, Beylikdüzü, Adnan Kahveci Mahallesi,5+1,20,16,10-20,360,3,1,KombiDoğalgaz,1800000
+91, BEYLİKDÜZÜ BARIŞ MAHALLESİNDE EMSALSİZ GENİŞ M2 3+1 DAİRE !, Beylikdüzü, Yakuplu Mahallesi,3+1,11-20,14,10-20,150,1,0,KombiDoğalgaz,869000
+92,BEYLİKDÜZÜ GEZGEN YAPIDAN 110 m2 OTURUMA HAZIR 2+1 SATILIK DAİRE, Esenyurt, Cumhuriyet Mahallesi,2+1,0,6,3. Kat,110,2,0,KombiDoğalgaz,330000
+93,Başakşehir evvel İstanbul projesi satılık fırsat boş 3+1 daire , Başakşehir, Kayabaşı Mahallesi,3+1,4,28,10-20,169,2,0,YerdenIsıtma,1749000
+94,MARİN İNŞAAT'TAN 3+1 GÜZELYURT'TA METROBÜS YAKINI DAİRE FIRSATI!, Esenyurt, Güzelyurt Mahallesi,3+1,1,5,3. Kat,130,2,0,KombiDoğalgaz,255000
+95, TRUVA'DAN MALTEPDE ŞOK FİYAT FIRSAT DAİRE 3.KAT ASANSRLÜ 2+1, Maltepe, Fındıklı Mahallesi,2+1,5-10,4,3. Kat,90,1,0,KombiDoğalgaz,335000
+96,SATILIK 5+2 DUBLEKS NET 200 M2 AÇIKLAMAYI OKUYUN, Çekmeköy, Merkez Mahallesi,5+2,0,4,Çatı Dubleks,230,3,0,KombiDoğalgaz,1550000
+97, BEYLİKDÜZÜNDE ULTRA LÜX 2+1 GENİŞ FERAH KULLANIŞLI DAİRE , Beylikdüzü, Cumhuriyet Mahallesi,2+1,0,4,2. Kat,100,1,0,KombiDoğalgaz,225000
+98,Kayaşehir 19 bölgede satılık fırsat tapulu 2+1 boş daire , Başakşehir, Kayabaşı Mahallesi,2+1,5-10,25,21-29,102,1,1,Merkezi(PayÖlçer),685000
+99, AKASYA 1'de FULL TADİLATLI ARA KAT DAİRE, Küçükçekmece, Atakent Mahallesi,3+1,11-20,15,10-20,155,2,1,KombiDoğalgaz,1385000
+100, TOKİ AÇELYA EVLERİ'NDE SATILIK 2+1 ARA KAT TEMİZ 84 m2 DAİRE, Küçükçekmece, Atakent Mahallesi,2+1,11-20,9,9. Kat,84,1,1,KombiDoğalgaz,735000
+101, Bahçelievler'de Yeni Binada Satılık Ara Kat Asansörlü 2+1 Daire, Bahçelievler, Siyavuşpaşa Mahallesi,2+1,11-20,5,2. Kat,100,1,0,KombiDoğalgaz,549000
+102, Bahçeşehir Tual'de 3+1 Çift Cephe Satılık Daire, Başakşehir, Bahçeşehir 2. Kısım Mahallesi,3+1,5-10,27,3. Kat,180,2,1,Merkezi(PayÖlçer),1750000
+103,MARİN İNŞAATTAN KAVAKLI'DA 3+1 KREDİYE TAKASA UYGUN DAİRE FIRSATI, Beylikdüzü, Kavaklı Mahallesi,3+1,2,8,3. Kat,130,2,0,KombiDoğalgaz,322000
+104,DURAKCAN'DAN TORİUM AWM YANINDA METROBÜSE YÜRÜME MESAFESİNDE 2+1, Esenyurt, Zafer Mahallesi,2+1,5-10,5,Bahçe Katı,105,2,0,KombiDoğalgaz,389999
+105, BEYLİKDÜZÜNDE SİTE İÇİNDE YEŞİLİN TAM ORTASINDA HUZURLU YAŞAM, Beylikdüzü, Kavaklı Mahallesi,3+1,0,7,5. Kat,130,1,0,KombiDoğalgaz,240000
+106,HALİM GÜZEL'DEN 3+1 METROLİFE YANI 130 M2 ARA KAT DAİRE, Sancaktepe, Abdurrahmangazi Mahallesi,3+1,5-10,5,1. Kat,130,1,0,KombiDoğalgaz,590000
+107,RE/MAX IŞIK FARKIYLA SIFIR 2+1 BALKONLU SATILIK DAİRE, Sancaktepe, Abdurrahmangazi Mahallesi,2+1,0,3,3. Kat,95,1,0,KombiDoğalgaz,495000
+108, ÇİFTEHAVUZLARDA 13 YILLIK BİNA 3+1 160 M2 3 BANYO  YENİLENMİŞ, Kadıköy, Göztepe Mahallesi,3+1,11-20,11,7. Kat,160,3,0,KombiDoğalgaz,3695000
+109, DEPAR'DAN FENERYOLU MİNİBÜS CADDESİ ÜZERİ 3+1 145 M2 YENİLENMİŞ, Kadıköy, Feneryolu Mahallesi,3+1,20,9,5. Kat,145,1,0,MerkeziDoğalgaz,1875000
+110,SANCAKTEPE SAFA MAH.3+1 135M2 İSKANLI ASANSÖRLÜ MERKEZİ KONUM, Sancaktepe, Safa Mahallesi,3+1,3,4,3. Kat,135,1,0,KombiDoğalgaz,520000
+111,BEYLİKDÜZÜ ALBAYRAK'TAN SİTE İÇİ BAHÇE KULLANIMLI 2+1 SATILIK, Beylikdüzü, Adnan Kahveci Mahallesi,2+1,0,5,Bahçe Katı,125,2,0,KombiDoğalgaz,720000
+112,BEYLİKDÜZÜ ALBAYRAK'TAN SİTE İÇİ GENİŞ M2 3+1 SATILIK DAİRELER, Beylikdüzü, Adnan Kahveci Mahallesi,3+1,0,5,3. Kat,155,2,0,KombiDoğalgaz,870000
+113, Esenyurt Kiptaş 2 Yenikent Mah.75 m2 Yüksek giriş 2+1 satılık, Esenyurt, Yenikent Mahallesi,2+1,11-20,11,Giriş,90,1,0,MerkeziDoğalgaz,315000
+114,  BEYLİKDÜZÜ SİMA YAPI'DAN KİRA ÖDER GİBİ EV SAHİBİ OLMA FIRSATI!, Beylikdüzü, Cumhuriyet Mahallesi,2+1,0,4,Bahçe Katı,100,1,0,KombiDoğalgaz,129999
+115,DURAKCAN YAPI'DAN MEHTERÇEŞME MAHALLESİN'DE ŞIK TASARIMLI 2+1, Esenyurt, Mehterçeşme Mahallesi,2+1,5-10,5,2. Kat,105,2,0,KombiDoğalgaz,350000
+116, ÖMERPAŞA'DA OYUNCAK MÜZESİNE KOMŞU  GENİŞ 3+1 YENİLENMİŞ, Kadıköy, Erenköy Mahallesi,3+1,11-20,9,4. Kat,160,2,0,MerkeziDoğalgaz,2625000
+117, AVCILAR MUSTAFA KEMAL PAŞA MAH BALKONLU 2+1 SATILIK YÜKSEK GİRİŞ, Avcılar, Mustafa Kemal Paşa Mahallesi,2+1,4,4,Giriş,75,1,0,KombiDoğalgaz,365000
+118, Kelepir...!!!! Sancaktepe Yenidoganda Satılık 2+1 95m2 Daire, Sancaktepe, Yunus Emre Mahallesi,2+1,5-10,5,Giriş,100,1,0,KombiDoğalgaz,210000
+119," TALİP YÖRÜKOĞLUN,DAN DEPREM SONRASI FULL BAHÇEKATI DAİRE", Güngören, Güneştepe Mahallesi,1+1,11-20,3,Giriş,80,1,0,KombiDoğalgaz,330000
+120, KÜÇÜKKÖY FEVZİÇAKMAK MAHALLESİNDE SATILI YÜKSEK GİRİŞ DAİRE, Gaziosmanpaşa, Fevzi Çakmak Mahallesi,3+1,11-20,3,Giriş,105,1,0,KombiDoğalgaz,370000
+121,KORU İÇİNDE BOĞAZ MANZARALI 270 M2 SATILIK DAİRE BEBEK, Beşiktaş, Bebek Mahallesi,4+1,20,4,1. Kat,270,2,0,MerkeziDoğalgaz,19000000
+122,İSTANBUL MALTEPE'DE 50.000 TL'YE AYDA 2.500 TL KİRA ALMA FIRSATI, Maltepe, Aydınevler Mahallesi,3+1,0,5,3. Kat,130,1,0,KombiDoğalgaz,50000
+123, KARTAL YUNUS MAHALLEDE MERKEZİ KONUMDA 2+1 SATILIK KELEPİR DAİRE, Kartal, Yunus Mahallesi,2+1,20,4,1. Kat,120,1,0,KombiDoğalgaz,262000
+124,KRİSTAL İNŞAAT'TAN OSMANGAZİ MAHALLESİNDE KELEPİR DAİRE!!!!, Sancaktepe, Osmangazi Mahallesi,2+1,0,5,Giriş,110,1,0,KombiDoğalgaz,255000
+125,BEYLİKDÜZÜ CUMHURİYET'TE  SİTE İÇİ GİYİNME ODALI METROBÜS KONUMLU, Beylikdüzü, Cumhuriyet Mahallesi,3+1,2,8,4. Kat,130,2,0,KombiDoğalgaz,315000
+126, İLKE'DEN SAHİLDE MARMARAYA 2DK MESAFEDE 7 YILLIK ÖNCEPHE 1+1, Maltepe, İdealtepe Mahallesi,1+1,5-10,4,Bahçe Katı,50,1,0,KombiDoğalgaz,545000
+127,BEYLİKDÜZÜ ADNANKAHVECİ BULVAR ÜZERİNDE 2+1 120 m² SATILIK DAİRE, Beylikdüzü, Adnan Kahveci Mahallesi,2+1,5-10,11,5. Kat,140,2,0,KombiDoğalgaz,765000
+128, MARİN İNŞAAT'TAN METROBÜSE YAKIN YATIRIM İÇİN BİRE BİR DAİRELER!, Esenyurt, Güzelyurt Mahallesi,3+1,0,6,1. Kat,130,2,0,KombiDoğalgaz,270000
+129," BAHÇELİEVLER BAHÇELİNİZAM SATILIK, YENİ BİNADA LÜKS DUBLEKS", Bahçelievler, Bahçelievler Mahallesi,5+1,5-10,3,Çatı Dubleks,180,2,0,KombiDoğalgaz,2250000
+130,TUZLA MERCAN DA DENİZ MANZARALI ULTRA LUXS DUPLEKS 4+1(230 M2), Tuzla, Postane Mahallesi,4+1,0,3,3. Kat,230,3,0,KombiDoğalgaz,1745000
+131,GRİ`DEN MERCAN DA 2+1 BAHCE KATI DAİRE (60M2 BAHCE KULLANIMLI), Tuzla, Postane Mahallesi,2+1,0,3,Bahçe Katı,105,2,0,KombiDoğalgaz,1250000
+132, #idealtepe #satılıkdaire Yeni binada bahçe kulanımlı 2+1 , Maltepe, Altıntepe Mahallesi,2+1,4,4,Giriş,85,1,0,KombiDoğalgaz,695000
+133,NOFT YAPI'DAN SATILIK METROBÜSE YÜRÜME MESAFESİNDE TERS DUBLEKS , Esenyurt, Güzelyurt Mahallesi,5+2,2,5,Bahçe Dublex,200,3,0,KombiDoğalgaz,489000
+134, GAZİOSMANPAŞA MEVLANA MAH SİTE İÇİ SATILIK 3+1 DAİRE, Gaziosmanpaşa, Mevlana Mahallesi,3+1,11-20,4,1. Kat,150,1,0,KombiDoğalgaz,850000
+135,BLUE LAKE 3+1 B BLOK 5. KAT FULL GÖL MANZARALI KONUM! MEGA, Küçükçekmece, Fatih Mahallesi,3+1,2,15,5. Kat,144,2,0,Merkezi(PayÖlçer),3000000
+136,BLUE LAKE 2+1 C BLOK 10. KAT FULL GÖL MANZARALI KONUM! MEGA, Küçükçekmece, Fatih Mahallesi,2+1,2,15,10-20,125,2,0,Merkezi(PayÖlçer),3250000
+137,MARİN İNŞAATTAN KREDİYE TAKASA UYGUN BU DAİRE FIRSATI KAÇMAZ!!!, Esenyurt, Mehmet Akif Ersoy Mahallesi,1+1,2,5,1. Kat,85,1,0,KombiDoğalgaz,154000
+138, ERYAMAN İNŞAATTAN MERKEZİ KONUMDA 3+1 SATILIK  FIRSAT DAİRE !!, Esenyurt, Cumhuriyet Mahallesi,3+1,0,15,6. Kat,130,2,0,KombiDoğalgaz,273000
+139, ŞİŞLİ MECİDİYEKÖYDE 60m2 1+1 TERASLI KOMBİLİ ASANSÖRLÜ FERAH, Şişli, Mecidiyeköy Mahallesi,1+1,20,7,7. Kat,60,1,0,KombiDoğalgaz,475000
+140,BİGA DAN SANCAKTEPEDE SATILIK ÖN CEPHE 3+1 ARAKAT DAİRE, Sancaktepe, Fatih Mahallesi,3+1,3,3,1. Kat,140,1,0,KombiDoğalgaz,450000
+141, GAZİOSMANPAŞA KAZIMKARABEKİR MAH SATILIK 2+1 DAİRE, Gaziosmanpaşa, Kazım Karabekir Mahallesi,2+1,11-20,3,Giriş,105,1,0,KombiDoğalgaz,300000
+142,"Cadde Üstü, Kat Mülkiyet Tapulu, 2+1, Fırsat Daire ...", Güngören, Merkez Mahallesi,2+1,20,4,1. Kat,90,1,0,KombiDoğalgaz,370000
+143,BEYLİKDÜZÜ BAŞKENT YAPI'DAN MERKEZİ LOKASYONDA ŞIK TASARIMLI 2+1, Beylikdüzü, Cumhuriyet Mahallesi,2+1,1,5,2. Kat,110,2,0,KombiDoğalgaz,299000
+144,BEYLİKDÜZÜ BAŞKENT YAPI'DAN METROBÜSE 7DK FULL DEKORASYONLU 2+1, Beylikdüzü, Cumhuriyet Mahallesi,2+1,1,5,3. Kat,115,2,0,KombiDoğalgaz,469000
+145,"K.OTOPARKLI, JENERATÖRLÜ, YENİ BİNADA, 2+1, 100 M2, FIIRSAT DAİRE", Bakırköy, Zuhuratbaba Mahallesi,2+1,4,5,Giriş,100,1,0,KombiDoğalgaz,1125000
+146,ACİL  SATILIK!  Yeni Mahalle'de 95m² 2+1 Satılık Lüks Daire, Silivri, Yeni Mahallesi,2+1,5-10,5,5. Kat,105,1,0,KombiDoğalgaz,545000
+147, Ispartakulede Lüks Sitede 2+1 Acil Satılık Daire, Avcılar, Tahtakale Mahallesi,2+1,5-10,12,1. Kat,110,1,0,Merkezi(PayÖlçer),830000
+148,YALÇINTEPE RESİDENCE TEMİZ FERAH ÇİFT CEPHE SATILIK 1+1 DAİRE, Esenyurt, Koza Mahallesi,1+1,1,24,10-20,86,1,0,Merkezi(PayÖlçer),425000
+149,"K.OTOPARKLI, JENERATÖRLÜ, YENİ BİNADA, 2+1, 100 M2, FIIRSAT DAİRE", Bakırköy, Zuhuratbaba Mahallesi,2+1,4,5,Giriş,100,1,0,KombiDoğalgaz,1125000
+150,ACİL  SATILIK!  Yeni Mahalle'de 95m² 2+1 Satılık Lüks Daire, Silivri, Yeni Mahallesi,2+1,5-10,5,5. Kat,105,1,0,KombiDoğalgaz,545000
+151,YALÇINTEPE RESİDENCE TEMİZ FERAH ÇİFT CEPHE SATILIK 1+1 DAİRE, Esenyurt, Koza Mahallesi,1+1,1,24,10-20,86,1,0,Merkezi(PayÖlçer),425000
+152,BİGA DAN SANCAKTEPEDE SATILIK ÖN CEPHE 3+1 ARAKAT DAİRE, Sancaktepe, Fatih Mahallesi,3+1,3,3,1. Kat,140,1,0,KombiDoğalgaz,450000
+153,E.N.F EMLAKTAN İÇERENKÖY MERKEZDE SATILIK DAİRE , Ataşehir, İçerenköy Mahallesi,3+1,20,7,6. Kat,135,1,0,KombiDoğalgaz,760000
+154," Yeenibosna Fevziçaakmak mh 2+1 3,kat Geniş FUUL Daire", Bahçelievler, Yenibosna Merkez Mahallesi,2+1,20,4,3. Kat,95,1,0,KombiDoğalgaz,420000
+155, Yenibosna Çobançeşme mh  Fatih cd Yakın Konumda , Bahçelievler, Yenibosna Merkez Mahallesi,2+1,5-10,4,4. Kat,80,1,0,KombiDoğalgaz,465000
+156,Koç Emlak.tan Satılık daire, Kadıköy, Rasimpaşa Mahallesi,2+1,20,4,1. Kat,70,1,0,KombiDoğalgaz,545000
+157, Ispartakulede Lüks Sitede 2+1 Acil Satılık Daire, Avcılar, Tahtakale Mahallesi,2+1,5-10,12,1. Kat,110,1,0,Merkezi(PayÖlçer),830000
+158,Beylikdüzü beykentte satılık 1 + 1 daire, Beylikdüzü, Adnan Kahveci Mahallesi,1+1,5-10,7,Giriş,75,1,1,Merkezi(PayÖlçer),460000
+159,Çengelköy'de Satılık 1.468m2 Boğaz Manzaralı Bahçeli Müstakil Ev, Üsküdar, Çengelköy Mahallesi,8+ Oda,20,3,Müstakil,1468,6,0,KombiDoğalgaz,120000000
+160,BEYLİKDÜZÜ 'NDE MARİNAYA KOMŞU PROJEMİZDE ULTRA LÜKS DAİRELER, Beylikdüzü, Adnan Kahveci Mahallesi,3+1,0,5,3. Kat,155,2,0,KombiDoğalgaz,759000
+161, REAL YAPI'DAN ŞIK TASARIMLI 3+1 FERAH DAİRE FIRSATI ! 136 M2 !, Beylikdüzü, Kavaklı Mahallesi,3+1,0,6,4. Kat,136,2,0,KombiDoğalgaz,429000
+162,kadıköyün özel projesinde ayrıcalıklı bir yaşam sizi bekliyor, Kadıköy, Fikirtepe Mahallesi,2+1,3,20,10-20,135,2,0,Merkezi(PayÖlçer),1450000
+163, TRUVA'DAN MALTEPDE ŞOK FİYAT ÇİFT BALKONLU 4.KAT ASANSRLÜ 2+1  , Maltepe, Fındıklı Mahallesi,2+1,5-10,5,4. Kat,90,1,0,KombiDoğalgaz,340000
+164,BEYAZ YAPI İNŞAAT'DAN 7+1  240M2  GENİŞ TERASLI SIFIR DUBLEX, Çekmeköy, Aydınlar Mahallesi,7+1,0,5,5. Kat,255,2,0,KombiDoğalgaz,865000
+165,Merter Mehmet Nesih Özmen Mahallesinde satılık 3+1 Daire, Güngören, Mehmet Nesih Özmen Mahallesi,3+1,20,5,3. Kat,120,1,0,KombiDoğalgaz,700000
+166,avcılar denizkosklerde satilik giriskati, Avcılar, Denizköşkler Mahallesi,2+1,20,5,Giriş,110,1,0,KombiDoğalgaz,250000
+167,"Next House'dan, Siyavuşpaşa'da, 4+2, 190M2, Dubleks, Fırsat.", Bahçelievler, Siyavuşpaşa Mahallesi,4+2,0,4,4. Kat,190,2,0,KombiDoğalgaz,1049000
+168,Esenler Birlik Mahallesi 135 m2 3+1 Satılık Daire, Esenler, Birlik Mahallesi,3+1,20,5,4. Kat,135,1,0,KombiDoğalgaz,457000
+169, Yenibosna  Zafer mh 2+1  Fuul+Fuul Lüx Daire, Bahçelievler, Yenibosna Merkez Mahallesi,2+1,20,4,1. Kat,100,1,0,KombiDoğalgaz,295000
+170, Doğan Emlak 'tan Satılık Uygun ama Biraz Masraflı 2+1 Daireler, Sancaktepe, Fatih Mahallesi,2+1,5-10,4,1. Kat,80,1,0,KombiDoğalgaz,355000
+171, SARAÇEMLAKTAN KREDİYE UYGUN SATILIK 2+1 MÜKKEMMEL DAİRE, Bahçelievler, Zafer Mahallesi,2+1,5-10,5,-3,110,1,0,KombiDoğalgaz,495000
+172,NOFT YAPI'DAN SATILIK ÇİFT BALKONLU ASANSÖRLÜ LÜKS 3+1 DAİRE !, Beylikdüzü, Kavaklı Mahallesi,3+1,0,6,1. Kat,140,2,0,KombiDoğalgaz,729000
+173, SARAÇ EMLAKTAN 1+1 MÜKKEMMEL KREDİLİ SATILIK YÜKSEK GR, Bahçelievler, Zafer Mahallesi,1+1,5-10,5,Giriş,75,1,0,KombiDoğalgaz,239000
+174,İstanbul Pendik Kurnaköy Satılık 1475 m² Arazi Müstakil Ev İşyeri, Pendik, Kurna Mahallesi,5+2,4,1,Müstakil,1475,2,0,Sobalı,2900000
+175, ZAFER MAH 3'YILLIK KAT MÜLKİYETLİ DAİRE, Bahçelievler, Zafer Mahallesi,2+1,3,4,2. Kat,90,1,0,KombiDoğalgaz,455000
+176,Etiler Sarı Konaklar'da Satılık 320 m2 Çatı Dubleksi 3+1, Beşiktaş, Etiler Mahallesi,3+1,11-20,5,4. Kat,320,3,0,Merkezi(PayÖlçer),21000000
+177, SAHİBİNDEN AYDINLI MERKEZDE PROJEDEN SATILIK YATIRIMLIK DAİRELER, Tuzla, Aydınlı Mahallesi,2+1,0,11,6. Kat,100,2,0,Merkezi(PayÖlçer),550000
+178,Sultangazi Cebeci 2+1 Satılık Daire, Sultangazi, Malkoçoğlu Mahallesi,2+1,5-10,5,Bahçe Katı,85,1,0,KombiDoğalgaz,220000
+179,Etiler Sarı Konaklar'da Satılık 320 m2 Çatı Dubleksi 3+1, Beşiktaş, Etiler Mahallesi,3+1,11-20,5,4. Kat,320,3,0,Merkezi(PayÖlçer),21000000
+180,Sultangazi Cebeci 2+1 Satılık Daire, Sultangazi, Malkoçoğlu Mahallesi,2+1,5-10,5,Bahçe Katı,85,1,0,KombiDoğalgaz,220000
+181, SAHİBİNDEN AYDINLI MERKEZDE PROJEDEN SATILIK YATIRIMLIK DAİRELER, Tuzla, Aydınlı Mahallesi,2+1,0,11,6. Kat,100,2,0,Merkezi(PayÖlçer),550000
+182,Maçka Armani Residence Satılık Boğaz Manzaralı 232m2 Lüks 2+1, Beşiktaş, Vişnezade Mahallesi,2+1,4,16,3. Kat,232,3,0,Merkezi(PayÖlçer),15500000
+183,BEYLİKDÜZÜ KAVAKLI'DA VİLLA TADIN'DA 365 GÜN TATİL KEYFİ, Beylikdüzü, Kavaklı Mahallesi,2+1,0,4,1. Kat,185,2,0,KombiDoğalgaz,1250000
+184, Doğan Emlak 'tan Ortadağda Satılık İskanlı ve Ön 3+1 Ters Dublex, Sancaktepe, Fatih Mahallesi,3+1,3,4,Giriş,120,1,0,KombiDoğalgaz,260000
+185,ŞİRİNEVLER HURİYET MAH 5 YILLIK BİNA DUBLEKS DAİRE, Bahçelievler, Hürriyet Mahallesi,3+1,5-10,6,5. Kat,150,2,0,KombiDoğalgaz,950000
+186,Durakcan Yapı'dan Metrobüse Yürüme Mesafesinde 1+1 Ara Kat, Esenyurt, Talatpaşa Mahallesi,1+1,5-10,6,2. Kat,90,1,0,KombiDoğalgaz,260000
+187,BLUE LAKE 4+1 A BLOK 11. KAT FULL GÖL MANZARALI KONUM! MEGA, Küçükçekmece, Fatih Mahallesi,4+1,2,15,10-20,230,2,0,Merkezi(PayÖlçer),4000000
+188,CİEL ALEMDAĞ evlerinde satılık 3+1 geniş daire, Çekmeköy, Alemdağ Mahallesi,3+1,0,6,1. Kat,139,2,0,KombiDoğalgaz,1050000
+189,Catalmeşe merkezde Satılık arakat 3+1 daire, Çekmeköy, Çatalmeşe Mahallesi,3+1,4,5,4. Kat,119,2,0,KombiDoğalgaz,820000
+190,Aktel Residence'de 300m² Satılık 3+1 Bahçe Katı Dubleks, Beylikdüzü, Adnan Kahveci Mahallesi,3+1,5-10,12,Bahçe Dublex,300,3,1,Merkezi(PayÖlçer),2000000
+191,****ÇEKMEKÖY'DE TEK DAİRE FİYATINA 6+2 ÇİFT DAİRE FIRSATI****, Çekmeköy, Aydınlar Mahallesi,6+2,0,5,1. Kat,230,3,0,KombiDoğalgaz,755000
+192,Fırsat Fiyat Düştü YT Üniversiteye Yakın Kredili Ultra Lüx Daire, Esenler, Davutpaşa Mahallesi,2+1,20,5,5. Kat,125,1,0,KombiDoğalgaz,498000
+193, Atakent 1.Etap Tadilatlı 71m2 Kutlutaş'da 2+1 Satılık Daire, Küçükçekmece, Atakent Mahallesi,2+1,20,13,4. Kat,90,1,1,Merkezi(PayÖlçer),600000
+194, EMLAK WORKS'DEN İST MARİNADA 1+1 SATILIK DENİZ MANZARALI DAİRE, Kartal, Kordonboyu Mahallesi,1+1,4,30,4. Kat,80,1,1,Merkezi(PayÖlçer),1700000
+195,RE/MAX FLY'DAN SULTANGAZİDE MERKEZE YAKIN KELEPİR SATILIK DAİRE, Sultangazi, 75. Yıl Mahallesi,2+1,20,4,1. Kat,105,2,0,KombiDoğalgaz,250000
+196,RE/MAX FLY'DAN ÜMRANİYE YUKARI DUDULLU 3+1 TEMİZ SATILIK DAİRE, Ümraniye, Altınşehir Mahallesi,3+1,11-20,4,1. Kat,180,2,0,KombiDoğalgaz,420000
+197,Sultangazi Cebeci 95 m2 2+1 Satılık Daire, Sultangazi, Malkoçoğlu Mahallesi,2+1,5-10,5,1. Kat,95,1,0,KombiDoğalgaz,525000
+198,SATILIK DAIRE YUZYILDA, Bağcılar, 100. Yıl Mahallesi,2+1,20,4,2. Kat,125,1,0,DoğalgazSobalı,325000
+199,EMLAK WORKS'DEN KARTAL AKDAMAR SKY SUİTE'DE SATILIK 2+1, Kartal, Gümüşpınar Mahallesi,2+1,0,18,10-20,110,1,0,Merkezi(PayÖlçer),1250000
+200,BEYLİKDÜZÜ MERKEZİ KONUMDA SİTE İÇİ 3+1 SATILIK DAİRE FIRSATI, Beylikdüzü, Adnan Kahveci Mahallesi,3+1,0,4,1. Kat,140,2,0,KombiDoğalgaz,1275000
+201,Sultangazi Cebeci 110 m2 2+1 Sıfır Ara Kat Satılık Daire, Sultangazi, Malkoçoğlu Mahallesi,2+1,0,5,2. Kat,110,1,0,KombiDoğalgaz,560000
+202,Sultangazi Cebeci Tramvay Yolu Cadde Üzeri 1+1 Satılık Daire, Sultangazi, Malkoçoğlu Mahallesi,1+1,0,5,4. Kat,90,0,0,KombiDoğalgaz,380000
+203,Sultangazi Cebeci 4+2 200 m2 Dubleks Satılık Daire, Sultangazi, Malkoçoğlu Mahallesi,4+2,0,5,Çatı Dubleks,215,2,0,KombiDoğalgaz,830000
+204, Bahçeşehir Nissa O2 Residance 2+1 Satılık Daire, Avcılar, Tahtakale Mahallesi,2+1,5-10,31,30-40,180,1,1,YerdenIsıtma,920000
+205, soyak park aparts 2.etapta havuz cepheli çift balkonlu 56 m2 1+1, Küçükçekmece, Atakent Mahallesi,1+1,5-10,5,3. Kat,56,1,1,Merkezi(PayÖlçer),555000
+206,Atakent Mah.3.Etap 57 m2 Full tadilatlı 1+1, Küçükçekmece, Atakent Mahallesi,1+1,11-20,9,5. Kat,64,1,1,MerkeziDoğalgaz,520000
+207, ACIBADEM İKBALİYEDE 2+1 KOMBİLİ SATILIK DAİRE, Kadıköy, Acıbadem Mahallesi,2+1,20,4,3. Kat,85,1,0,KombiDoğalgaz,615000
+208, Bahçeşehir Nissa O2 Residance 2+1 Satılık Daire, Avcılar, Tahtakale Mahallesi,2+1,5-10,29,21-29,220,2,1,YerdenIsıtma,1440000
+209,AYDINLAR MAHALLESİNDE İKİ BLOKLU BUTİK SİTE İÇİNDE 2+1 DAİRE, Çekmeköy, Aydınlar Mahallesi,2+1,4,6,1. Kat,80,1,0,KombiDoğalgaz,303000
+210,TURKUAZ'DAN LANSMAN ÖNCESİ FIRSATLAR %40 PEŞİNAT İLE 15 AY VADE, Beylikdüzü, Kavaklı Mahallesi,3+1,0,4,2. Kat,185,3,0,KombiDoğalgaz,1750000
+211,"Next House'dan Merkez'de,E.Banyolu,3+1,160M2,Ultra,Lüx", Bahçelievler, Bahçelievler Mahallesi,3+1,0,4,3. Kat,160,2,0,KombiDoğalgaz,2119000
+212,ATAPOL SİTESİNDE ÖZEL TASARIM 3+1 BALKONLU SATILIK DAİRE, Ataşehir, Yenişehir Mahallesi,3+1,11-20,9,2. Kat,120,1,0,KombiDoğalgaz,1285000
+213,smart home system 2+1 with pool view, Çekmeköy, Aydınlar Mahallesi,2+1,0,7,5. Kat,95,1,0,KombiDoğalgaz,429000
+214," İÇERENKÖY MERKEZDE GENÇ BİNADA 140M2 3+1 KOMBİLİ,TERS DUBLEKS", Ataşehir, İçerenköy Mahallesi,3+1,11-20,3,Giriş,140,2,0,KombiDoğalgaz,665000
+215,BİGA DAN SATILIK 4+1 ÖN CEPHE SIFIR ÜST DUBLEKS , Sancaktepe, Fatih Mahallesi,4+1,0,3,Çatı Dubleks,150,2,0,KombiDoğalgaz,560000
+216, FEVZİ ÇAKMAK MAH 2+1 KREDİYE UYGUN 3.KAT MERKEZİ KONUMDA, Bahçelievler, Fevzi Çakmak Mahallesi,2+1,20,3,3. Kat,90,1,0,KombiDoğalgaz,345000
+217,"Lüks,Yeni,Metro,Çarşı,kullanışlı HEPSİ BİR ARADA 3+2 Dubleks", Ümraniye, Namık Kemal Mahallesi,3+2,4,4,4. Kat,165,3,0,KombiDoğalgaz,1490000
+218,"REM TÜRKİYE, TERAS ÇEKMEKÖY UZMANINDAN MÜTHİŞ 3+1 DAİRE", Çekmeköy, Cumhuriyet Mahallesi,3+1,5-10,9,3. Kat,166,2,0,KombiDoğalgaz,740000
+219,BEYLİKDÜZÜ komşu 1+1 balkonlu site içi ferrah SATILIK DAİRE, Esenyurt, Piri Reis Mahallesi,1+1,0,9,6. Kat,80,1,0,MerkeziDoğalgaz,450000
+220, MİMAR EMLAK'TAN MEHMET AKİFTE TEK DAİRE ÜZERİ 3+1 5.KAT, Küçükçekmece, Mehmet Akif Mahallesi,3+1,11-20,7,5. Kat,140,1,0,KombiDoğalgaz,290000
+221,Ulus Zorlu Center Civarı İçi Komple Dekorlu Satılık Daire, Beşiktaş, Levazım Mahallesi,3+1,11-20,7,5. Kat,165,2,0,KombiDoğalgaz,4500000
+222,Bağcılarda yeni sıfır 2 artı 1 arakat satılık daire, Bağcılar, Kirazlı Mahallesi,2+1,0,4,3. Kat,110,1,0,KombiDoğalgaz,600000
+223, SARAÇ EMLAK TAN 2+1 BAHÇE KATI KREDİYE UYGUN DEĞİL , Bahçelievler, Zafer Mahallesi,2+1,20,5,Bahçe Katı,85,1,0,KombiDoğalgaz,155000
+224, SARAÇ EMLAK TAN 2 KAT 2+1 MASRAFSIZ DAİRE GÜNEY CEPE , Bahçelievler, Zafer Mahallesi,2+1,20,5,2. Kat,90,1,0,KombiDoğalgaz,290000
+225, EYÜP ÇARŞIDA 4+1 160M2 1.KAT KREDİYE UYGUN LÜKS DAİRE, Eyüpsultan, Düğmeciler Mahallesi,4+1,20,3,1. Kat,180,1,0,KombiDoğalgaz,1050000
+226, BEYLİKDÜZÜ'NDE FULL DONANIMA SAHİP ŞIK TASARIMLI ULTRA LÜKS 3+1, Beylikdüzü, Cumhuriyet Mahallesi,3+1,0,15,8. Kat,130,1,0,KombiDoğalgaz,275000
+227, BEYLİKDÜZÜ 'NDE METROBÜSE YÜRÜME MESAFESİNDE LÜKS 3+1 DAİRE !, Beylikdüzü, Yakuplu Mahallesi,3+1,0,4,2. Kat,142,1,0,KombiDoğalgaz,689000
+228," ELZEM YAPI'DAN İSKANLI, ASANSÖRLÜ 2+1 ARAKAT", Sancaktepe, Mevlana Mahallesi,2+1,4,4,2. Kat,95,1,0,KombiDoğalgaz,355000
+229, Avrupa Konutları Atakent 1'de 110m2 Panjurlu 2+1 Satılık Daire, Küçükçekmece, Atakent Mahallesi,2+1,11-20,14,10-20,110,2,0,KombiDoğalgaz,1560000
+230, ÇEVİK'TEN BOSTANCI PARAGON'DA DENİZ MANZARALI 4+1, Kadıköy, Bostancı Mahallesi,4+1,5-10,18,9. Kat,220,2,0,Merkezi(PayÖlçer),5000000
+231,Kayaşehir 12 bölgede satılık tapulu fırsat 2+1 daire, Başakşehir, Kayabaşı Mahallesi,2+1,5-10,13,-1,85,1,0,Merkezi(PayÖlçer),529900
+232,E5  METRO Yakını Fatih cd Yakın Konumda Daire, Bahçelievler, Çobançeşme Mahallesi,2+1,4,4,3. Kat,80,1,0,KombiDoğalgaz,520000
+233,KAĞITHANE MERKEZE YÜRÜME MESAFESİNDE 4+2 SÜPER DUBLEKS DAİRE, Kağıthane, Merkez Mahallesi,4+2,5-10,7,7. Kat,185,2,0,KombiDoğalgaz,900000
+234,ŞAŞKINBAKKALDA BAĞDATA 2.BİNA DENİZ MANZARALI YÜZME HAVUZLU 3+1, Kadıköy, Suadiye Mahallesi,3+1,5-10,17,10-20,135,1,0,Merkezi(PayÖlçer),3800000
+235,BULGURLU'DA 2+1 UYGUN ARA KAT BALKONLU DAİRE, Üsküdar, Cumhuriyet Mahallesi,2+1,20,4,2. Kat,80,1,0,KombiDoğalgaz,579000
+236,Yiğit Emlak Regnum towers 1+1 59 m2 Eşyalı Satılık Daire, Esenyurt, Akevler Mahallesi,1+1,11-20,30,10-20,59,1,0,Merkezi(PayÖlçer),370000
+237,Gaziosmanpaşa Şemsipaşa Mahallesinde Satılık Daireler, Gaziosmanpaşa, Şemsipaşa Mahallesi,1+1,0,5,Bodrum,70,1,0,KombiDoğalgaz,250000
+238, Atakent Mahallesi 2 Etap 50 m2 Kullanımlı 1+1 Satılık, Küçükçekmece, Atakent Mahallesi,1+1,11-20,17,10-20,60,1,1,MerkeziDoğalgaz,530000
+239,BULGURLU'DA 2+1 UYGUN ARA KAT BALKONLU DAİRE, Üsküdar, Cumhuriyet Mahallesi,2+1,20,4,2. Kat,80,1,0,KombiDoğalgaz,579000
+240,Yiğit Emlak Regnum towers 1+1 59 m2 Eşyalı Satılık Daire, Esenyurt, Akevler Mahallesi,1+1,11-20,30,10-20,59,1,0,Merkezi(PayÖlçer),370000
+241,Gaziosmanpaşa Şemsipaşa Mahallesinde Satılık Daireler, Gaziosmanpaşa, Şemsipaşa Mahallesi,1+1,0,5,Bodrum,70,1,0,KombiDoğalgaz,250000
+242, Atakent Mahallesi 2 Etap 50 m2 Kullanımlı 1+1 Satılık, Küçükçekmece, Atakent Mahallesi,1+1,11-20,17,10-20,60,1,1,MerkeziDoğalgaz,530000
+243,ŞEREF EMLAK KARLITEPE MAHAL. GİRİŞ KAT SATILIK DAİRE 270.000 TL, Gaziosmanpaşa, Karlıtepe Mahallesi,2+1,5-10,5,Giriş,80,1,0,KombiDoğalgaz,270000
+244, BAHÇELİEVLER ÇALIŞLAR ÖMÜR ARKASI YATIRIMLIK DAİRE, Bahçelievler, Bahçelievler Mahallesi,3+1,20,4,1. Kat,110,1,0,MerkeziDoğalgaz,950000
+245,Tuzla Park 1 Sitesinde Satılık Yüksek Giriş 3+1 Daire, Tuzla, İstasyon Mahallesi,3+1,5-10,5,Giriş,105,1,0,KombiDoğalgaz,685000
+246,"Next House'dan Beyaz Konaklar'da 2+1 120 M2,Lüx,Fırsat,Daire", Bahçelievler, Siyavuşpaşa Mahallesi,2+1,5-10,5,Giriş,120,1,0,KombiDoğalgaz,829000
+247,DEVLET HASTANESİNE YÜRÜME MESAFESİNDE 2+1 100M2 3.KAT DAİRE, Esenyurt, Bağlarçeşme Mahallesi,2+1,0,5,3. Kat,110,1,0,KombiDoğalgaz,257000
+248, MİMAR EMLAK'TAN MEHMET AKİF'TE GÜNEY CEPHE 2+1 5.KAT, Küçükçekmece, Mehmet Akif Mahallesi,2+1,11-20,7,5. Kat,85,1,0,KombiDoğalgaz,195000
+249,EYÜP ÇIRÇIR ULUDAĞ CADDE 6. KAT 2+1 MANZARALI SATILIK DAİRE, Eyüpsultan, Çırçır Mahallesi,2+1,4,9,7. Kat,110,1,0,KombiDoğalgaz,770000
+250, ÇEVİKTEN ZİVERBEYDE MİNİBÜS CD NE ÇOK YAKIN 1 YAŞINDA 3+1, Kadıköy, Eğitim Mahallesi,3+1,1,12,6. Kat,115,2,0,Merkezi(PayÖlçer),1600000
+251, KÜÇÜKYALI'DA ÇEVİK'TEN BAHÇE KULLANIMLI YENİ BİNADA DUBLEKS, Maltepe, Altıntepe Mahallesi,2+1,5-10,5,Bahçe Katı,90,1,0,Merkezi(PayÖlçer),900000
+252, Atakent 2.Etap'da 95m2 Arenapark'a Yakın 3+1 Satılık Daire, Küçükçekmece, Atakent Mahallesi,3+1,20,17,10-20,120,1,1,Merkezi(PayÖlçer),810000
+253,Çevik Emlak'tan Erenköy'de 2022 Ocak teslim sıfır 2+1, Kadıköy, Erenköy Mahallesi,2+1,0,10,7. Kat,90,1,0,Merkezi(PayÖlçer),1620000
+254,DOĞA PARKINA YÜRÜME MESAFESİNDE SATILIK 2+1 DAİRE, Çekmeköy, Mimar Sinan Mahallesi,2+1,5-10,4,Giriş,80,1,0,KombiDoğalgaz,425000
+255, AVCILAR MERKEZ MH. 2+1 SATILIK  DAİRE, Avcılar, Merkez Mahallesi,2+1,20,4,Giriş,90,1,0,KombiDoğalgaz,350000
+256, AVCILAR CİHANGİR MAHALLESİ SATILIK DAİRE 650 000 TL, Avcılar, Cihangir Mahallesi,2+1,0,4,1. Kat,105,1,0,KombiDoğalgaz,650000
+257,DEPAR'DAN KALAMIŞTA SIFIR İSKANLI FUL DENİZ MANZARALI 5+2 DUBLEX, Kadıköy, Fenerbahçe Mahallesi,5+2,0,10,10-20,350,3,0,KombiDoğalgaz,7800000
+258, AVCILAR CİHANGİRDE 2+1 SATILIK DAİRE , Avcılar, Cihangir Mahallesi,2+1,20,3,3. Kat,90,1,0,KombiDoğalgaz,275000
+259, AVCILAR CİHANGİRDE 2+1 SATILIK DAİRE , Avcılar, Cihangir Mahallesi,2+1,11-20,4,Giriş,70,1,0,KombiDoğalgaz,225000
+260, AVCILAR ÜNİVERSİTE MH. SATILIK 3+1 LÜKS DAİRE 130MT, Avcılar, Üniversite Mahallesi,3+1,0,5,1. Kat,130,2,0,KombiDoğalgaz,800000
+261,PENDİK BATI MAH 2+1 65 m2 NETKULLANIMLI HASTANEYE KOMŞU DAİRE, Pendik, Batı Mahallesi,2+1,0,6,3. Kat,80,1,0,KombiDoğalgaz,680000
+262,PENDİK ÜST KAYNARCA SATILIK 2+1 DAİRE, Pendik, Fevzi Çakmak Mahallesi,2+1,20,5,3. Kat,80,2,0,KombiDoğalgaz,260000
+263,GÜZELYALI E5 ALTINDA KONUMU GÜZEL SATILIK DAİRE, Pendik, Güzelyalı Mahallesi,2+1,11-20,5,5. Kat,110,1,0,KombiDoğalgaz,269500
+264, FIRSATTIR FENERYOLUNDA BAĞDATA 4.BİNA SIFIR GENİŞ 2+1 EBEVEYNLİ, Kadıköy, Feneryolu Mahallesi,2+1,0,8,3. Kat,120,2,0,KombiDoğalgaz,1900000
+265, Avrupa Konutları 1 Sitesinde 126 m2 Satılık 3+1, Küçükçekmece, Atakent Mahallesi,3+1,11-20,14,10-20,126,2,1,KombiDoğalgaz,1830000
+266,Atakent 3.Etap'da Tadilatlı 130m2 548Ada 3+1 Satılık Daire, Küçükçekmece, Atakent Mahallesi,3+1,11-20,6,Giriş,150,1,0,Merkezi(PayÖlçer),1225000
+267," SAHİBİNDEN KARADAĞ (MONTENEGRO) BAR'DA, SATILIK 1+1 DAİRE", Kadıköy, Feneryolu Mahallesi,1+1,0,5,1. Kat,63,1,0,Klimalı,880000
+268," SAHİBİNDEN KARADAĞ (MONTENEGRO) BAR'DA, SATILIK 1+1 DAİRE", Beşiktaş, Etiler Mahallesi,1+1,0,5,Giriş,54,1,0,Klimalı,730000
+269,Atakent 3.Etap'da Tadilatlı 130m2 548Ada 3+1 Satılık Daire, Küçükçekmece, Atakent Mahallesi,3+1,11-20,6,Giriş,150,1,0,Merkezi(PayÖlçer),1225000
+270," SAHİBİNDEN KARADAĞ (MONTENEGRO) BAR'DA, SATILIK 1+1 DAİRE", Kadıköy, Feneryolu Mahallesi,1+1,0,5,1. Kat,63,1,0,Klimalı,880000
+271," SAHİBİNDEN KARADAĞ (MONTENEGRO) BAR'DA, SATILIK 1+1 DAİRE", Beşiktaş, Etiler Mahallesi,1+1,0,5,Giriş,54,1,0,Klimalı,730000
+272,TURYAP ALİBEYKÖY'DEN VADİ PARK SİTESİ 2+1 SATILIK DAİRE, Eyüpsultan, Alibeyköy Mahallesi,2+1,3,11,4. Kat,120,1,0,Merkezi(PayÖlçer),840000
+273,Beylikdüzü Kavaklı Mahallesi Satılık 2+1 Daire, Beylikdüzü, Kavaklı Mahallesi,2+1,2,3,1. Kat,90,1,0,KombiDoğalgaz,550000
+274,Yenibosna Hürriyet mahallesinde satılık 3+1 daire metroya yakın  , Bahçelievler, Hürriyet Mahallesi,3+1,4,5,1. Kat,135,1,0,KombiDoğalgaz,730000
+275," SAHİBİNDEN KARADAĞ (MONTENEGRO) BAR'DA, SATILIK 1+1 DAİRE", Beşiktaş, Bebek Mahallesi,1+1,0,5,Giriş,63,1,0,Klimalı,850000
+276, ÇEKMEKÖY DE SATILIK DAİRE, Çekmeköy, Merkez Mahallesi,2+1,0,6,3. Kat,87,1,0,KombiDoğalgaz,445000
+277, MEYDAN EMLAKTAN ATATÜRK MAHALLESİ SATILIK DUBLEKS METRO YANI, Küçükçekmece, Atatürk Mahallesi,2+2,4,4,Çatı Dubleks,130,2,0,KombiDoğalgaz,480000
+278,METROBÜSE 12 DK BEYLİKDÜZÜ YAKUPLU MAHALLESİNDE BÜYÜK 2+1 DAİRE, Beylikdüzü, Yakuplu Mahallesi,2+1,0,5,2. Kat,110,2,0,KombiDoğalgaz,440000
+279, Atakent Mahallesi 2.Etap Bahçe Kullanımlı 109 m2 3+1 Dubleks, Küçükçekmece, Atakent Mahallesi,3+1,20,4,Bahçe Dublex,120,1,0,MerkeziDoğalgaz,1300000
+280, KOZA EMLAK'TAN KADIKÖY'DE SATILIK DAİRE, Kadıköy, Osmanağa Mahallesi,2+1,20,5,-2,90,1,0,KombiDoğalgaz,800000
+281, FATİH EMLAK TAN KREDİYE UYGUN  3+1 MUHTEŞEM DAİRE  , Bahçelievler, Yenibosna Merkez Mahallesi,3+1,5-10,4,3. Kat,125,1,0,KombiDoğalgaz,625000
+282, GAYRETTEPEDE 3+1 145 m2 4. KAT OTOPARKLI ASANSÖRLÜ ÇİFT BALKONLU, Beşiktaş, Gayrettepe Mahallesi,3+1,20,4,4. Kat,145,1,0,MerkeziDoğalgaz,1600000
+283, Çekmeköy Alemdağ İnci Evleri Sitesi'nde Satılık 3+1 Daire, Çekmeköy, Alemdağ Mahallesi,3+1,11-20,7,Giriş,145,1,0,KombiDoğalgaz,695000
+284, Maltepe Fındıklı'da Kaçırılmayacak Fırsat Satılık 3+1 Daire, Maltepe, Fındıklı Mahallesi,3+1,11-20,4,Bodrum,105,1,0,KombiDoğalgaz,380000
+285, ÇEVİK'TEN KUZGUNCUK SAHİLE 2 DK KAPANMAZ MANZARALI 160M2, Üsküdar, Kuzguncuk Mahallesi,3+1,11-20,6,1. Kat,160,1,0,MerkeziDoğalgaz,3250000
+286, FATİH MAH TÜRKİYE EMLAK 1+1 KREDİLİ 65m BAHCE KAT DAİRE KOD 1927, Esenler, Fatih Mahallesi,1+1,4,4,Bahçe Katı,65,1,0,KombiDoğalgaz,170000
+287,YÜZYIL KIŞLA CADDESİ KÖŞE BAŞI UYGUN, Bağcılar, 100. Yıl Mahallesi,2+1,4,4,4. Kat,150,2,0,KombiDoğalgaz,550000
+288,CEBECİ MAH SATILIK 3+1 DAİRE 135 M, Sultangazi, Cebeci Mahallesi,3+1,11-20,7,1. Kat,140,1,0,KombiDoğalgaz,420000
+289, Atakent 1.Etap 2+1 Sutek'de 87m2 Satılık Daire, Küçükçekmece, Atakent Mahallesi,2+1,20,14,8. Kat,100,1,1,Merkezi(PayÖlçer),680000
+290, FEBA TEK YETLİLİ!KOMPLE ÖZGÜRLÜK PARKIMANZ.3YAŞINDA TERAS DUBLEX, Kadıköy, Göztepe Mahallesi,4+2,3,11,10-20,220,3,0,Merkezi(PayÖlçer),3600000
+291,EGE EMLAKTAN ÇAĞLAYAN MH VATAN CADDE SATILIK 3+1 DAIRE , Kağıthane, Çağlayan Mahallesi,3+1,0,6,5. Kat,120,1,0,KombiDoğalgaz,675000
+292,FAMİLY GAYRİMENKUL DEN SATILIK 2+1 DAİRE , Bahçelievler, Şirinevler Mahallesi,2+1,0,5,Bahçe Katı,80,1,0,KombiDoğalgaz,395000
+293,MASLAK MY HOME FIRSAT SATILIK KELEPİR 1+1, Sarıyer, Ayazağa Mahallesi,1+1,5-10,30,5. Kat,78,1,0,Merkezi(PayÖlçer),1040000
+294,AVANGART İSTANBUL SIFIR SATILIK TAPULU 4+1, Sarıyer, Ayazağa Mahallesi,4+1,0,9,5. Kat,220,1,0,Merkezi(PayÖlçer),4250000
+295,EGE EMLAKTAN ÇAĞLAYAN MH SATILIK 2+1 DAIRE , Kağıthane, Çağlayan Mahallesi,2+1,0,7,3. Kat,110,1,0,KombiDoğalgaz,565000
+296,DEPREM SONRASİ 3+1 135 M2 NET GENİS DAİRE EBEVEYN BANYOLU , Büyükçekmece, Atatürk Mahallesi,3+1,11-20,4,3. Kat,150,2,0,KombiDoğalgaz,640000
+297,"REM TÜRKİYE, YAKACIK AYAZMA'DA EMSALSİZ 6+2 VİLLA", Kartal, Yakacık Çarşı Mahallesi,6+2,5-10,4,Giriş,550,5,0,KombiDoğalgaz,5250000
+298,Kocamustafapaşa Alipaşa caddesi yakınında 2+1 satılık daire, Fatih, Cerrahpaşa Mahallesi,2+1,20,4,3. Kat,100,1,0,KombiDoğalgaz,470000
+299,FAMİLY GAYRİMENKUL MERKEZ MAHALLESİ 120 M2 3+1 SATILIK DAİRE, Bahçelievler, Hürriyet Mahallesi,3+1,11-20,4,4. Kat,130,1,0,KombiDoğalgaz,680000
+300,Şişli Teşvikiye 2+1 85m2 Amerikan Hastanesi Sokağı'AKDERE EMLAK, Şişli, Teşvikiye Mahallesi,2+1,4,5,3. Kat,90,1,0,KombiDoğalgaz,2650000
+301," Next House'dan, Esenler'de, Site İçi, 3+1, 169 M2, Fırsat.", Esenler, Birlik Mahallesi,3+1,0,14,6. Kat,169,2,0,KombiDoğalgaz,985000
+302," Next House'dan Toya Moda'da 1+1 62M2,Fırsat,Daire", Küçükçekmece, Tevfik Bey Mahallesi,1+1,3,12,5. Kat,62,1,1,Merkezi(PayÖlçer),665000
+303, ACIBADEM SAKİNLERE YAKIN 4+1 DUBLEX SIFIR SATILIK, Kadıköy, Acıbadem Mahallesi,4+1,0,5,Çatı Dubleks,220,2,0,KombiDoğalgaz,1850000
+304, ACIBADEM SAKİNLERDE 3+1 ARA KAT DUBLEX SIFIR SATILIK , Kadıköy, Acıbadem Mahallesi,3+1,0,5,1. Kat,120,2,0,KombiDoğalgaz,1225000
+305,BAHÇELİEVLER KOCASİNAN DA 3+1 DAİRE, Bahçelievler, Kocasinan Merkez Mahallesi,3+1,5-10,4,-3,150,1,0,KombiDoğalgaz,870000
+306,Yiğit Emlak Solarkent Sitesi 3+1 138 m2 Satılık Daire, Esenyurt, Akevler Mahallesi,3+1,5-10,30,10-20,138,2,0,KombiDoğalgaz,750000
+307, Bağcılar Mahmutbey Mahallesi Satılık Daire 3+1 Krediye Uygun, Bağcılar, Mahmutbey Mahallesi,3+1,5-10,3,2. Kat,120,1,0,KombiDoğalgaz,650000
+308,İSTANBUL BAHÇELİEVLER KOCASİNAN DA 2+1 SATILIK DAİRE, Bahçelievler, Kocasinan Merkez Mahallesi,2+1,3,4,-3,95,1,0,KombiDoğalgaz,550000
+309,temiz köşe villa, Başakşehir, Bahçeşehir 2. Kısım Mahallesi,4+2,11-20,4,Villa Tipi,360,3,0,KombiDoğalgaz,2450000
+310,BAYRAMPAŞA YILDIRIM MAHALLESİNDE SATILIK DAİRE, Bayrampaşa, Yıldırım Mahallesi,3+1,11-20,5,4. Kat,167,1,0,KombiDoğalgaz,1035000
+311, FATİH MAH TÜRKİYE EMLAK 3+1 4.KAT 134m2 DAİRE KOD 1920, Esenler, Fatih Mahallesi,3+1,20,4,4. Kat,134,2,0,KombiDoğalgaz,395000
+312,BAĞCILARDA SATILIK 2+1 DAİRE, Bağcılar, Kemalpaşa Mahallesi,2+1,3,3,-3,90,1,0,KombiDoğalgaz,330000
+313,SANCAKTEPE YENİDOĞAN MAH. 2+1 115m2 SİTE İÇİ SATILIK GİRİŞ KAT, Sancaktepe, Yenidoğan Mahallesi,2+1,5-10,6,Giriş,105,1,0,KombiDoğalgaz,315000
+314, CB META'DAN SARIYER ZEKERİYAKÖY'DE 5+2 430 m2 VİLLA, Sarıyer, Uskumruköy Mahallesi,5+2,0,4,Villa Tipi,430,5,0,KombiDoğalgaz,12000000
+315, GÖZTEPEDE ÇEVİKTEN BAĞDAT CD YAKIN HAVUZLU RESİDENCE DAİRESİ 3+1, Kadıköy, Göztepe Mahallesi,3+1,5-10,16,1. Kat,135,2,0,KombiDoğalgaz,3200000
+316,EMLAK EVİM'DEN KAT EKSİKLİĞİ AVANTAJLI SATILIK 2+1 DAİRE, Bahçelievler, Çobançeşme Mahallesi,2+1,20,3,2. Kat,85,1,0,KombiDoğalgaz,309000
+317, Güneş Park Evlerinde 195 m2 Satılık 4+1 , Küçükçekmece, Atakent Mahallesi,4+1,11-20,14,10-20,195,2,1,KombiDoğalgaz,2500000
+318,EMLAK EVİM'DEN SEFA HASTANESİ CİVARI SATILIK 2+1 DAİRE, Bahçelievler, Zafer Mahallesi,2+1,11-20,4,2. Kat,93,1,0,KombiDoğalgaz,425000
+319,TEM'DEN CENGİZ TOPEL  CADDESİ'NE PARALEL SOKAKDA 3. KAT ÖNÜ AÇIK, Ümraniye, Esenevler Mahallesi,2+1,11-20,4,3. Kat,95,2,0,KombiDoğalgaz,545000
+320, Bahçelievler UEFA Kupası Yakını Yatırımlık 1600 TL Kiracılı 1+1, Bahçelievler, Siyavuşpaşa Mahallesi,1+1,20,5,Bahçe Katı,65,1,0,IsıtmaYok,165000
+321,SANCAKTEPE YENİDOĞAN CADDE ÜSTÜNDE 2+1 BALKONLU DAİRE, Sancaktepe, Merve Mahallesi,2+1,5-10,4,3. Kat,75,1,0,KombiDoğalgaz,325000
+322,GAZİOSMANPAŞA HÜRRİYET MAHALLESİNDE SATILIK DAİRE, Gaziosmanpaşa, Hürriyet Mahallesi,2+1,20,5,Giriş,100,1,0,KombiDoğalgaz,365000
+323,ŞİŞLİ FULYA CEVAHİR AVM YAKINI 3+1 KOMBİLİ SATILIK DAİRE, Şişli, Fulya Mahallesi,3+1,20,4,2. Kat,106,1,0,KombiDoğalgaz,575000
+324, AYRICALIKLI YAŞAM ARAYANLAR İÇİN ÖZEL VİLLA, Sarıyer, Zekeriyaköy Mahallesi,4+1,2,4,Giriş,435,4,0,YerdenIsıtma,10500000
+325,Çevik Emlaktan Bağdat Caddesine yürüme mesafesinde 240m2 Teraslı , Kadıköy, Göztepe Mahallesi,4+2,5-10,9,9. Kat,240,3,0,Merkezi(PayÖlçer),4850000
+326, METROYA YAKIN TARİFİKOLAY DERYA İŞ MERKEZİNDE KİRACILI OFİS&BÜRO, Kadıköy, Rasimpaşa Mahallesi,1 Oda,20,5,1. Kat,25,0,0,MerkeziDoğalgaz,230000
+327, Bahçelievler Siyavuşpaşa Satılık Bahçekatı 2+1 60 m2 , Bahçelievler, Siyavuşpaşa Mahallesi,1+1,20,5,Bahçe Katı,60,1,0,IsıtmaYok,165000
+328,IG1967 KURTULUŞ 3+1 130 M2 MASRAFSIZ BÜYÜK DAİRE, Şişli, Bozkurt Mahallesi,3+1,20,4,4. Kat,130,1,0,KombiDoğalgaz,680000
+329,TURYAP ALİBEYKÖY'DEN YILDIZPARK MODERN SİTESİ SATILIK 3+1 DAİRE, Gaziosmanpaşa, Yıldıztabya Mahallesi,3+1,1,18,3. Kat,150,2,0,Merkezi(PayÖlçer),1025000
+330, FATİH EMLAK TAN KREDİYE UYGUN 2+1 ASANSÖRLÜ ÇAKMAK DURAGI YAKINI, Bahçelievler, Yenibosna Merkez Mahallesi,2+1,5-10,4,3. Kat,95,1,0,KombiDoğalgaz,495000
+331,AĞAOĞLU MY WORLD EUROPE 3+1 169m2 FULL+LÜKS EŞYALI , Başakşehir, Ziya Gökalp Mahallesi,3+1,4,29,21-29,169,2,1,Merkezi(PayÖlçer),2200000
+332,Bağcılarda satılık Dubleks daire , Bağcılar, Fatih Mahallesi,5+1,20,6,5. Kat,210,2,0,KombiDoğalgaz,520000
+333,BAKIRKÖY Y MAHMARMARAY İST SAHİLE PAZARA YAKIN KOMBİLİ 1.KAT, Bakırköy, Yenimahalle Mahallesi,1+1,20,4,1. Kat,80,1,0,KombiDoğalgaz,520000
+334,PENDİK DUMLUPINAR`DA(GÖZDAĞI)KAPANMAZ DENİZ MANZARALI 4+1 DUBLEX, Pendik, Dumlupınar Mahallesi,4+1,4,9,9. Kat,160,1,0,KombiDoğalgaz,750000
+335,BÜYÜKÇEKMECE AKBELDE ST. SATILIK DAİRE GÖLMANZARALI, Büyükçekmece, Murat Çeşme Mahallesi,3+1,11-20,5,5. Kat,140,1,0,KombiDoğalgaz,440000
+336, ETİLER CENGİZ TOPEL DE KORU MANZARALI BAHÇELİ SATILIK DAİRE, Beşiktaş, Etiler Mahallesi,3+1,20,4,Bahçe Katı,130,1,0,MerkeziDoğalgaz,2600000
+337, Atakent Mahallesi 2 Etap Bahçe Kullanımlı 3+1 Dubleks Daire, Küçükçekmece, Atakent Mahallesi,3+1,11-20,5,Bahçe Katı,140,2,0,Merkezi(PayÖlçer),1300000
+338,Yiğit Emlak Solarkent Sitesi 1+1 72 m2 Satılık Daire, Esenyurt, Akevler Mahallesi,1+1,5-10,30,21-29,72,1,0,KombiDoğalgaz,350000
+339,ÇATALCADA  SATILIK LÜX VİLLA, Çatalca, İzzettin Mahallesi,3+2,11-20,2,Müstakil,250,2,0,KombiDoğalgaz,3500000
+340,ŞİŞLİ MECİDİYEKÖYDE 160m2 3+1 TERASLI KOMBİLİ ASANSÖRLÜ FERAH, Şişli, Mecidiyeköy Mahallesi,3+1,20,7,7. Kat,170,1,0,KombiDoğalgaz,875000
+341,GÖKTAŞ YAPI'DAN NEZİH KONUMDA 3+1 METROBÜSE YAKIN ARA KAT DAİRE!, Esenyurt, Güzelyurt Mahallesi,3+1,0,4,2. Kat,140,1,0,KombiDoğalgaz,320000
+342,GÖKTAŞ YAPI'DAN HAFTANIN KELEPİRİ 2+1 MERKEZDE LÜKS DAİRE !!!!!!, Esenyurt, Ardıçlı Mahallesi,2+1,0,5,Giriş,100,1,0,KombiDoğalgaz,145000
+343,GÖKTAŞ YAPI'DAN HEM UYGUN HEM KALİTELİ 2+1DAİRE FIRSATI SİZLERLE, Esenyurt, İnönü Mahallesi,2+1,0,4,1. Kat,105,1,0,KombiDoğalgaz,190000
+344,BEYLİKDÜZÜ TÜYAP YAKINI DENİZ MANZARALI 3+1 SATILIK DAİRE, Esenyurt, Gökevler Mahallesi,3+1,11-20,9,9. Kat,145,1,0,KombiDoğalgaz,625000
+345, ACIBADEM SAKİNLERDE 2+1 BAHÇE KAT SATILIK DAİRE, Kadıköy, Acıbadem Mahallesi,2+1,2,5,Bahçe Katı,80,1,0,KombiDoğalgaz,600000
+346, ACIBADEM DOĞUŞ ÜNİVERSİTESİNE YAKIN 3+1 SATILIK DAİRE, Kadıköy, Hasanpaşa Mahallesi,3+1,20,4,1. Kat,120,1,0,KombiDoğalgaz,790000
+347,SARAÇ EMLAK TAN KREDİLİ YUKSEK GİRİŞ İÇİNDE KİRACISI HAZIR , Bahçelievler, Zafer Mahallesi,2+1,11-20,4,Giriş,75,1,0,KombiDoğalgaz,240000
+348,Caddebostan ışıklarda Köşe binada tabela değeri yüksek konut, Kadıköy, Caddebostan Mahallesi,3+1,20,5,2. Kat,135,1,0,Merkezi(PayÖlçer),3300000
+349, KURTKÖY GRUP KENT VİLLARINDA İÇİ DIŞI ÖZEL YAPILI SATILIK VİLLA, Pendik, Yenişehir Mahallesi,5+1,20,3,Villa Tipi,355,3,1,KombiDoğalgaz,2200000
+350,Ulus THY Sitesi Satılık 3+1 Bakımlı Daire, Beşiktaş, Ulus Mahallesi,3+1,20,6,Giriş,120,1,0,MerkeziDoğalgaz,1530000
+351,ÇEKMEKÖY MEHMET AKİF'TE SATILIK 3+1 YÜKSEK GİRİŞ BALKONLU DAİRE, Çekmeköy, Mehmet Akif Mahallesi,3+1,5-10,4,Giriş,120,1,0,KombiDoğalgaz,475000
+352,BAKIRKÖY Y MAHMARMARAY İST SAHİLE PAZARA YAKIN  KOMBİLİ GİRİŞKAT, Bakırköy, Yenimahalle Mahallesi,1+1,20,4,Giriş,60,1,0,KombiDoğalgaz,275000
+353,CADDE ÜZERİNDE YENİ BİNA GARAJLI, Şişli, Mecidiyeköy Mahallesi,2+1,1,6,2. Kat,87,1,0,KombiDoğalgaz,700000
+354,"TEŞVİKİYE HÜSREV GEREDEDE ÖNÜ AÇIK, DENİZ MANZARALI 4+1", Şişli, Teşvikiye Mahallesi,4+1,20,6,6. Kat,160,1,0,MerkeziDoğalgaz,3500000
+355,ŞEREF EMLAK SATILIK KULLANISLI DAİRE 265000, Gaziosmanpaşa, Yıldıztabya Mahallesi,1+1,5-10,4,Giriş,70,1,0,KombiDoğalgaz,260000
+356,KİPTAŞ GÖLEVLERİ SATILIK 1+1 DAİRE, Başakşehir, Bahçeşehir 1. Kısım Mahallesi,1+1,0,23,3. Kat,69,1,0,Merkezi(PayÖlçer),490000
+357,ACİL SATILIK İSKANLI ARAKAT ASANSÖRLÜ, Sancaktepe, Eyüp Sultan Mahallesi,2+1,5-10,5,3. Kat,95,2,0,KombiDoğalgaz,485000
+358,CEBECi MAH SATILIK BAHCE KATI, Sultangazi, Cebeci Mahallesi,2+1,11-20,5,Bahçe Katı,95,1,0,KombiDoğalgaz,195000
+359,"İDEALTEPE'DE, SAHİLE YAKIN , 3+1, 135 M2, KEYİFLİ BAHÇE KATI", Maltepe, İdealtepe Mahallesi,3+1,20,5,Bahçe Katı,135,1,0,KombiDoğalgaz,825000
+360,"""""SAHIBINDEN BAĞLARBAŞINDA CADDE ÜZERİNDE 2+1 80M2 3.KAT BALKONLU", Üsküdar, Murat Reis Mahallesi,2+1,20,4,3. Kat,80,1,0,KombiDoğalgaz,405000
+361,IHLAMURDERE CADDE UZERINDE ŞÖMINELIDAİRE , Beşiktaş, Türkali Mahallesi,3+1,20,2,Giriş,120,2,0,KombiDoğalgaz,1500000
+362,BEYLİKDÜZÜ SAHİLDE PANORAMİK DENİZ MANZARALI VİLLA, Beylikdüzü, Gürpınar Mahallesi,7+2,20,2,Villa Tipi,272,4,0,IsıtmaYok,1550000
+363,"İst./FATİH/Dervişali;70m², 2+1, 5/2.kat  Dgz.Sobalı", Fatih, Derviş Ali Mahallesi,2+1,20,5,2. Kat,70,1,0,DoğalgazSobalı,335000
+364,BAKIRKÖY Y MAH MARMARAYA YAKIN 2+190M2 TERS DUBLEKS GİRİŞ VE ÜST, Bakırköy, Yenimahalle Mahallesi,2+1,11-20,3,1. Kat,95,1,0,KombiDoğalgaz,550000
+365,SON FIRSATLAR! PENDİK GÜLLÜBAĞLAR'DA SATILIK 2+1 LÜKS DAİRE, Pendik, Güllü Bağlar Mahallesi,2+1,1,9,8. Kat,105,1,0,Merkezi(PayÖlçer),650000
+366,MEYDAN EMLAKTAN ATAKENT SOYAK OLİMPİYAKENTTE SATILIK VİLLA, Küçükçekmece, Atakent Mahallesi,5+2,11-20,2,Villa Tipi,350,2,0,MerkeziDoğalgaz,7100000
+367,SON FIRSATLAR! PENDİK TE  SATILIK  SİTE İÇİNDE 2+1 SİTE  DAİRESİ, Pendik, Güllü Bağlar Mahallesi,2+1,0,9,7. Kat,160,1,0,Merkezi(PayÖlçer),599000
+368,KOZA EMLAK'TAN 3+1 ÜSKÜDAR BAĞLARBAŞINDA SATILIK DAİRE, Üsküdar, Murat Reis Mahallesi,3+1,20,4,Bodrum,105,1,0,KombiDoğalgaz,400000
+369,ÇATALCA ELBASANDA SATILIK İKİ ADET VİLLA, Çatalca, Elbasan Mahallesi,5+1,0,2,Villa Tipi,2100,2,0,KombiDoğalgaz,7000000
+370,RİNGS AVM YAKININDA İÇİNDE HAZIR KİRACILI 3+1 120M2 LÜX DAİRE , Sancaktepe, Safa Mahallesi,3+1,0,4,3. Kat,120,2,0,KombiDoğalgaz,445000
+371,Esenyurt cumhuriyet durağına 12 dk mesafede 2+1 satılık daire, Esenyurt, Piri Reis Mahallesi,2+1,2,12,3. Kat,102,1,0,MerkeziDoğalgaz,350000
+372,BAKIRKÖY SAKIZAĞACI MAH 3+1 KOMBİLİ KENDİNE AYİT BAHCELİ 115 M2, Bakırköy, Sakızağacı Mahallesi,3+1,20,5,-2,120,1,0,KombiDoğalgaz,650000
+373,Çatalca Kabakçada yeni havalanına yakın lüx villa, Çatalca, Kabakça Mahallesi,3+1,1,1,Giriş,1400,2,0,Klimalı,3500000
+374,BULVAR İSTANBUL  DA TAPULU MUHTEŞEM MANZARALI 4+1 DAİRE, Başakşehir, Başakşehir Mahallesi,4+1,1,30,10-20,205,3,0,Merkezi(PayÖlçer),2490000
+375,"  İst./FATİH/Draman Cad.; 2+1, 80m², 5/4.S.kt, Kombili", Fatih, Derviş Ali Mahallesi,2+1,20,5,4. Kat,80,1,0,KombiDoğalgaz,300000
+376, Mertcan dan Hürriyet Mah 3+1 Balkonlu Kaçırılmaz Fırsat Satılık, Kartal, Hürriyet Mahallesi,3+1,1,8,7. Kat,120,1,0,KombiDoğalgaz,575000
+377,AKBAYIRLAR'DAN GÜMÜŞPINAR'DA 3+1 125M2 İSKANLI SATILIK DAİRE, Kartal, Gümüşpınar Mahallesi,3+1,2,5,5. Kat,125,1,0,KombiDoğalgaz,699000
+378, YAKUPLU'DA REAL YAPI FARKI İLE ARTIK EV SAHİBİ OLABİLİESİNİZ !, Beylikdüzü, Yakuplu Mahallesi,3+1,0,5,3. Kat,132,1,0,KombiDoğalgaz,216000
+379, BEYLİKDÜZÜ'NDE METROBÜSE YÜRÜME MESAFELİ LÜX 2+1 DUBLEX DAİRE, Beylikdüzü, Yakuplu Mahallesi,2+1,0,6,2. Kat,135,2,0,KombiDoğalgaz,400000
+380, DÖNÜŞÜM'DEN FIRSAT! KAÇMAZ GÜNEY CEPHE 3+1 SATILIK DAİRE, Pendik, Şeyhli Mahallesi,3+1,5-10,6,5. Kat,125,2,0,KombiDoğalgaz,545000
+381, MARİN İNŞAAT'TAN METROBÜSE YAKIN YATIRIM İÇİN BİRE BİR DAİRELER!, Esenyurt, Güzelyurt Mahallesi,2+1,2,5,1. Kat,110,1,0,KombiDoğalgaz,193000
+382, REAL YAPI İLE İNANILMAZ AMA GERÇEK FİYATLAR SİZLERLE !!, Beylikdüzü, Beylikdüzü OSB Mahallesi,3+1,0,7,3. Kat,135,1,0,KombiDoğalgaz,193000
+383, VİLLA FOR SALE İN BEYLİKDÜZÜ 5+2 WİTH İNDEPENDANT PRİVATE POOL, Beylikdüzü, Sahil Mahallesi,5+2,0,3,Villa Tipi,365,5,0,KombiDoğalgaz,5000000
+384, BAHÇELİEVLER CUMHURİYET MAH ÇİFT CEPHELİ 2+1 BAHÇEKAT DAİRE, Bahçelievler, Cumhuriyet Mahallesi,2+1,11-20,4,Bahçe Katı,85,1,0,KombiDoğalgaz,280000
+385, maltepe satılık daire adatepe sahilde kombili 1+1 otoparklı, Maltepe, Feyzullah Mahallesi,1+1,20,4,Giriş,55,1,0,KombiDoğalgaz,258000
+386, ESENYURT İNCİRTEPE'DE 2+1 ACİL SATILIK BAHÇE KATI DAİRE, Esenyurt, İncirtepe Mahallesi,2+1,5-10,5,Bahçe Katı,125,1,0,KombiDoğalgaz,185000
+387, Mertcandan kurtköy mah sıfır binada 2+1 daire, Pendik, Kurtköy Mahallesi,2+1,0,9,1. Kat,95,1,0,KombiDoğalgaz,525000
+388, BEYLİKDÜZÜ ALBAYRAK'TAN METROBÜSE YAKIN ŞIK TASARIMLI 2+1 DAİRE, Beylikdüzü, Yakuplu Mahallesi,2+1,3,6,Giriş,100,1,0,KombiDoğalgaz,305000
+389,Sahibinden  YAKUPLU'DA SAHİBİNDEN SIFIRA YAKIN DAİRE, Beylikdüzü, Yakuplu Mahallesi,2+1,5-10,5,4. Kat,100,1,0,KombiDoğalgaz,500000
+390, İNÖNÜDE METROYA ÇOK YAKIN KELEPİR 3+1, Ataşehir, İnönü Mahallesi,3+1,11-20,5,Giriş,115,1,0,KombiDoğalgaz,429000
+391, İÇERENKÖYDE DEPREM YÖNETMENLİKLİ 3+1 İSKANLI , Ataşehir, İçerenköy Mahallesi,3+1,5-10,5,4. Kat,130,1,0,KombiDoğalgaz,910000
+392, GÜNGÖREN DE SIFIR  BİNA DA  50M2 1+1  SATILIK  BAHÇE  KATLARI , Güngören, Haznedar Mahallesi,1+1,0,4,Bahçe Katı,50,1,0,KombiDoğalgaz,360000
+393, Küçükyalı Mektep Cd Bahçe Kullanımlı 2+1, Maltepe, Küçükyalı Mahallesi,2+1,20,4,Giriş,100,1,0,KombiDoğalgaz,375000
+394," ESENYURT YEŞİLKENT MAH, SIFIR KELEPİR 2+1 SATILIK BAHÇE KATI ", Esenyurt, Yeşilkent Mahallesi,2+1,0,5,Bahçe Katı,95,1,0,KombiDoğalgaz,180000
+395, DESTAN-519-FATİH-K.M.PAŞA-SAĞLIK OCAĞI CİVARI-2+1-70M2, Fatih, Sümbül Efendi Mahallesi,2+1,20,5,3. Kat,70,1,0,KombiDoğalgaz,320000
+396, ESENYURT YEŞİLKENT MH. AMERİKAN MUTFAK BAHÇE KATI , Esenyurt, Yeşilkent Mahallesi,2+1,4,6,Bahçe Katı,95,1,0,KombiDoğalgaz,185000
+397, DERYADİLDE Y.GİRİŞ  KÖŞE FERAH  2+1 TEMİZ KİRACILI DAİRE, Beşiktaş, Muradiye Mahallesi,2+1,20,5,Giriş,75,1,0,KombiDoğalgaz,650000
+398, Pendik Fevzi Çakmak Mahallesin' de Satılık 2+1 Daire, Pendik, Fevzi Çakmak Mahallesi,2+1,11-20,5,4. Kat,110,1,0,KombiDoğalgaz,330000
+399,KARTAL'DA 3+1 2.KAT SATILIK DAİRE, Kartal, Yalı Mahallesi,3+1,11-20,5,2. Kat,120,1,0,KombiDoğalgaz,580000
+400,Sahibinden acil satılık 3+1 yüksek giriş daire, Esenyurt, Saadetdere Mahallesi,3+1,4,6,Giriş,110,1,0,KombiDoğalgaz,395000
+401, BARIŞ'TAN TEPEÜSTÜ MERKEZDE SATILIK KREDİYE UYGUN 2+1 DAİRE, Küçükçekmece, Cumhuriyet Mahallesi,2+1,20,4,3. Kat,100,1,0,KombiDoğalgaz,415000
+402, BEYLİKDÜZÜ BAŞKENT YAPI'DAN CADDE ÜZERİ SATILIK 3+1 DAİRE, Beylikdüzü, Cumhuriyet Mahallesi,3+1,1,5,3. Kat,165,2,0,KombiDoğalgaz,569000
+403, BEYLİKDÜZÜ BAŞKENT YAPI'DAN METROBÜSE 6DK SİTE İÇİ 1+1 DAİRE, Beylikdüzü, Cumhuriyet Mahallesi,1+1,1,13,10-20,83,1,0,KombiDoğalgaz,399000
+404, Mertcandan yayalar mah açık balkonlu 3+1 daire, Pendik, Yayalar Mahallesi,3+1,5-10,4,-1,120,1,1,KombiDoğalgaz,675000
+405, YENİDOĞAN MERKEZ SAFA MAH. 2+1 ARAKAT ACİLL SATILIK DAİRE, Sancaktepe, Safa Mahallesi,2+1,11-20,7,2. Kat,100,1,0,KombiDoğalgaz,315000
+406, BEYLİKDÜZÜ BAŞKENT YAPI'DAN METROBÜSE 8DK OTOPARKLI 2+1 DAİRE, Beylikdüzü, Cumhuriyet Mahallesi,2+1,1,5,3. Kat,115,2,0,KombiDoğalgaz,459000
+407, ÜLKEM'DEN FATİH MAH FULL GÖL DENİZ MAZARALI REZİDANSTA 2+1 DAİRE, Küçükçekmece, Fatih Mahallesi,2+1,0,14,10-20,130,1,0,KombiDoğalgaz,1150000
+408, Mertcandan velibaba mah açık balkonlu 3+1 fırsat daire, Pendik, Velibaba Mahallesi,3+1,5-10,3,-1,135,1,0,KombiDoğalgaz,485000
+409, AVCILAR GÜMÜŞPALA DA SATILIK 2+4 DUBLEKS DAİRE, Avcılar, Gümüşpala Mahallesi,4+2,11-20,3,3. Kat,190,2,0,KombiDoğalgaz,1195000
+410,شقق مميزة بمساحة كبيره بأقساط لمدة 60 شهردفعة اولى%35, Esenyurt, Cumhuriyet Mahallesi,2+1,0,12,7. Kat,125,2,0,KombiDoğalgaz,279000
+411, Dikilitaş Merkezde 2+1 Kombili Komple Yenilenmiş Krediye Uygun, Beşiktaş, Dikilitaş Mahallesi,2+1,20,4,4. Kat,90,1,0,KombiDoğalgaz,850000
+412, Mertcandan Cumhuriyet Mah Ebeveyn Banyolu 3+1 İskanlı Lüks Daire, Kartal, Cumhuriyet Mahallesi,3+1,5-10,8,5. Kat,170,1,0,KombiDoğalgaz,825000
+413,SERKAN YANDIK TAN BERRAK SİTESİ 1 NCİ ARAKAT ÖZEL DAİRE, Pendik, Harmandere Mahallesi,3+1,11-20,9,1. Kat,145,2,0,KombiDoğalgaz,647500
+414,SERKAN YANDIK TAN BERRAK SİTESİNDE ÖZEL YAPIM GÜNEY BATI DAİRE, Pendik, Harmandere Mahallesi,3+1,11-20,9,8. Kat,145,2,0,KombiDoğalgaz,682500
+415,SERKAN YANDIK TAN BERRAK SİTESİNDE ARA KAT ÖZEL YAPIM DAİRE, Pendik, Harmandere Mahallesi,3+1,11-20,9,7. Kat,145,2,0,KombiDoğalgaz,679000
+416, Göktürk'te merkezi konum sitede içi yenilenmiş 2+1 120m2 arakat, Eyüpsultan, Göktürk Merkez Mahallesi,2+1,5-10,5,3. Kat,120,2,0,Merkezi(PayÖlçer),1795000
+417,ÇEKMEKÖY CUMHURİYET MH MERKEZİ LOKASYONDA ANA CADDEYE YAKIN 1+1, Çekmeköy, Cumhuriyet Mahallesi,1+1,4,6,Bahçe Katı,65,1,0,KombiDoğalgaz,185000
+418, GÜNGÖREN DE SIFIR BİNA DA 70M2 2+1 SATILIK DAİRE, Güngören, Haznedar Mahallesi,2+1,0,4,3. Kat,70,1,0,KombiDoğalgaz,820000
+419, İÇERENKÖYDE DEPREM YÖNETMENLİKLİ 3+1 İSKANLI , Ataşehir, İçerenköy Mahallesi,3+1,5-10,5,4. Kat,130,1,0,KombiDoğalgaz,910000
+420, GÜNGÖREN DE SIFIR  BİNA DA  50M2 1+1  SATILIK  BAHÇE  KATLARI , Güngören, Haznedar Mahallesi,1+1,0,4,Bahçe Katı,50,1,0,KombiDoğalgaz,360000
+421, Küçükyalı Mektep Cd Bahçe Kullanımlı 2+1, Maltepe, Küçükyalı Mahallesi,2+1,20,4,Giriş,100,1,0,KombiDoğalgaz,375000
+422,TURYAP TAÇTAN AVCILAR AMBARLI MERKEZİ YERDE 3+1 135 M2 DAİRE, Avcılar, Ambarlı Mahallesi,3+1,20,5,3. Kat,135,1,0,KombiDoğalgaz,390000
+423,KAYAŞEHİR FENERTEPE 13. BÖLGE SATILIK VADİ MANZARALI 1+1 DAİRE, Başakşehir, Kayabaşı Mahallesi,1+1,5-10,3,Giriş,48,1,0,Merkezi(PayÖlçer),350000
+424, DESTAN-519-FATİH-K.M.PAŞA-SAĞLIK OCAĞI CİVARI-2+1-70M2, Fatih, Sümbül Efendi Mahallesi,2+1,20,5,3. Kat,70,1,0,KombiDoğalgaz,320000
+425, ESENYURT YEŞİLKENT MH. AMERİKAN MUTFAK BAHÇE KATI , Esenyurt, Yeşilkent Mahallesi,2+1,4,6,Bahçe Katı,95,1,0,KombiDoğalgaz,185000
+426, DERYADİLDE Y.GİRİŞ  KÖŞE FERAH  2+1 TEMİZ KİRACILI DAİRE, Beşiktaş, Muradiye Mahallesi,2+1,20,5,Giriş,75,1,0,KombiDoğalgaz,650000
+427,Tema İstanbul'da 2+1 151m2 Satılık Bahçe Katı, Küçükçekmece, Atakent Mahallesi,2+1,5-10,9,Bahçe Katı,151,2,0,Merkezi(PayÖlçer),3000000
+428,çok temiz harika konum , Başakşehir, Bahçeşehir 2. Kısım Mahallesi,5+2,11-20,4,Villa Tipi,400,4,0,KombiDoğalgaz,2250000
+429, ÜNALAN MERKEZDE SATILIK 2+1 DAİRE, Üsküdar, Ünalan Mahallesi,2+1,0,3,2. Kat,80,1,0,KombiDoğalgaz,495000
+430,ÖNAL GAYRİMENKULDEN SATILIK 2+1 ÜST DUBLEKS, Sancaktepe, İnönü Mahallesi,2+1,5-10,4,Çatı Katı,120,1,0,KombiDoğalgaz,430000
+431,Soyak Park Aparts 2+1 72m2 Göl Manzaralı Satılık Daire, Küçükçekmece, Atakent Mahallesi,2+1,5-10,15,10-20,72,1,0,Merkezi(PayÖlçer),690000
+432, Pendik Fevzi Çakmak Mahallesin' de Satılık 2+1 Daire, Pendik, Fevzi Çakmak Mahallesi,2+1,11-20,5,4. Kat,110,1,0,KombiDoğalgaz,330000
+433,MERDİVENKÖY MEDİCAL PARK ARKASI 3+1 125 M2, Kadıköy, Sahrayı Cedit Mahallesi,3+1,11-20,10,4. Kat,125,1,0,KombiDoğalgaz,950000
+434,KARTAL'DA 3+1 2.KAT SATILIK DAİRE, Kartal, Yalı Mahallesi,3+1,11-20,5,2. Kat,120,1,0,KombiDoğalgaz,580000
+435, Mertcandan kavakpınar mah 3+1 geniş fırsat açık balkonlu daire, Pendik, Kavakpınar Mahallesi,3+1,2,9,4. Kat,105,1,0,KombiDoğalgaz,560000
+436,Sahibinden acil satılık 3+1 yüksek giriş daire, Esenyurt, Saadetdere Mahallesi,3+1,4,6,Giriş,110,1,0,KombiDoğalgaz,395000
+437, BARIŞ'TAN TEPEÜSTÜ MERKEZDE SATILIK KREDİYE UYGUN 2+1 DAİRE, Küçükçekmece, Cumhuriyet Mahallesi,2+1,20,4,3. Kat,100,1,0,KombiDoğalgaz,415000
+438, BEYLİKDÜZÜ BAŞKENT YAPI'DAN CADDE ÜZERİ SATILIK 3+1 DAİRE, Beylikdüzü, Cumhuriyet Mahallesi,3+1,1,5,3. Kat,165,2,0,KombiDoğalgaz,569000
+439, BEYLİKDÜZÜ BAŞKENT YAPI'DAN METROBÜSE 6DK SİTE İÇİ 1+1 DAİRE, Beylikdüzü, Cumhuriyet Mahallesi,1+1,1,13,10-20,83,1,0,KombiDoğalgaz,399000
+440, YENİDOĞAN MERKEZ SAFA MAH. 2+1 ARAKAT ACİLL SATILIK DAİRE, Sancaktepe, Safa Mahallesi,2+1,11-20,7,2. Kat,100,1,0,KombiDoğalgaz,315000
+441, BEYLİKDÜZÜ BAŞKENT YAPI'DAN METROBÜSE 8DK OTOPARKLI 2+1 DAİRE, Beylikdüzü, Cumhuriyet Mahallesi,2+1,1,5,3. Kat,115,2,0,KombiDoğalgaz,459000
+442, ÜLKEM'DEN FATİH MAH FULL GÖL DENİZ MAZARALI REZİDANSTA 2+1 DAİRE, Küçükçekmece, Fatih Mahallesi,2+1,0,14,10-20,130,1,0,KombiDoğalgaz,1150000
+443, AVCILAR GÜMÜŞPALA DA SATILIK 2+4 DUBLEKS DAİRE, Avcılar, Gümüşpala Mahallesi,4+2,11-20,3,3. Kat,190,2,0,KombiDoğalgaz,1195000
+444,شقق مميزة بمساحة كبيره بأقساط لمدة 60 شهردفعة اولى%35, Esenyurt, Cumhuriyet Mahallesi,2+1,0,12,7. Kat,125,2,0,KombiDoğalgaz,279000
+445, Dikilitaş Merkezde 2+1 Kombili Komple Yenilenmiş Krediye Uygun, Beşiktaş, Dikilitaş Mahallesi,2+1,20,4,4. Kat,90,1,0,KombiDoğalgaz,850000
+446,SERKAN YANDIK TAN BERRAK SİTESİ 1 NCİ ARAKAT ÖZEL DAİRE, Pendik, Harmandere Mahallesi,3+1,11-20,9,1. Kat,145,2,0,KombiDoğalgaz,647500
+447,SERKAN YANDIK TAN BERRAK SİTESİNDE ÖZEL YAPIM GÜNEY BATI DAİRE, Pendik, Harmandere Mahallesi,3+1,11-20,9,8. Kat,145,2,0,KombiDoğalgaz,682500
+448, AVCILAR CIHANGIR MAH. 2+1 LUX DAIRE FIRSATLARI RUZGAR YAPI'DA!!, Avcılar, Cihangir Mahallesi,2+1,1,6,4. Kat,110,1,0,KombiDoğalgaz,179000
+449, SANCAKTEPE YUNUSEMRE MAH 2+1 ÇATI DUBLEKS SESTİNİ GAYRİMENKUL DE, Sancaktepe, Yunus Emre Mahallesi,2+1,2,3,Çatı Dubleks,110,1,0,KombiDoğalgaz,365000
+450, BEYLİKDÜZÜNDE MERKEZİ KONUMDA BAHÇELİ 2+1 DAİRE FIRSATI!!!, Beylikdüzü, Kavaklı Mahallesi,2+1,4,5,Bahçe Katı,105,1,0,DoğalgazSobalı,349000
+451, BEYLİKDÜZÜ RÜZGAR YAPI'DAN METROBÜSÜN DİBİNDE 3+1 LUX DAİRELER!, Beylikdüzü, Cumhuriyet Mahallesi,3+1,2,7,6. Kat,130,2,0,KombiDoğalgaz,299000
+452,KARTAL DENİZ MANZARALI 3.KAT 120m2 KREDİYE UYGUN KOMBİ BALKON, Kartal, Kordonboyu Mahallesi,2+1,20,4,3. Kat,115,2,0,KombiDoğalgaz,805000
+453,CUMHURİYET BEYLİFE CİTY DENİZ MANZ EŞYALI SATILIK DUBLEX 5+2, Beylikdüzü, Cumhuriyet Mahallesi,5+2,4,14,10-20,320,4,0,Merkezi(PayÖlçer),2300000
+454,NECİP FAZIL'DA İSKANLI YENİ BİNADA GENİŞ ..2+1.. DAİRE..!, Sultanbeyli, Necip Fazıl Mahallesi,2+1,1,5,Giriş,100,1,0,KombiDoğalgaz,270000
+455,DEMİR İNŞAAT GAYRİMENKULDEN 50.YILDA 2+1 90M2 YÜKSEK GİRİŞ, Sultangazi, 50. Yıl Mahallesi,2+1,11-20,5,Giriş,95,1,0,KombiDoğalgaz,349000
+456,(Yeditepe Aras) Yüksek Kira Getirili 7Tepe Ünv. Yanı 4+1 Dublex, Ataşehir, İnönü Mahallesi,4+1,5-10,5,4. Kat,150,2,0,KombiDoğalgaz,850000
+457,BEYLİKDÜZÜ BÖLGESİNİN EN LÜX VİLLA PROJESİ SATIŞA BAŞLAMIŞTIR..., Beylikdüzü, Kavaklı Mahallesi,5+2,0,3,Giriş,450,5,0,YerdenIsıtma,5250000
+458,EMLAK KONUT BAŞAKŞEHİR EVLERİ BAHÇE KULLANIMLI 2+1 ÜÇ CEPHELİ, Başakşehir, Kayabaşı Mahallesi,2+1,4,9,Giriş,109,2,0,Merkezi(PayÖlçer),1070000
+459,AVANGART İSTANBUL 16.875 TL TAKSİTLE SATILIK 3+1 DAİRE, Kağıthane, Seyrantepe Mahallesi,3+1,0,12,6. Kat,130,2,0,Merkezi(PayÖlçer),3258000
+460,Küçükyalı Altıntepede 3 yıllık binada 60m2 kombili 1+1 otoparklı, Maltepe, Altıntepe Mahallesi,1+1,3,4,Giriş,60,1,0,KombiDoğalgaz,595000
+461,YAMAN'DAN SÖĞÜTLÜÇEŞME'DE CADDE ÜZERİ 3+1 150 M2 BAKIMLI DAİRE, Küçükçekmece, Söğütlü Çeşme Mahallesi,3+1,20,3,1. Kat,150,1,0,KombiDoğalgaz,525000
+462,SARIYER ZÜMRÜTEVLER DE KAT MÜLKİYETLİ ACİL SATILIK 2+1 DAİRE, Sarıyer, Merkez Mahallesi,2+1,20,4,1. Kat,85,1,0,KombiDoğalgaz,620000
+463,MAHAL SANCAKTEPE SİTESİ TEK YETKİLİ SATIŞ OFİSİNDEN SATILIK 3+1, Sancaktepe, Osmangazi Mahallesi,3+1,5-10,9,2. Kat,127,2,0,Merkezi(PayÖlçer),895000
+464,BİRLİK'DEN İÇİ YAPILI BALKONLU GENİŞ 2+1 105 m2 KAÇIRAN ÜZÜLÜRR, Üsküdar, Valide-i Atik Mahallesi,2+1,20,4,2. Kat,120,1,0,KombiDoğalgaz,600000
+465,ESER YAPIDAN SATILIK3+1 120M2 BALKONLU ARAKAT GİBİ YUKSEK GİRİŞ, Başakşehir, Altınşehir Mahallesi,3+1,0,3,1. Kat,125,1,0,KombiDoğalgaz,520000
+466,SARIYER TERRACE BAHÇE DE 3+1 SATILIK BAHÇE DUBLEKS, Sarıyer, Zekeriyaköy Mahallesi,3+1,5-10,4,Bahçe Katı,200,2,0,Merkezi(PayÖlçer),2750000
+467, DORELİFE SİTESİNDE SATILIK 1+1 GİRİŞ KAT DAİRE HALİL GÜLER, Sancaktepe, Emek Mahallesi,1+1,4,9,Giriş,68,1,1,Merkezi(PayÖlçer),349000
+468,KAĞITHANE NEF 08 REZİDANCE DE SATILIK DAİRE, Kağıthane, Çağlayan Mahallesi,2+1,1,15,1. Kat,87,1,0,MerkeziDoğalgaz,679000
+469,JOKER GAYRİMENKUL YENİŞEHİR GRUPKENT VİLLALARI ÖZEL YAPIM, Pendik, Yenişehir Mahallesi,3+2,11-20,4,Giriş,300,3,0,KombiDoğalgaz,2570000
+470, MİMAR EMLAK'TAN MEHMET AKİFTE TEK DAİRE ÜZERİ 3+1 3.KAT, Küçükçekmece, Mehmet Akif Mahallesi,3+1,11-20,6,3. Kat,145,1,0,KombiDoğalgaz,370000
+471, Çağlayan Mahallesinde 2+1 Satılık BAHÇE KATI , Kağıthane, Çağlayan Mahallesi,2+1,4,6,Bahçe Katı,75,1,0,KombiDoğalgaz,310000
+472,ÜMRANİYE MADENLER DE ÇOK ŞIK GİRİŞ SATILIK DAİRE, Ümraniye, Madenler Mahallesi,2+1,2,5,Giriş,80,1,0,KombiDoğalgaz,487500
+473,AVRUPA EMLAK'DAN ÇATALCA DEVLET HASTANESİNİN YANINDA ARA KAT 2+1, Çatalca, Ferhatpaşa Mahallesi,2+1,5-10,5,3. Kat,105,1,0,KombiDoğalgaz,460000
+474,GOLD EMLAK'TAN EYÜP BİNEVLER'DE METRONUN DİBİNDE 5+1 DUBLEKS, Eyüpsultan, Karadolap Mahallesi,5+1,11-20,5,5. Kat,175,2,0,KombiDoğalgaz,1330000
+475,GOLD EMLAK'TAN EYÜP GÜZELTEPE'DE SIFIR 4+1 SATILIK DUBLEKS, Eyüpsultan, Güzeltepe Mahallesi,4+1,0,3,3. Kat,155,2,0,KombiDoğalgaz,800000
+476, BAHÇELİEVLER ÇALIŞLAR CADDESİ'NE İKİNCİ BİNA 125M² LÜX 3+1 DAİRE, Bahçelievler, Bahçelievler Mahallesi,3+1,0,4,2. Kat,125,2,0,KombiDoğalgaz,2150000
+477, Mertcandan şeyhli mah iskanlı 3+1 daire, Pendik, Şeyhli Mahallesi,2+1,3,6,2. Kat,120,1,0,KombiDoğalgaz,560000
+478, Mertcandan şeyhli mah iskanlı 3+1 daire, Pendik, Şeyhli Mahallesi,2+1,3,6,2. Kat,120,1,0,KombiDoğalgaz,560000
+479, ESENYURT  PINAR  MAHALLESİNDE  SATILIK  3+1  DAİRE, Esenyurt, Pınar Mahallesi,3+1,0,6,3. Kat,120,1,0,KombiDoğalgaz,420000
+480, İNÖNÜ MAHALLSİNDE CADDE ÜZERİ KULLANIŞLI 1+1 SATILIK DAİRE , Esenyurt, İnönü Mahallesi,1+1,5-10,5,Giriş,85,1,0,KombiDoğalgaz,265000
+481, ERENKÖY BAĞDAT DİVANA YAKIN 2+1 ÇİFT BALKONLU 90M2 NET, Kadıköy, Erenköy Mahallesi,2+1,20,5,Giriş,115,1,0,MerkeziDoğalgaz,1350000
+482, Mertcandan şeyhli mah açık balkonlu ebeveyn banyolu 3+1 daire, Pendik, Şeyhli Mahallesi,3+1,0,7,1. Kat,125,2,0,KombiDoğalgaz,699000
+483, CUMHURİYET MAH'DE 3+1 SATILIK 115 M2 LÜKS ARAKAT DAİRE, Küçükçekmece, Cumhuriyet Mahallesi,3+1,0,9,4. Kat,115,1,0,Merkezi(PayÖlçer),775000
+484, AKBAYIRLAR'DAN GÜMÜŞPINAR'DA SATILIK 3+1 150M2 İSKANLI LÜX DAİRE, Kartal, Gümüşpınar Mahallesi,3+1,5-10,8,8. Kat,150,1,0,KombiDoğalgaz,750000
+485, BEYLİLDÜZÜ PAPATYA RESİDENCE 2 STÜDYO TARZI 1+1, Esenyurt, Barbaros Hayrettin Paşa Mahallesi,1+1,5-10,15,4. Kat,74,1,1,Merkezi(PayÖlçer),340000
+486,BEGÜMDEN GÖZTEPE'DE KAPANMAZ MANZ. 2020 YAPIMI 100M2 2+1, Kadıköy, Merdivenköy Mahallesi,2+1,0,14,10-20,110,1,0,KombiDoğalgaz,1250000
+487," BÜYÜKYALI İSTANBUL’DA DENİZ MANZARALI 3,5+1 SATILIK LÜKS DAİRE", Zeytinburnu, Kazlıçeşme Mahallesi,3+1,1,17,10-20,220,3,1,Merkezi(PayÖlçer),20000000
+488,ÇEKMEKÖY ÇATALMEŞE MAH DE SATILIK DUBLEKS DAİRE 3 + 2, Çekmeköy, Çatalmeşe Mahallesi,3+2,4,5,5. Kat,160,2,0,KombiDoğalgaz,735000
+489, ÜMRANİYE ARMAĞAN EVLER MAHALLESİNDE 6 YILLIK BİNADA 2+1 KOMBİLİ, Ümraniye, Armağanevler Mahallesi,2+1,5-10,6,2. Kat,95,1,0,KombiDoğalgaz,500000
+490, HAYPARK SATIŞ OFİSİNDEN KOMİSYONSUZ 3+1 BAHÇELİ LOFT DAİRE, Çekmeköy, Taşdelen Mahallesi,3+1,0,9,1. Kat,210,2,0,KombiDoğalgaz,1229000
+491,SULTANİYE MAHALLESİNDE KUPON 2+1 SATILIK DAİRE , Esenyurt, Sultaniye Mahallesi,2+1,0,5,1. Kat,110,1,0,KombiDoğalgaz,370000
+492,ÇİFTEHAVUZLAR BAĞDAT CAD.YAKIN 5 YILLIK BİNADA KOMBİLİ 4+1, Kadıköy, Göztepe Mahallesi,4+1,5-10,9,7. Kat,175,2,0,Merkezi(PayÖlçer),3985000
+493,ÇİFTEHAVUZLAR'DA 7/24 GÜVENLİKLİ SİTEDE OYUN PARKLI LÜX 4+1, Kadıköy, Göztepe Mahallesi,4+1,20,17,7. Kat,220,3,0,Merkezi(PayÖlçer),3585000
+494,GÜLTEPEDE ÇİFT BALKONLU KISA KATLI BİNADA SATILIK 2+1 DAİRE, Küçükçekmece, Gültepe Mahallesi,2+1,20,5,2. Kat,90,1,0,KombiDoğalgaz,550000
+495,VADİSTANBUL TERAS SİTESİNDE 3+1 SATILIK DAİRE ORMAN MANZARALI, Sarıyer, Ayazağa Mahallesi,3+1,5-10,10,5. Kat,170,2,0,MerkeziDoğalgaz,4500000
+496,POİNT'DEN SULTAN MURAT MH. SATILIK ÖN CEPHE 2+1 DAİREE, Küçükçekmece, Sultan Murat Mahallesi,2+1,4,3,1. Kat,110,1,0,KombiDoğalgaz,560000
+497,POİNT'DEN YEŞİLOVA MH.SATILIK ÖN CEPHE 2+1YÜKSEK GİRİŞ DAİRE!, Küçükçekmece, Yeşilova Mahallesi,2+1,2,4,Giriş,90,1,0,KombiDoğalgaz,490000
+498,ŞEREF EMLAK KARLITEPE MAH.5+2BUTİK SİTE OTOPARKLI SATILIK DUBLEX, Gaziosmanpaşa, Karlıtepe Mahallesi,5+2,0,5,Çatı Dubleks,200,2,0,MerkeziDoğalgaz,1350000
+499, SİMA YAPI'DAN MERKEZİ KONUMDA 3+1 ŞIK VE FERAH SATILIK ARA KAT, Beylikdüzü, Cumhuriyet Mahallesi,2+1,0,4,1. Kat,110,1,0,KombiDoğalgaz,375000
+500, HAYGRUP SATIŞOFİSİ HAYPARK SİTESİ 10M2 BALKONLU KOMİSYONSUZ 2+1, Çekmeköy, Taşdelen Mahallesi,2+1,0,13,10-20,105,2,0,KombiDoğalgaz,739000
+501, HATUN GAYRİMENKUL ÇAMÇEŞMEDE 2+1 SATILIK SIFIR DAİRE MANZARALI, Pendik, Çamçeşme Mahallesi,2+1,0,8,7. Kat,90,1,0,KombiDoğalgaz,575000
+502,Pama'dan Güzel Konumda 1.Sınıf İşçilik Satılık 2+1 Fırsat Daire, Tuzla, Aydınlı Mahallesi,2+1,0,7,6. Kat,95,1,0,Merkezi(PayÖlçer),399000
+503, MARİN İNŞAAT'TAN METROBÜSE YAKIN YATIRIM İÇİN BİRE BİR DAİRELER!, Esenyurt, Saadetdere Mahallesi,3+1,1,6,2. Kat,130,2,0,KombiDoğalgaz,192000
+504," BAHÇELİEVLER SOĞANLI MAH FULL YAPILI 2+1-3, KAT DAİRE", Bahçelievler, Soğanlı Mahallesi,2+1,4,5,3. Kat,90,1,0,KombiDoğalgaz,685000
+505, AKBAYIRLAR'DAN HÜRRİYET'TE İSKANLI EBEVEYNLİ K.OTOPARKLI LÜX 3+2, Kartal, Hürriyet Mahallesi,3+2,0,5,Çatı Dubleks,230,3,0,KombiDoğalgaz,1079000
+506,ÇEKMEKÖY ZİN D DIAMOND SİTESİNDE 1+1 60 M2 SATILIK, Çekmeköy, Cumhuriyet Mahallesi,1+1,0,10,7. Kat,60,1,0,Merkezi(PayÖlçer),370000
+507,ÇEKMEKÖY ZİN D DIAMOND SİTESİNDE 2+1 78 M2 SATILIK zind diamond, Çekmeköy, Cumhuriyet Mahallesi,2+1,0,10,4. Kat,78,2,0,Merkezi(PayÖlçer),589000
+508, ESENYURT  PINAR  MAHALLESİNDE  SATILIK  3+1  DAİRE, Esenyurt, Pınar Mahallesi,3+1,0,6,3. Kat,120,1,0,KombiDoğalgaz,420000
+509, İNÖNÜ MAHALLSİNDE CADDE ÜZERİ KULLANIŞLI 1+1 SATILIK DAİRE , Esenyurt, İnönü Mahallesi,1+1,5-10,5,Giriş,85,1,0,KombiDoğalgaz,265000
+510, ERENKÖY BAĞDAT DİVANA YAKIN 2+1 ÇİFT BALKONLU 90M2 NET, Kadıköy, Erenköy Mahallesi,2+1,20,5,Giriş,115,1,0,MerkeziDoğalgaz,1350000
+511, Mertcandan şeyhli mah açık balkonlu ebeveyn banyolu 3+1 daire, Pendik, Şeyhli Mahallesi,3+1,0,7,1. Kat,125,2,0,KombiDoğalgaz,699000
+512, CUMHURİYET MAH'DE 3+1 SATILIK 115 M2 LÜKS ARAKAT DAİRE, Küçükçekmece, Cumhuriyet Mahallesi,3+1,0,9,4. Kat,115,1,0,Merkezi(PayÖlçer),775000
+513, AKBAYIRLAR'DAN GÜMÜŞPINAR'DA SATILIK 3+1 150M2 İSKANLI LÜX DAİRE, Kartal, Gümüşpınar Mahallesi,3+1,5-10,8,8. Kat,150,1,0,KombiDoğalgaz,750000
+514, BEYLİLDÜZÜ PAPATYA RESİDENCE 2 STÜDYO TARZI 1+1, Esenyurt, Barbaros Hayrettin Paşa Mahallesi,1+1,5-10,15,4. Kat,74,1,1,Merkezi(PayÖlçer),340000
+515,BEGÜMDEN GÖZTEPE'DE KAPANMAZ MANZ. 2020 YAPIMI 100M2 2+1, Kadıköy, Merdivenköy Mahallesi,2+1,0,14,10-20,110,1,0,KombiDoğalgaz,1250000
+516," BÜYÜKYALI İSTANBUL’DA DENİZ MANZARALI 3,5+1 SATILIK LÜKS DAİRE", Zeytinburnu, Kazlıçeşme Mahallesi,3+1,1,17,10-20,220,3,1,Merkezi(PayÖlçer),20000000
+517,ÇEKMEKÖY ÇATALMEŞE MAH DE SATILIK DUBLEKS DAİRE 3 + 2, Çekmeköy, Çatalmeşe Mahallesi,3+2,4,5,5. Kat,160,2,0,KombiDoğalgaz,735000
+518, ÜMRANİYE ARMAĞAN EVLER MAHALLESİNDE 6 YILLIK BİNADA 2+1 KOMBİLİ, Ümraniye, Armağanevler Mahallesi,2+1,5-10,6,2. Kat,95,1,0,KombiDoğalgaz,500000
+519, HAYPARK SATIŞ OFİSİNDEN KOMİSYONSUZ 3+1 BAHÇELİ LOFT DAİRE, Çekmeköy, Taşdelen Mahallesi,3+1,0,9,1. Kat,210,2,0,KombiDoğalgaz,1229000
+520,SULTANİYE MAHALLESİNDE KUPON 2+1 SATILIK DAİRE , Esenyurt, Sultaniye Mahallesi,2+1,0,5,1. Kat,110,1,0,KombiDoğalgaz,370000
+521,ÇİFTEHAVUZLAR BAĞDAT CAD.YAKIN 5 YILLIK BİNADA KOMBİLİ 4+1, Kadıköy, Göztepe Mahallesi,4+1,5-10,9,7. Kat,175,2,0,Merkezi(PayÖlçer),3985000
+522,ÇİFTEHAVUZLAR'DA 7/24 GÜVENLİKLİ SİTEDE OYUN PARKLI LÜX 4+1, Kadıköy, Göztepe Mahallesi,4+1,20,17,7. Kat,220,3,0,Merkezi(PayÖlçer),3585000
+523,GÜLTEPEDE ÇİFT BALKONLU KISA KATLI BİNADA SATILIK 2+1 DAİRE, Küçükçekmece, Gültepe Mahallesi,2+1,20,5,2. Kat,90,1,0,KombiDoğalgaz,550000
+524,VADİSTANBUL TERAS SİTESİNDE 3+1 SATILIK DAİRE ORMAN MANZARALI, Sarıyer, Ayazağa Mahallesi,3+1,5-10,10,5. Kat,170,2,0,MerkeziDoğalgaz,4500000
+525,POİNT'DEN SULTAN MURAT MH. SATILIK ÖN CEPHE 2+1 DAİREE, Küçükçekmece, Sultan Murat Mahallesi,2+1,4,3,1. Kat,110,1,0,KombiDoğalgaz,560000
+526,POİNT'DEN YEŞİLOVA MH.SATILIK ÖN CEPHE 2+1YÜKSEK GİRİŞ DAİRE!, Küçükçekmece, Yeşilova Mahallesi,2+1,2,4,Giriş,90,1,0,KombiDoğalgaz,490000
+527,ŞEREF EMLAK KARLITEPE MAH.5+2BUTİK SİTE OTOPARKLI SATILIK DUBLEX, Gaziosmanpaşa, Karlıtepe Mahallesi,5+2,0,5,Çatı Dubleks,200,2,0,MerkeziDoğalgaz,1350000
+528, SİMA YAPI'DAN MERKEZİ KONUMDA 3+1 ŞIK VE FERAH SATILIK ARA KAT, Beylikdüzü, Cumhuriyet Mahallesi,2+1,0,4,1. Kat,110,1,0,KombiDoğalgaz,375000
+529, HAYGRUP SATIŞOFİSİ HAYPARK SİTESİ 10M2 BALKONLU KOMİSYONSUZ 2+1, Çekmeköy, Taşdelen Mahallesi,2+1,0,13,10-20,105,2,0,KombiDoğalgaz,739000
+530, HATUN GAYRİMENKUL ÇAMÇEŞMEDE 2+1 SATILIK SIFIR DAİRE MANZARALI, Pendik, Çamçeşme Mahallesi,2+1,0,8,7. Kat,90,1,0,KombiDoğalgaz,575000
+531,Pama'dan Güzel Konumda 1.Sınıf İşçilik Satılık 2+1 Fırsat Daire, Tuzla, Aydınlı Mahallesi,2+1,0,7,6. Kat,95,1,0,Merkezi(PayÖlçer),399000
+532, MARİN İNŞAAT'TAN METROBÜSE YAKIN YATIRIM İÇİN BİRE BİR DAİRELER!, Esenyurt, Saadetdere Mahallesi,3+1,1,6,2. Kat,130,2,0,KombiDoğalgaz,192000
+533," BAHÇELİEVLER SOĞANLI MAH FULL YAPILI 2+1-3, KAT DAİRE", Bahçelievler, Soğanlı Mahallesi,2+1,4,5,3. Kat,90,1,0,KombiDoğalgaz,685000
+534, AKBAYIRLAR'DAN HÜRRİYET'TE İSKANLI EBEVEYNLİ K.OTOPARKLI LÜX 3+2, Kartal, Hürriyet Mahallesi,3+2,0,5,Çatı Dubleks,230,3,0,KombiDoğalgaz,1079000
+535,ÇEKMEKÖY ZİN D DIAMOND SİTESİNDE 1+1 60 M2 SATILIK, Çekmeköy, Cumhuriyet Mahallesi,1+1,0,10,7. Kat,60,1,0,Merkezi(PayÖlçer),370000
+536,ÇEKMEKÖY ZİN D DIAMOND SİTESİNDE 2+1 78 M2 SATILIK zind diamond, Çekmeköy, Cumhuriyet Mahallesi,2+1,0,10,4. Kat,78,2,0,Merkezi(PayÖlçer),589000
+537,KIZ KULESİNE KOMŞU SALACAK'TA 4+1 SIFIR DUBLEX FIRSAT DAİRE, Üsküdar, Salacak Mahallesi,4+1,0,4,4. Kat,225,2,0,KombiDoğalgaz,4250000
+538,SUADİYE SAHİLDE SATILIK DENİZ MANZARALI BALKONLU TERASLI 4+1, Kadıköy, Suadiye Mahallesi,4+1,0,15,10-20,200,2,0,KombiDoğalgaz,6000000
+539, E/5 ŞE YAKIN SATILIKI DUBLEX , Maltepe, Altayçeşme Mahallesi,4+1,11-20,5,5. Kat,170,2,0,KombiDoğalgaz,1000000
+540, HAYGRUP SATIŞOFİSİNDEN HAYPARK SİTESİ KOMİSYONSUZ 3+1 DAİRE, Çekmeköy, Taşdelen Mahallesi,3+1,0,13,2. Kat,130,2,0,KombiDoğalgaz,839000
+541," BAHÇELİEVLER SOĞANLI MAH CADDE ÜSTÜ-170,M2-3+1-1,KAT DAİRE", Bahçelievler, Soğanlı Mahallesi,3+1,20,5,1. Kat,190,2,0,KombiDoğalgaz,620000
+542, AKBAYIRLAR'DAN HÜRRİYET'TE KATTA TEK İSKANLI ARA KATTA LÜX 2+1, Kartal, Hürriyet Mahallesi,2+1,3,6,2. Kat,100,1,0,KombiDoğalgaz,449000
+543, SULTANBEYLİ MİMAR SİNAN MAH. SİTE İÇİ 3+1 ULTRA LÜKS DAİRE, Sultanbeyli, Mimar Sinan Mahallesi,3+1,0,5,1. Kat,111,2,1,KombiDoğalgaz,700000
+544,SULTANÇİFLİĞİ MAH'DE CADDEYE YAKIN SATILIK 115M2 3+1 1.KAT, Sultangazi, Sultançiftliği Mahallesi,3+1,0,5,1. Kat,130,4,0,KombiDoğalgaz,750000
+545,SULTANÇİFLİĞİ MAH'DE TRAMYAVA CEPHE SATILIK 230M2 6+2 DUBLEX, Sultangazi, Sultançiftliği Mahallesi,6+2,0,5,3. Kat,250,4,0,KombiDoğalgaz,1150000
+546,Sahibinden  SAHİBİNDEN KAT MÜLKİYETLİ YENİ BİNADA 2+1 DAİRE, Şişli, Gülbahar Mahallesi,2+1,4,4,3. Kat,80,1,0,KombiDoğalgaz,695000
+547, Eyüp Merkez Mh. Silahtarağa Caddesi üzerinde 3+1 SATILIK DAİRE, Eyüpsultan, Merkez Mahallesi,3+1,5-10,5,4. Kat,160,2,0,KombiDoğalgaz,2380000
+548,منزل للبيع بشاك شهير في مجمع اغا ؤغلو 3+1, Başakşehir, Ziya Gökalp Mahallesi,3+1,5-10,30,21-29,170,2,0,Merkezi(PayÖlçer),2100000
+549, ESKİ HABİBLER MAH.'DE 5+2 169 M2 TOPRAKTAN SATILIK DUBLEKS DAİRE, Sultangazi, Eski Habipler Mahallesi,5+2,0,5,5. Kat,179,1,0,KombiDoğalgaz,995000
+550,ESKİHABİBLER MAH.'DE 3+1 85 M2 TOPRAKTAN SATILIK ARA KAT, Sultangazi, Eski Habipler Mahallesi,3+1,0,5,2. Kat,95,2,0,KombiDoğalgaz,750000
+551,SARIYER MASHATTAN MANZARALI KELEPİR 3+1 SATILIK DAİRE, Sarıyer, Maslak Mahallesi,3+1,5-10,30,10-20,175,1,0,Merkezi(PayÖlçer),3750000
+552,DEMİR İNŞAAT GAYRİMENKULDEN 50.YILDA SATILIK 95M2 BAHÇEKAT, Sultangazi, 50. Yıl Mahallesi,2+1,11-20,5,Bahçe Katı,95,1,0,KombiDoğalgaz,242000
+553,PRATİK EMLAK TAN ESENYURT TA SATILIK 2+1 90M2 DAİRE.., Esenyurt, Çınar Mahallesi,2+1,4,6,1. Kat,105,1,0,KombiDoğalgaz,300000
+554, BAHÇELİEVLER SOĞANLI MERKEZ CAMİ YANI 2+1 85M2 BAHÇE KATI, Bahçelievler, Soğanlı Mahallesi,2+1,11-20,5,Bahçe Katı,85,1,0,KombiDoğalgaz,250000
+555,ŞEREF EMLAK KARLITEPE MAH.BUTİK SİTE OTOPARKLI SATILIK DAİRE, Gaziosmanpaşa, Karlıtepe Mahallesi,2+1,0,5,2. Kat,90,0,0,MerkeziDoğalgaz,585000
+556,BAHÇELİEVLER YAYLA YAKINI SATILIK MASRAFSIZ 2+1 DAİRE, Bahçelievler, Siyavuşpaşa Mahallesi,2+1,20,5,Giriş,80,1,0,KombiDoğalgaz,295000
+557, MERKEZİ KONUMDA İÇ DEKORLU ASANSÖRLÜ 2+1 SATILIK DAİRE!, Esenyurt, Fatih Mahallesi,2+1,5-10,5,3. Kat,100,1,0,KombiDoğalgaz,329000
+558,DEMİR İNŞAATTAN 2+1 LÜX YÜKSEK GİRİŞ SIFIR TAPU MASRAFI YOK!!, Sultangazi, 50. Yıl Mahallesi,2+1,0,1,Giriş,90,1,0,KombiDoğalgaz,460000
+559,ESKİ HABİBLER MAH.'DE 2+1 76M2 TOPRAKTAN SATILIK ARA KATLAR, Sultangazi, Eski Habipler Mahallesi,2+1,0,5,1. Kat,86,1,0,KombiDoğalgaz,650000
+560,"ESENYURT'TA, BAHÇEŞEHİR'E YAKIN LÜKS DAİRE (VATANDAŞLIĞA UYGUN)", Esenyurt, Ardıçlı Mahallesi,2+1,0,6,2. Kat,133,2,0,Merkezi(PayÖlçer),1300000
+561,GOLD EMLAK'TAN EYÜP GÜZELTEPE'DE SIFIR 1+1 SATILIK DAİRE, Eyüpsultan, Güzeltepe Mahallesi,2+1,0,3,Giriş,65,1,0,KombiDoğalgaz,250000
+562,YÜZYIL'dan MERKEZE YAKIN 2+1 105m2 MASRAFSIZ ARAKAT DAİRE, Üsküdar, Valide-i Atik Mahallesi,2+1,20,4,2. Kat,120,1,0,KombiDoğalgaz,600000
+563,ÜMRANİYE ADEM YAVUZ'DA 2+1 72² SATILIK DAİRE, Ümraniye, Yukarı Dudullu Mahallesi,2+1,0,4,4. Kat,93,1,0,KombiDoğalgaz,620000
+564,Yenişehir Koru Sitesi 3+1 Satılık, Pendik, Yenişehir Mahallesi,3+1,11-20,10,3. Kat,125,1,1,KombiDoğalgaz,480000
+565,"YENİBOSNA RADAR DA, 15 YILLIK, 2+1, ARAKAT, 115 M2, LÜKS DAİRE", Bahçelievler, Yenibosna Merkez Mahallesi,2+1,11-20,4,3. Kat,115,1,0,KombiDoğalgaz,639000
+566, DESTAN-518-FATİH-YEDİKULE-MERHABA DURAĞI ANA CADDEDE-2+1-105M2 , Fatih, Yedikule Mahallesi,2+1,20,5,4. Kat,105,1,0,DoğalgazSobalı,500000
+567,NOFT YAPI'DAN SATILIK ÇİFT BALKONLU KOMBİLİ DAİRE FIRSATI, Esenyurt, Mehterçeşme Mahallesi,2+1,0,6,3. Kat,110,1,0,KombiDoğalgaz,499000
+568,FATİH VATAN EMNİYET ARKASI SATILIK 4+2 300 M2 DAİRE, Fatih, Hırka-i Şerif Mahallesi,4+2,11-20,5,4. Kat,300,2,0,Merkezi(PayÖlçer),3250000
+569,SERAP GAYRİMENKUL SEÇKİNLER İNCİ EVLERİ SATILIK 3+1 DAİRE, Gaziosmanpaşa, Barbaros Hayrettinpaşa Mahallesi,3+1,5-10,15,1. Kat,160,2,0,Merkezi(PayÖlçer),1435000
+570, TANTAVİ DE DEPREM YÖNETMENLİĞİNE UYGUN GENİŞ AİLELER İÇİN İDEAL, Ümraniye, Tantavi Mahallesi,5+2,11-20,4,Çatı Dubleks,290,2,0,KombiDoğalgaz,1400000
+571,YENİDOGAN SAFA da 2+1 OTOPARKLI ASANSÖRLÜ DAİRE , Sancaktepe, Safa Mahallesi,2+1,0,5,2. Kat,90,1,0,KombiDoğalgaz,480000
+572,Butik site içinde iki artı bir lüx manzaralı daire, Büyükçekmece, Pınartepe Mahallesi,2+1,5-10,6,1. Kat,120,2,0,KombiDoğalgaz,750000
+573, SATILIK 2+1 ÇEKMEKÖY mehmetakif MAH de , Çekmeköy, Mehmet Akif Mahallesi,2+1,5-10,4,Bahçe Katı,110,2,0,KombiDoğalgaz,300000
+574, ALTINTEPE İSKAN 5 YIL GENİŞ 2+1 TERS DUBLK.KAPALI OTOPRK ANKASTR, Maltepe, Altıntepe Mahallesi,2+1,4,5,Giriş,75,1,0,KombiDoğalgaz,625000
+575, BAYRAMPAŞA YILDIRIM MAHALLESİNDE SATILIK DUBLEX DAİRE, Bayrampaşa, Yıldırım Mahallesi,4+2,4,3,Çatı Dubleks,200,2,0,KombiDoğalgaz,1400000
+576," Şişli Feriköy de , Full Lüx Mobilyalı 3+1 Satılık Daire", Şişli, Feriköy Mahallesi,3+1,11-20,5,3. Kat,160,1,0,MerkeziDoğalgaz,1475000
+577,AŞKIN EMLAKTAN HARAÇCIDA 4+1 135m² SATILIK DUBLEX DAİRE , Arnavutköy, Haraççı Mahallesi,4+1,5-10,5,5. Kat,145,2,0,KombiDoğalgaz,630000
+578,"Beylikdüzü Satılık Daire 3+1 BÜYÜK, GENİŞ, FERAH, ARAKAT", Esenyurt, Cumhuriyet Mahallesi,3+1,11-20,7,3. Kat,175,2,0,KombiDoğalgaz,550000
+579,BAKIRKÖY SAHİLE YAKIN ASANSÖRLÜ 2+1 SIFİR SATILIK DAİRE, Bakırköy, Sakızağacı Mahallesi,2+1,0,4,1. Kat,105,1,0,KombiDoğalgaz,1100000
+580,BAKIRKÖY Y MAHMARMARAY İST SAHİLE PAZARA YAKIN  1+1 55m2 KOMBİLİ, Bakırköy, Yenimahalle Mahallesi,1+1,20,4,2. Kat,55,1,0,KombiDoğalgaz,420000
+581,PARİTEN DEN VENEZİA DA 1+1 YÜKSEK KAT SATILIK DAİRE, Gaziosmanpaşa, Karadeniz Mahallesi,1+1,4,24,10-20,74,1,0,Merkezi(PayÖlçer),665000
+582,EYÜP ALİBEYKÖYDE ANA CADDE ÜSTÜ DUBLEKS İSKANLI, Eyüpsultan, Esentepe Mahallesi,2+1,4,3,3. Kat,120,2,0,KombiDoğalgaz,498000
+583,Remax Partnerden PİERLOTİ Yanı Düz Giriş Daire, Eyüpsultan, Merkez Mahallesi,2+1,11-20,6,Giriş,100,1,0,KombiDoğalgaz,420000
+584,AVRUPA EMLAK'DAN EMLAK KONUT SİTESİNDE MASRAFSIZ 2+1, Silivri, Selimpaşa Mahallesi,2+1,5-10,5,3. Kat,119,1,0,KombiDoğalgaz,520000
+585,HALKALI MERKEZ KAVAKLI MAHALLESİ 2+1 DÜZ GİRİŞ KAT İSKANLI DAİRE, Küçükçekmece, Halkalı Merkez Mahallesi,2+1,5-10,5,Bahçe Katı,95,1,0,KombiDoğalgaz,335000
+586,SULTANBEYLİ ADİL MAH SATILIK ÇATI DUBLEX 3+1, Sultanbeyli, Adil Mahallesi,3+1,0,4,Çatı Katı,140,2,0,KombiDoğalgaz,460000
+587,SULTANBEYLİ ADİL MAH. SATILIK 2+1 85 M2 ASANSÖRLÜ KÖŞEBAŞI BİNA, Sultanbeyli, Adil Mahallesi,2+1,0,4,2. Kat,85,1,0,KombiDoğalgaz,365000
+588,BEŞİKTAŞ ABBASAĞADA 2+1 MANZARALI İÇİ FULL YENİLENMİŞ DAİRE, Beşiktaş, Abbasağa Mahallesi,2+1,20,6,3. Kat,80,1,0,KombiDoğalgaz,660000
+589, BEGÜMDEN KOZYATAĞI METRO DURAĞINA YAKIN 2+1 82 NET SATILIK, Kadıköy, Kozyatağı Mahallesi,2+1,0,8,4. Kat,100,1,0,KombiDoğalgaz,1325000
+590,Pendik batı mah. Satılık ultra lüks ferah 2+1 daire, Pendik, Batı Mahallesi,2+1,0,6,4. Kat,100,1,0,KombiDoğalgaz,780000
+591,AŞKIN EMLAKTAN SİTEDE SATILIK 2+1 80M² DAİRE, Eyüpsultan, Güzeltepe Mahallesi,2+1,5-10,8,6. Kat,90,1,1,KombiDoğalgaz,645000
+592,Sahibinden  İDEALTEPEDE 50.YIL PARKINA YAKIN YÜKSEK GİRİŞ SATILIK 2+1 DAİRE, Maltepe, İdealtepe Mahallesi,2+1,0,3,Giriş,80,2,0,KombiDoğalgaz,765000
+593,İSKANLI LÜKS DEKORLU YENİ-TEMİZ 2+1 SATILIK DAİRE , Esenyurt, Necip Fazıl Kısakürek Mahallesi,2+1,4,6,1. Kat,110,1,0,KombiDoğalgaz,320000
+594,NOFT YAPI'DAN SATILIK 2+1 ARA KAT DAİRE KAÇIRILMAYACAK FIRSAT !!!, Esenyurt, Güzelyurt Mahallesi,2+1,0,6,2. Kat,95,1,0,KombiDoğalgaz,297500
+595, BEYLİKDÜZÜ DE  SİTE İÇİ FULL KONSEPT UYGUN FİYATLI DAİRE, Beylikdüzü, Cumhuriyet Mahallesi,2+1,0,15,8. Kat,110,1,0,KombiDoğalgaz,219000
+596, BEYLİKDÜZÜ MARİNAYA YAKIN 2+1 BUTİK SİTE İÇİ KULLANIMA HAZIR, Beylikdüzü, Yakuplu Mahallesi,2+1,0,7,4. Kat,110,1,0,KombiDoğalgaz,215000
+597,Metrobüse 15dakika mesafede krediye uygun masrafsz arakat daire, Esenyurt, Çınar Mahallesi,2+1,5-10,4,1. Kat,90,1,0,KombiDoğalgaz,262000
+598, DORELİFE SİTESİ SATILIK ARKA CEPHE 6.KAT 3+1 DAİRE HALİL GÜLER, Sancaktepe, Emek Mahallesi,3+1,4,8,6. Kat,168,2,0,Merkezi(PayÖlçer),1025000
+599, THE İSTANBUL VELİEFEDNİ KONUTLARINDA SATILIK DENİZ MANZARALI 3+1, Zeytinburnu, Sümer Mahallesi,3+1,5-10,14,6. Kat,212,2,1,MerkeziDoğalgaz,3700000
+600, beylikdüzü KASDAN adakent merkezde  kelepir satılık daire, Beylikdüzü, Barış Mahallesi,3+1,20,14,10-20,140,1,0,MerkeziDoğalgaz,680000
+601,BAKIRKÖY MEYDAN'DA 160m2 3+1 MALİ MÜŞAVİR KİRACILI YATIRIMLIK, Bakırköy, Zeytinlik Mahallesi,3+1,5-10,5,1. Kat,160,2,0,KombiDoğalgaz,2250000
+602,MUHTESEM SATILIK VİLLA BAHÇESEHİR KELEBEKLER VADİSİNDE 5+2, Başakşehir, Bahçeşehir 1. Kısım Mahallesi,5+2,5-10,4,Giriş,320,3,0,KombiDoğalgaz,5545000
+603,Sahibinden Acil Satılık 2+1 Daire Pazarlık Vardır , Bağcılar, Barbaros Mahallesi,2+1,20,5,1. Kat,80,1,0,KombiDoğalgaz,270000
+604,ACİLL SATILIK MASRASFIZ HİSSELİ ARA KAT DAİRE, Bahçelievler, Zafer Mahallesi,2+1,20,5,2. Kat,95,1,0,KombiDoğalgaz,275000
+605," ÇELİKTEPE MAH. METROYA 13DK, TADİLATLI, 2+1,90M2, SATILIK DAİRE", Kağıthane, Çeliktepe Mahallesi,2+1,20,4,1. Kat,90,1,0,KombiDoğalgaz,350000
+606,ister yatırımlık ister oturumluk krediye uygun satılık daire, Esenyurt, Selahaddin Eyyubi Mahallesi,2+1,5-10,4,Bahçe Katı,95,1,0,KombiDoğalgaz,162000
+607, ESENYURT ÜÇEVLER MAHALLESİ'NDE  3+1 GENİŞ AYDINLIK SATILIK DAİRE, Esenyurt, Üçevler Mahallesi,3+1,4,5,Bahçe Katı,140,1,0,KombiDoğalgaz,305000
+608, Sahibinden Satılık Kiracılı Daire, Esenyurt, Talatpaşa Mahallesi,2+1,3,5,1. Kat,105,1,0,KatKaloriferi,515000
+609,SATILIK 2+1 TAŞDELEN NEVESER KONT KOMŞU , Çekmeköy, Sultançiftliği Mahallesi,2+1,5-10,6,5. Kat,97,2,0,KombiDoğalgaz,515000
+610, BEYLİKDÜZÜ YAKUPLU'DA ULAŞIMA YAKIN SIFIR SATILIK DAİRE FIRSATI, Beylikdüzü, Yakuplu Mahallesi,3+1,0,5,1. Kat,135,2,0,KombiDoğalgaz,665000
+611,SİLİVRİ KİPTAŞ 1. ETAP KONUTLARINDA DENİZ MANZARALI ŞOK FİYAT, Silivri, Yeni Mahallesi,2+1,5-10,10,6. Kat,75,1,0,KombiDoğalgaz,335000
+612,Sahibinden  SAHİBİNDEN UYGUN FİYATLI SIFIR 120m² DAİRE, Küçükçekmece, İnönü Mahallesi,2+1,11-20,5,4. Kat,120,1,0,KombiDoğalgaz,295000
+613, 75.Yıl'Da HAKANLAR İNŞAATTAN Satılık 98m2 2+1 2.Kat Daire , Sultangazi, 75. Yıl Mahallesi,2+1,11-20,5,2. Kat,98,1,0,KombiDoğalgaz,475000
+614,SATILIK DAIRE 2+1 YENI BINA SIFIR DAIRE 530  BIN 2 KAT ASANSORLU, Eyüpsultan, Çırçır Mahallesi,2+1,2,5,2. Kat,90,1,0,KombiDoğalgaz,530000
+615,ŞİŞLİ DE KİRA GETİRİLİ DEPREM SONRASI FIRSAT DAİRE, Şişli, Eskişehir Mahallesi,2+1,11-20,4,2. Kat,113,1,0,KombiDoğalgaz,550000
+616, BRN ÇELİK İNŞAAT'TAN 50.YIL MAH SIFIR SATILIK BAHÇE KATI 2+1, Sultangazi, 50. Yıl Mahallesi,2+1,0,5,Bahçe Katı,85,1,0,KombiDoğalgaz,275000
+617, BRN ÇELİK İNŞAAT'TAN 50.YIL MAH SATILIK 4 YILLIK BAHÇE KATI 2+1, Sultangazi, 50. Yıl Mahallesi,2+1,4,5,Bahçe Katı,90,1,0,KombiDoğalgaz,280000
+618,Sahibinden UĞURMUMCUNUN EN GÜZEL YERİNDE GENİŞ VE KULLANIŞLI DAİRE, Sultangazi, Uğur Mumcu Mahallesi,3+1,4,4,1. Kat,130,1,0,KombiDoğalgaz,870000
+619,FIRSAT  SOĞANLIDA 2+1 SIFIR DAİRE GÖRMEDEN KARAR VERMEYİN, Bahçelievler, Soğanlı Mahallesi,2+1,0,4,1. Kat,101,1,0,KombiDoğalgaz,725000
+620, Gazi Mah'de HAKANLAR İNŞAATTAN 70 M2 2+1 Satılık Daire, Sultangazi, Gazi Mahallesi,2+1,11-20,5,Giriş,70,1,0,KombiDoğalgaz,220000
+621," SULTANGAZİ 50,YIL MH SATILIK LÜX 90 M2 CATI KATI", Sultangazi, 50. Yıl Mahallesi,1+1,20,5,5. Kat,97,1,0,KombiDoğalgaz,254000
+622,NAMIK KEMALDE İSKANLI 2+2 KAT DUBLEKSİ, Ümraniye, Namık Kemal Mahallesi,2+2,5-10,5,Çatı Dubleks,120,2,0,KombiDoğalgaz,580000
+623,Soğanlı Meydanda Krediye Uygun 3+1 Daire Masrafsız, Bahçelievler, Soğanlı Mahallesi,3+1,20,6,2. Kat,130,2,0,KombiDoğalgaz,575000
+624,ASİA'DAN KOZZY AVM YANI KAÇMAZ 3+1, Kadıköy, Kozyatağı Mahallesi,3+1,20,8,2. Kat,125,2,0,Merkezi(PayÖlçer),1250000
+625,EYÜP EMNİYETTEPE SATILIK 2+1 DAİRE, Eyüpsultan, Emniyettepe Mahallesi,2+1,5-10,5,4. Kat,100,1,0,KombiDoğalgaz,670000
+626,EYÜP EMNİYETTEPEDE SATILIK DUBLEKS DAİRE, Eyüpsultan, Emniyettepe Mahallesi,4+1,5-10,3,3. Kat,165,2,0,KombiDoğalgaz,1000000
+627,Sahibinden Acil Satılık 2+1 Daire Pazarlık Vardır , Bağcılar, Barbaros Mahallesi,2+1,20,5,1. Kat,80,1,0,KombiDoğalgaz,270000
+628,ACİLL SATILIK MASRASFIZ HİSSELİ ARA KAT DAİRE, Bahçelievler, Zafer Mahallesi,2+1,20,5,2. Kat,95,1,0,KombiDoğalgaz,275000
+629," ÇELİKTEPE MAH. METROYA 13DK, TADİLATLI, 2+1,90M2, SATILIK DAİRE", Kağıthane, Çeliktepe Mahallesi,2+1,20,4,1. Kat,90,1,0,KombiDoğalgaz,350000
+630,ister yatırımlık ister oturumluk krediye uygun satılık daire, Esenyurt, Selahaddin Eyyubi Mahallesi,2+1,5-10,4,Bahçe Katı,95,1,0,KombiDoğalgaz,162000
+631, ESENYURT ÜÇEVLER MAHALLESİ'NDE  3+1 GENİŞ AYDINLIK SATILIK DAİRE, Esenyurt, Üçevler Mahallesi,3+1,4,5,Bahçe Katı,140,1,0,KombiDoğalgaz,305000
+632, Sahibinden Satılık Kiracılı Daire, Esenyurt, Talatpaşa Mahallesi,2+1,3,5,1. Kat,105,1,0,KatKaloriferi,515000
+633,SATILIK 2+1 TAŞDELEN NEVESER KONT KOMŞU , Çekmeköy, Sultançiftliği Mahallesi,2+1,5-10,6,5. Kat,97,2,0,KombiDoğalgaz,515000
+634, BEYLİKDÜZÜ YAKUPLU'DA ULAŞIMA YAKIN SIFIR SATILIK DAİRE FIRSATI, Beylikdüzü, Yakuplu Mahallesi,3+1,0,5,1. Kat,135,2,0,KombiDoğalgaz,665000
+635,SİLİVRİ KİPTAŞ 1. ETAP KONUTLARINDA DENİZ MANZARALI ŞOK FİYAT, Silivri, Yeni Mahallesi,2+1,5-10,10,6. Kat,75,1,0,KombiDoğalgaz,335000
+636,Sahibinden  SAHİBİNDEN UYGUN FİYATLI SIFIR 120m² DAİRE, Küçükçekmece, İnönü Mahallesi,2+1,11-20,5,4. Kat,120,1,0,KombiDoğalgaz,295000
+637, 75.Yıl'Da HAKANLAR İNŞAATTAN Satılık 98m2 2+1 2.Kat Daire , Sultangazi, 75. Yıl Mahallesi,2+1,11-20,5,2. Kat,98,1,0,KombiDoğalgaz,475000
+638,SATILIK DAIRE 2+1 YENI BINA SIFIR DAIRE 530  BIN 2 KAT ASANSORLU, Eyüpsultan, Çırçır Mahallesi,2+1,2,5,2. Kat,90,1,0,KombiDoğalgaz,530000
+639,ŞİŞLİ DE KİRA GETİRİLİ DEPREM SONRASI FIRSAT DAİRE, Şişli, Eskişehir Mahallesi,2+1,11-20,4,2. Kat,113,1,0,KombiDoğalgaz,550000
+640, BRN ÇELİK İNŞAAT'TAN 50.YIL MAH SIFIR SATILIK BAHÇE KATI 2+1, Sultangazi, 50. Yıl Mahallesi,2+1,0,5,Bahçe Katı,85,1,0,KombiDoğalgaz,275000
+641, BRN ÇELİK İNŞAAT'TAN 50.YIL MAH SATILIK 4 YILLIK BAHÇE KATI 2+1, Sultangazi, 50. Yıl Mahallesi,2+1,4,5,Bahçe Katı,90,1,0,KombiDoğalgaz,280000
+642,Sahibinden UĞURMUMCUNUN EN GÜZEL YERİNDE GENİŞ VE KULLANIŞLI DAİRE, Sultangazi, Uğur Mumcu Mahallesi,3+1,4,4,1. Kat,130,1,0,KombiDoğalgaz,870000
+643,FIRSAT  SOĞANLIDA 2+1 SIFIR DAİRE GÖRMEDEN KARAR VERMEYİN, Bahçelievler, Soğanlı Mahallesi,2+1,0,4,1. Kat,101,1,0,KombiDoğalgaz,725000
+644, Gazi Mah'de HAKANLAR İNŞAATTAN 70 M2 2+1 Satılık Daire, Sultangazi, Gazi Mahallesi,2+1,11-20,5,Giriş,70,1,0,KombiDoğalgaz,220000
+645," SULTANGAZİ 50,YIL MH SATILIK LÜX 90 M2 CATI KATI", Sultangazi, 50. Yıl Mahallesi,1+1,20,5,5. Kat,97,1,0,KombiDoğalgaz,254000
+646,NAMIK KEMALDE İSKANLI 2+2 KAT DUBLEKSİ, Ümraniye, Namık Kemal Mahallesi,2+2,5-10,5,Çatı Dubleks,120,2,0,KombiDoğalgaz,580000
+647,Soğanlı Meydanda Krediye Uygun 3+1 Daire Masrafsız, Bahçelievler, Soğanlı Mahallesi,3+1,20,6,2. Kat,130,2,0,KombiDoğalgaz,575000
+648,ASİA'DAN KOZZY AVM YANI KAÇMAZ 3+1, Kadıköy, Kozyatağı Mahallesi,3+1,20,8,2. Kat,125,2,0,Merkezi(PayÖlçer),1250000
+649,EYÜP EMNİYETTEPE SATILIK 2+1 DAİRE, Eyüpsultan, Emniyettepe Mahallesi,2+1,5-10,5,4. Kat,100,1,0,KombiDoğalgaz,670000
+650,EYÜP EMNİYETTEPEDE SATILIK DUBLEKS DAİRE, Eyüpsultan, Emniyettepe Mahallesi,4+1,5-10,3,3. Kat,165,2,0,KombiDoğalgaz,1000000
+651,AŞKIN EMLAKTAN NURTEPEDE 3+1 DUBLEX, Kağıthane, Nurtepe Mahallesi,3+1,0,5,5. Kat,110,2,0,KombiDoğalgaz,750000
+652,AVRUPA EMLAK'DAN SATILIK MANZARALI 3+1 DAİRE, Silivri, Selimpaşa Mahallesi,3+1,5-10,5,4. Kat,162,2,0,KombiDoğalgaz,750000
+653, ÜNALAN MERKEZDE 1+1 SIFIR SATILIK DAİRE, Üsküdar, Ünalan Mahallesi,1+1,0,3,Bahçe Katı,65,1,0,KombiDoğalgaz,290000
+654,söğütlüçeşmede satılık 3+1 bahçe katı, Küçükçekmece, Söğütlü Çeşme Mahallesi,3+1,5-10,4,Bahçe Katı,95,1,0,KombiDoğalgaz,240000
+655,Sahibinden  SAHİBİNDEN SATILIK GİRİŞ 2+1 85m² BAHÇE KATI - YUNUSEMRE MAH., Sultangazi, Yunus Emre Mahallesi,2+1,5-10,5,Bahçe Katı,90,1,0,KombiDoğalgaz,295000
+656," BAHÇELİEVLER CUMHURİYET MAH 2+1-1,KAT DAİRE", Bahçelievler, Cumhuriyet Mahallesi,2+1,5-10,2,1. Kat,90,1,0,KombiDoğalgaz,549000
+657,Secret HOUSE'DAN Kelepir bahçe katı, Bakırköy, Şenlikköy Mahallesi,2+1,20,3,Bahçe Katı,110,1,0,KombiDoğalgaz,1475000
+658,AŞKIN EMLAKTAN 2+1 80M² DAİRE, Eyüpsultan, Güzeltepe Mahallesi,2+1,5-10,5,1. Kat,90,1,0,KombiDoğalgaz,490000
+659,SOGANLIDA SATILIK 3+1 DAİRE , Bahçelievler, Soğanlı Mahallesi,3+1,20,6,-2,130,1,0,KombiDoğalgaz,575000
+660,AKSA EMLAKTAN SATILIK, Bahçelievler, Zafer Mahallesi,2+1,20,5,1. Kat,110,1,0,KombiDoğalgaz,420000
+661,HÜRRİYET MAHALLESİNDE GENİŞ VE KULLANIŞLI 2+1SATILIK DAİRE, Büyükçekmece, Hürriyet Mahallesi,2+1,4,5,Giriş,105,2,0,KombiDoğalgaz,385000
+662, HATUN GAYRİMENKUL'DEN ÇAMÇEŞME DE 3+1 SATILIK DAİRE, Pendik, Çamçeşme Mahallesi,3+1,20,5,1. Kat,118,1,0,KombiDoğalgaz,185000
+663,ULUS MAHALLESİNDE ÇOK GENİŞ VE KULLANIŞLI 2+1 DAİRE, Büyükçekmece, Ulus Mahallesi,2+1,20,4,2. Kat,135,1,0,KombiDoğalgaz,265000
+664,Yunus Mah'de HAKANLAR İNŞAATTAN 70M2 2+1 Satılık Daire, Sultangazi, Yunus Emre Mahallesi,2+1,5-10,5,Giriş,70,1,0,KombiDoğalgaz,320000
+665,B.ÇEKMECE CELALİYE MAH. FULL D. MANZARALI ÇATI KATI 2+1 SATILIK, Büyükçekmece, Celaliye Mahallesi,2+1,0,4,4. Kat,80,1,0,KombiDoğalgaz,360000
+666, Avcılar Cihangir Yeni Bina 2+1 75m2 Bahçe Kat Satılık Daire, Avcılar, Cihangir Mahallesi,2+1,5-10,3,Bahçe Katı,75,1,0,KombiDoğalgaz,340000
+667,BİGA DAN SANCAKTEPE DE SATILIK 4+1 DUBLEKS, Sancaktepe, Fatih Mahallesi,4+1,2,3,Bahçe Dublex,140,1,0,KombiDoğalgaz,550000
+668,Yeni Mahallede 3+1 140m2 Daire, Gaziosmanpaşa, Yeni Mahalle Mahallesi,3+1,11-20,4,1. Kat,145,2,0,KombiDoğalgaz,530000
+669,SATILIK DAIRE 2+1 YENI BINA ASANSORLU 430 BIN 2 KAT , Eyüpsultan, Çırçır Mahallesi,2+1,2,5,2. Kat,85,1,0,KombiDoğalgaz,430000
+670,SOĞANLIK ORTA MAHALLEDE 1+1 SATILIK DAİRE , Kartal, Orta Mahallesi,1+1,20,4,Giriş,65,1,0,KombiDoğalgaz,185000
+671, ÜNALAN MERKEZDE SATILIK 1+1 DAİRE, Üsküdar, Ünalan Mahallesi,1+1,0,3,Bahçe Katı,65,1,0,KombiDoğalgaz,350000
+672,ASİA'DAN DENİZPARK'TA FIRSAT 4+1, Pendik, Kaynarca Mahallesi,4+1,11-20,8,2. Kat,200,2,0,KombiDoğalgaz,2450000
+673, BEYLİKDÜZÜ BÜYÜKŞEHİR`DE 1+1 EŞYALI SATILIK METROBÜSE 5 DAKİKA, Beylikdüzü, Büyükşehir Mahallesi,1+1,11-20,10,Giriş,55,1,0,KombiDoğalgaz,330000
+674,Sahibinden Büyükçekmeçe satilik daire kacmiycak firsat, Büyükçekmece, Atatürk Mahallesi,2+1,11-20,4,2. Kat,95,1,0,KombiDoğalgaz,600000
+675,Sahibinden  ORTAKÖY'DE BOĞAZ MANZARALI HAVUZLU 7+1  700 m2 MÜSTAKİL VİLLA, Beşiktaş, Ortaköy Mahallesi,7+1,20,4,Villa Tipi,700,6,0,KombiDoğalgaz,32500000
+676,ÜMRANİYE IHLAMURKUYUDA  SATILIK 3+1 DAİRE, Ümraniye, Ihlamurkuyu Mahallesi,3+1,20,5,2. Kat,130,1,0,KatKaloriferi,500000
+677,Asia'dan PORTRE SAHİL sitesinde FIRSAT 3+1, Pendik, Kaynarca Mahallesi,3+1,1,17,10-20,110,2,0,Merkezi(PayÖlçer),1650000
+678, OR-KAY GAYRİMENKUL'DEN SATILIK MÜSTAKİL 2KATLI BİNA(2AYRI DAİRE), Beykoz, Merkez Mahallesi,3+1,20,2,Müstakil,295,1,0,KombiDoğalgaz,1400000
+679,BÜYÜKÇEKMECE MURATÇEŞME MAH.SATILIK DAİRELER..., Büyükçekmece, Murat Çeşme Mahallesi,2+1,0,3,2. Kat,105,1,0,KombiDoğalgaz,600000
+680,BÜYÜKÇEKMECE MURATÇEŞME MAH.SATILIK DAİRELER..., Büyükçekmece, Murat Çeşme Mahallesi,2+1,0,3,Giriş,105,1,0,Merkezi(PayÖlçer),550000
+681,BÜYÜKÇEKMECE MURATÇEŞME MAH.SATILIK DAİRELER..., Büyükçekmece, Murat Çeşme Mahallesi,2+1,0,3,Bahçe Katı,105,1,0,KombiDoğalgaz,325000
+682,Sahibinden acil satılık daire Ortaköy de, Beşiktaş, Ortaköy Mahallesi,3+1,5-10,2,2. Kat,136,1,0,Sobalı,100000
+683, BAL EMLAKTAN  2+1 90m2 YENİ SIFIR BİNADA SATILIK DAİRE, Bahçelievler, Fevzi Çakmak Mahallesi,2+1,0,6,1. Kat,100,1,0,KombiDoğalgaz,615000
+684,BAĞLARBAŞI MAHALLESİ GÜLLÜ  CADDESİNDE SATILIK DUBLEKS, Gaziosmanpaşa, Bağlarbaşı Mahallesi,4+1,0,5,Çatı Dubleks,160,2,0,KombiDoğalgaz,990000
+685, Home Vizyon Bahçelievler Satılık 4+1 Ters Dublex Daire. , Bahçelievler, Kocasinan Merkez Mahallesi,4+1,11-20,4,Bahçe Dublex,135,1,0,KombiDoğalgaz,380000
+686, Silivri Yenimahallede Lüks Sitede Havuzlu 120 m² 3+1 Daire, Silivri, Yeni Mahallesi,3+1,2,6,5. Kat,125,2,0,KombiDoğalgaz,970000
+687, Silivri Yeni Mahallede Lüks Sitede Havuzlu 95m² 2+1 Daire, Silivri, Yeni Mahallesi,2+1,2,6,3. Kat,110,2,0,KombiDoğalgaz,770000
+688,POİNT'DEN SULTANMURAT MH. İSKANLI ÇİFT CEPHE 3+2 SATILIK DUBLEKS, Küçükçekmece, Sultan Murat Mahallesi,3+2,5-10,4,4. Kat,170,2,0,KombiDoğalgaz,785000
+689, DÖNÜŞÜM'DEN FIRSAT! İSKANLI DENİZ MANZARALI 2+1 DAİRE, Pendik, Velibaba Mahallesi,2+1,5-10,10,10-20,112,1,1,Merkezi(PayÖlçer),467500
+690, AS EMLAK’TAN 1+1 NUHKUYUSUNA YAKIN YATIRIMLIK 55M2 DAİRE, Üsküdar, Zeynep Kamil Mahallesi,1+1,20,4,-1,55,1,0,KombiDoğalgaz,210000
+691, AVCILAR CİHANGİR MAH.  2+1 SIFIR DAİRE RÜZGAR YAPI'DAN!!!, Avcılar, Cihangir Mahallesi,2+1,2,5,Giriş,110,1,0,KombiDoğalgaz,190000
+692, B. YAKUPLU MAH. 2+1 FERAH DAIRE FIRSATI RUZGAR YAPI'DAN !!, Beylikdüzü, Yakuplu Mahallesi,2+1,2,5,1. Kat,110,1,0,KombiDoğalgaz,184000
+693, AVCILAR M.K.PAŞA BU AYIN KELEPİR 3+1 SIFIR DAİRESİ RÜZGAR YAPIDA, Avcılar, Mustafa Kemal Paşa Mahallesi,3+1,1,6,2. Kat,130,2,0,KombiDoğalgaz,277000
+694,GÜNEŞLİ MERKEZE 3BDK NEVİN AKANDAN PALMİYE GÜNEŞLİ SİTESİ 3+1, Bağcılar, Hürriyet Mahallesi,3+1,4,14,10-20,155,2,0,KombiDoğalgaz,2050000
+695, ÇEVREM'den CENNET'de GÜZEL KONUMLU 2+1 90m² 2.KAT DAİRE, Küçükçekmece, Cennet Mahallesi,2+1,5-10,4,2. Kat,100,1,0,KombiDoğalgaz,760000
+696, NİNE HATUN MAH TÜRKİYE EMLAK 1+1 KREDİLİ 4.KAT 70m2 KOD 1953, Esenler, Nine Hatun Mahallesi,1+1,5-10,4,4. Kat,70,1,0,KombiDoğalgaz,370000
+697,8 YILLIK İSKANLI BİNADA 3+1 BALKONLU 120 m2- HER KATTA TEK DAİRE, Pendik, Kurtköy Mahallesi,3+1,5-10,5,5. Kat,125,1,0,KombiDoğalgaz,605000
+698,"3+1 YÜKSEK GİRİŞ, MÜKEMMEL KONUM, GENİŞ PEYZAJ, BÜYÜK ARSA PAYI", Pendik, Yenişehir Mahallesi,3+1,11-20,9,Giriş,120,1,0,KombiDoğalgaz,515000
+699, BEYLİKDÜZÜ CUMHURİYET MAH 3+1 ASANSÖRLÜ LUX DAİRE RÜZGAR YAPI'DA, Beylikdüzü, Cumhuriyet Mahallesi,3+1,2,6,4. Kat,130,2,0,KombiDoğalgaz,299000
+700,CADDEBOSTAN SAHİLDE SATILIK EBEVEYN BANYOLU 120 M2 2+1 DAİRE, Kadıköy, Caddebostan Mahallesi,2+1,4,15,6. Kat,120,1,0,KombiDoğalgaz,2975000
+701, BAHÇELİEVLER YAYLA MERKEZDE SIFIR BİNADA 3+1 ASANSÖRLÜ FULL, Bahçelievler, Siyavuşpaşa Mahallesi,3+1,3,5,2. Kat,125,1,0,KombiDoğalgaz,890000
+702,MARİN İNŞAATTAN YAKUPLUDA BAHÇE KATI GENİŞ 2+1 DAİRE FIRSATI !!, Beylikdüzü, Yakuplu Mahallesi,2+1,1,5,Bahçe Katı,110,1,0,KombiDoğalgaz,235000
+703, EMLAKVAR İSKANLI SIFIR 2.KAT WC BANYO AYRI 2 BALKON GENİŞ 3+1, Sultanbeyli, Adil Mahallesi,3+1,0,4,2. Kat,124,1,0,KombiDoğalgaz,545000
+704, BAHÇELİEVLER YAYLA SİYAVUŞPAŞA ARASINDA 1+1 SIFIR BİNADA DAİRE, Bahçelievler, Siyavuşpaşa Mahallesi,1+1,0,5,1. Kat,70,1,0,KombiDoğalgaz,399000
+705, Mertcandan kurtköy mah ıskanlı otoparklı 3+1 fırsat 110m2 daire, Pendik, Kurtköy Mahallesi,3+1,20,3,2. Kat,120,1,0,KombiDoğalgaz,420000
+706, Mertcan'dan Velibaba mah Balkonlu İskanlı 2+1, Pendik, Velibaba Mahallesi,2+1,0,7,1. Kat,100,1,0,KombiDoğalgaz,465000
+707," SİYAVUŞPAŞA E5 YAKINI, GENÇ BİNADA, ASANSÖRLÜ 3+1 ...", Bahçelievler, Siyavuşpaşa Mahallesi,3+1,11-20,6,6. Kat,115,1,0,KombiDoğalgaz,670000
+708, Mertcandan sülüntepe mah ebevyn banyolu iskanlı 2+1 daire, Pendik, Sülüntepe Mahallesi,2+1,5-10,4,1. Kat,95,2,0,KombiDoğalgaz,375000
+709, MÜSLÜM EMLAK  FIRSATLARINI KAÇIRMAYIN 3+1 KULLANIŞLI DAİRE, Avcılar, Cihangir Mahallesi,3+1,11-20,4,1. Kat,127,1,0,KombiDoğalgaz,880000
+710,واحدفروشى درمنطقه ى بيليكدوزو !4+1 !فرصت مناسب, Beylikdüzü, Beylikdüzü OSB Mahallesi,4+1,0,6,3. Kat,165,1,0,KombiDoğalgaz,295000
+711,REAL YAPI'DAN SİTE İÇİNDE 1+1 LÜX DAİRE FIRSATI ! KREDİYE UYGUN !, Beylikdüzü, Cumhuriyet Mahallesi,1+1,0,9,5. Kat,88,1,0,KombiDoğalgaz,143000
+712, SATILIK BAHÇEKATI 2+1 85 M2 ERAY İNŞAAT & EMLAK, Başakşehir, Güvercintepe Mahallesi,2+1,1,4,Bahçe Katı,85,1,0,KombiDoğalgaz,260000
+713, ÜLKEM'DEN YEŞİLOVA MAH 2015 YAPIM İSKANLI 2+1 DUBLEKS, Küçükçekmece, Yeşilova Mahallesi,2+1,5-10,2,2. Kat,130,2,0,KombiDoğalgaz,695000
+714,OLD CİTY'DEN YAKUPLU MAH.E-5'E YAKIN 90M2BAHÇELİ 120M2 DÜZ GİRİŞ, Beylikdüzü, Yakuplu Mahallesi,3+1,5-10,5,Giriş,130,1,0,KombiDoğalgaz,465000
+715,BAHÇELİEVLER BEYAZ KONAK SİTESİNDE 3+1 165M2ARAKAT K.OTOPRKLI, Bahçelievler, Siyavuşpaşa Mahallesi,3+1,11-20,5,4. Kat,165,2,0,KombiDoğalgaz,1385000
+716,PUSULA'dan BEYLİKDUZU DENİZ MANZARALI SATILIK 145 M2 3+1 DAİRE, Beylikdüzü, Barış Mahallesi,3+1,11-20,15,10-20,155,1,0,KombiDoğalgaz,695000
+717,KÜÇÜKYALI RÜŞTÜ SARP CADDESİNDE YATIRIMLIK 2+1 SATILIK DAİRE, Maltepe, Küçükyalı Mahallesi,2+1,20,4,Bahçe Katı,80,2,0,KombiDoğalgaz,445000
+718,!!FIRSAT!! BOSNA BULVARINDA CADDEYE METROYA YAKIN 145M2 DAİRE, Üsküdar, Yavuztürk Mahallesi,3+1,11-20,5,2. Kat,145,2,0,KombiDoğalgaz,875000
+719,AYYILDIZ EMLAK`TAN KINALI CADDESİNDE 3+1 120M2 SATILIK DAİRE, Güngören, Haznedar Mahallesi,3+1,20,5,2. Kat,135,1,0,KombiDoğalgaz,520000
+720,GARANTİDEN KÜÇÜKYALI ÇAMLIKTA ÖN CEPHE İSKANLI 140M2 3+1, Maltepe, Küçükyalı Mahallesi,3+1,20,4,1. Kat,140,1,0,KombiDoğalgaz,990000
+721,BAŞAKŞEHİR MİSSİSTANBUL EVLERİ 2+1 EBEVEYN BANYOLU DAİRE, Başakşehir, Başak Mahallesi,2+1,5-10,12,8. Kat,130,2,0,KombiDoğalgaz,1180000
+722,AYDIN PARKE VE EMLAKTAN İSKANLI SATILIK 2+1 DAİRE, Pendik, Kavakpınar Mahallesi,2+1,4,9,3. Kat,90,1,0,KombiDoğalgaz,440000
+723,SATILIK DELTA WHİTE GOLD 4+1 200M2 BAHÇE KULLANIMLI DAİRE, Beylikdüzü, Adnan Kahveci Mahallesi,4+1,3,6,Giriş,200,2,0,Merkezi(PayÖlçer),960000
+724,"PRESTİJ PARK SUITABLE FOR CITIZENSHIP 3+1, 2 BATHROOM EMPTY FLAT", Esenyurt, Zafer Mahallesi,3+1,5-10,14,4. Kat,174,2,0,Merkezi(PayÖlçer),1020000
+725,ARNAVUTKÖY ANADOLU MAH SATILIK 210 M2 4+2 DUBLEKS KATI, Arnavutköy, Anadolu Mahallesi,4+2,0,5,5. Kat,210,2,0,KombiDoğalgaz,645000
+726,SİLİVRİ KİPTAŞ 3.ETAP KONUTLARINDA ARA SATILIK 2+1 DAİRE, Silivri, Mimar Sinan Mahallesi,2+1,1,7,6. Kat,92,1,0,Merkezi(PayÖlçer),341000
+727,""" Fırsat "" Ataköt Konakları ""C "" tipi Pozitif emlak'tan", Bakırköy, Ataköy 2-5-6. Kısım Mahallesi,3+1,11-20,5,5. Kat,181,2,0,KombiDoğalgaz,6500000
+728,Modern 34'den yeni bina'da Satılık 2+1 Daire..., Maltepe, Cevizli Mahallesi,2+1,3,4,3. Kat,85,1,0,KombiDoğalgaz,635000
+729,Beylikdüzü Marmara Mah. 2+1Vatandaşlığa Uygun Satılık Daire, Beylikdüzü, Marmara Mahallesi,2+1,11-20,9,6. Kat,90,1,0,KombiDoğalgaz,675000
+730,YAMANEVLERDE SIFIR BİNA 1+1 50 m2 SATILIK DAİRE, Ümraniye, Yamanevler Mahallesi,1+1,0,5,Giriş,51,1,0,KombiDoğalgaz,450000
+731, CEVATPAŞADA BARBAROS HAYRETTİNPAŞA CADDESİ ÜSTÜ 2+1 100M2 KAT3, Bayrampaşa, Cevatpaşa Mahallesi,2+1,20,5,3. Kat,105,1,0,KombiDoğalgaz,569000
+732,Sahibinden Krediye Uygun 3+1 140m2 Satilik Bahçe kati Daire, Küçükçekmece, Kanarya Mahallesi,3+1,5-10,5,Bahçe Katı,140,1,0,KombiDoğalgaz,355000
+733, ARIKOĞLUNDAN TRANWAYA 2 SOKAK PAŞADOR A ÇOK YAKIN 3+1 120M2 KAT, Bayrampaşa, Kartaltepe Mahallesi,3+1,5-10,5,2. Kat,130,2,0,KombiDoğalgaz,929000
+734,DÜNYAN EMLAK - NİDAPARK BAŞAKŞEHİRDE 4+1 PEYZAJ MANZARALI, Başakşehir, Başakşehir Mahallesi,4+1,3,11,Bahçe Katı,227,2,0,Merkezi(PayÖlçer),2400000
+735,EMLAKVAR İSKANLI SIFIR 2.KAT WC BANYO AYRI 2 BALKON GENİŞ 3+1, Sultanbeyli, Adil Mahallesi,3+1,0,4,2. Kat,124,1,0,KombiDoğalgaz,548000
+736,EMLAKVAR MANZARALI VE EBEVEYN BANYOLU DUBLEKS DAİRE, Sancaktepe, Osmangazi Mahallesi,2+1,4,6,5. Kat,140,2,0,KombiDoğalgaz,428000
+737,"EMLAKVAR SAMANDIRA MERKEZ 2+1 SIFIR KELEPİR ARAKAT 1,2,3 KATLAR", Sancaktepe, Eyüp Sultan Mahallesi,2+1,0,4,1. Kat,70,1,0,KombiDoğalgaz,376000
+738,BAHÇELİEVLER ÇAMLIK CADDESİNE YAKIN 3 YILLIK BİNADA 2+1 DAİRE, Bahçelievler, Siyavuşpaşa Mahallesi,2+1,3,5,3. Kat,105,2,0,KombiDoğalgaz,850000
+739,YEŞİLYURT'TA SIFIR 5+2 NET 260m SATILIK DUBLEKS, Bakırköy, Yeşilyurt Mahallesi,5+2,0,5,5. Kat,280,5,0,KombiDoğalgaz,9000000
+740,YENİMODAEVLERİ DENİZ GÖREN VATANDAŞLIĞA UYGUN SATILIK LÜKS DAİRE, Büyükçekmece, Pınartepe Mahallesi,2+1,4,5,3. Kat,180,2,0,Merkezi(PayÖlçer),2600000
+741,GÖÇMEN MAHALLESİNDE 250 M² 4+2 BAĞIMSIZ HARİKA DUBLEKS KAÇMAZ!!!, Esenyurt, Çınar Mahallesi,4+2,5-10,4,3. Kat,270,2,0,KombiDoğalgaz,569000
+742,ASANSÖRLÜ 4+2 BAKIMLI İSKANLI KELEPİR DUBLEKS BAĞIMSIZ GİRİŞLİ!!, Esenyurt, Selahaddin Eyyubi Mahallesi,4+2,5-10,4,3. Kat,225,2,0,KombiDoğalgaz,430000
+743,MASHATTAN DA SATILIK 2+1 DAIRE VATANDASLIK ICIN UYGUN, Sarıyer, Maslak Mahallesi,2+1,5-10,30,21-29,146,1,0,Merkezi(PayÖlçer),2850000
+744, MASHATTAN DA 2+1 SATILIK Daire for SALE GOOD PRICE, Sarıyer, Maslak Mahallesi,2+1,5-10,30,21-29,110,1,0,Merkezi(PayÖlçer),2700000
+745, MASHATTAN 2+1satilik فروش واحد 2 خوابه دربهترین منطقه استانبول  , Sarıyer, Maslak Mahallesi,2+1,5-10,30,10-20,110,2,0,Merkezi(PayÖlçer),2650000
+746,""" Fırsat "" Ataköt Konakları ""C "" tipi Pozitif emlak'tan", Bakırköy, Ataköy 2-5-6. Kısım Mahallesi,3+1,11-20,5,5. Kat,181,2,0,KombiDoğalgaz,6500000
+747,Modern 34'den yeni bina'da Satılık 2+1 Daire..., Maltepe, Cevizli Mahallesi,2+1,3,4,3. Kat,85,1,0,KombiDoğalgaz,635000
+748,Beylikdüzü Marmara Mah. 2+1Vatandaşlığa Uygun Satılık Daire, Beylikdüzü, Marmara Mahallesi,2+1,11-20,9,6. Kat,90,1,0,KombiDoğalgaz,675000
+749,YAMANEVLERDE SIFIR BİNA 1+1 50 m2 SATILIK DAİRE, Ümraniye, Yamanevler Mahallesi,1+1,0,5,Giriş,51,1,0,KombiDoğalgaz,450000
+750, CEVATPAŞADA BARBAROS HAYRETTİNPAŞA CADDESİ ÜSTÜ 2+1 100M2 KAT3, Bayrampaşa, Cevatpaşa Mahallesi,2+1,20,5,3. Kat,105,1,0,KombiDoğalgaz,569000
+751,Sahibinden Krediye Uygun 3+1 140m2 Satilik Bahçe kati Daire, Küçükçekmece, Kanarya Mahallesi,3+1,5-10,5,Bahçe Katı,140,1,0,KombiDoğalgaz,355000
+752, ARIKOĞLUNDAN TRANWAYA 2 SOKAK PAŞADOR A ÇOK YAKIN 3+1 120M2 KAT, Bayrampaşa, Kartaltepe Mahallesi,3+1,5-10,5,2. Kat,130,2,0,KombiDoğalgaz,929000
+753,DÜNYAN EMLAK - NİDAPARK BAŞAKŞEHİRDE 4+1 PEYZAJ MANZARALI, Başakşehir, Başakşehir Mahallesi,4+1,3,11,Bahçe Katı,227,2,0,Merkezi(PayÖlçer),2400000
+754,EMLAKVAR İSKANLI SIFIR 2.KAT WC BANYO AYRI 2 BALKON GENİŞ 3+1, Sultanbeyli, Adil Mahallesi,3+1,0,4,2. Kat,124,1,0,KombiDoğalgaz,548000
+755,EMLAKVAR MANZARALI VE EBEVEYN BANYOLU DUBLEKS DAİRE, Sancaktepe, Osmangazi Mahallesi,2+1,4,6,5. Kat,140,2,0,KombiDoğalgaz,428000
+756,"EMLAKVAR SAMANDIRA MERKEZ 2+1 SIFIR KELEPİR ARAKAT 1,2,3 KATLAR", Sancaktepe, Eyüp Sultan Mahallesi,2+1,0,4,1. Kat,70,1,0,KombiDoğalgaz,376000
+757,BAHÇELİEVLER ÇAMLIK CADDESİNE YAKIN 3 YILLIK BİNADA 2+1 DAİRE, Bahçelievler, Siyavuşpaşa Mahallesi,2+1,3,5,3. Kat,105,2,0,KombiDoğalgaz,850000
+758,YEŞİLYURT'TA SIFIR 5+2 NET 260m SATILIK DUBLEKS, Bakırköy, Yeşilyurt Mahallesi,5+2,0,5,5. Kat,280,5,0,KombiDoğalgaz,9000000
+759,YENİMODAEVLERİ DENİZ GÖREN VATANDAŞLIĞA UYGUN SATILIK LÜKS DAİRE, Büyükçekmece, Pınartepe Mahallesi,2+1,4,5,3. Kat,180,2,0,Merkezi(PayÖlçer),2600000
+760,GÖÇMEN MAHALLESİNDE 250 M² 4+2 BAĞIMSIZ HARİKA DUBLEKS KAÇMAZ!!!, Esenyurt, Çınar Mahallesi,4+2,5-10,4,3. Kat,270,2,0,KombiDoğalgaz,569000
+761,ASANSÖRLÜ 4+2 BAKIMLI İSKANLI KELEPİR DUBLEKS BAĞIMSIZ GİRİŞLİ!!, Esenyurt, Selahaddin Eyyubi Mahallesi,4+2,5-10,4,3. Kat,225,2,0,KombiDoğalgaz,430000
+762,MASHATTAN DA SATILIK 2+1 DAIRE VATANDASLIK ICIN UYGUN, Sarıyer, Maslak Mahallesi,2+1,5-10,30,21-29,146,1,0,Merkezi(PayÖlçer),2850000
+763, MASHATTAN DA 2+1 SATILIK Daire for SALE GOOD PRICE, Sarıyer, Maslak Mahallesi,2+1,5-10,30,21-29,110,1,0,Merkezi(PayÖlçer),2700000
+764, MASHATTAN 2+1satilik فروش واحد 2 خوابه دربهترین منطقه استانبول  , Sarıyer, Maslak Mahallesi,2+1,5-10,30,10-20,110,2,0,Merkezi(PayÖlçer),2650000
+765,Sarıyer Tarabya'da sitede 240 m2 4+1 satılık bahçe dubleksi, Sarıyer, Tarabya Mahallesi,4+2,11-20,5,Bahçe Katı,240,2,0,KombiDoğalgaz,5800000
+766,Sancaktepe Sarıgazi'de 5+1 180 M2 Satılık Üst Dubleks Daire, Sancaktepe, Sarıgazi Mahallesi,5+1,5-10,3,2. Kat,180,2,0,KombiDoğalgaz,650000
+767,İstanbul Bahçelievler Şirinevlerde Satılık Daire 2+1 girişkat, Bahçelievler, Şirinevler Mahallesi,2+1,20,5,Giriş,95,1,0,KombiDoğalgaz,350000
+768,İstanbul Bahçelievler Şirinevlerde Satılık 2+1 Daire 7 yaşında, Bahçelievler, Şirinevler Mahallesi,2+1,5-10,5,2. Kat,98,1,0,KombiDoğalgaz,680000
+769, ERPAY İNŞAAT'TAN ARSA ARAÇ DAİRE TAKASINA UYGUN LÜX ARAKAT DAİRE, Sultangazi, İsmetpaşa Mahallesi,2+1,4,5,3. Kat,125,2,0,KombiDoğalgaz,640000
+770,"EYÜP ALİBEYKÖY,ÜN MEREKZİNDE BİZ CEVAHİR PTT KARGOLARIN ÜSTÜNDE", Eyüpsultan, Esentepe Mahallesi,2+1,4,5,3. Kat,85,1,0,KombiDoğalgaz,409000
+771,BAĞCILAR MAHMUTBEY SATILIK 2+1 DAİRE SIFIR OTOPARKLI, Bağcılar, Mahmutbey Mahallesi,2+1,4,9,6. Kat,110,2,0,KombiDoğalgaz,775000
+772,ÇEKMEKÖY MİMAR SİNAN'DA SATILIK 3+1 ARA KAT DAİRE, Çekmeköy, Mimar Sinan Mahallesi,3+1,5-10,4,2. Kat,130,2,0,KombiDoğalgaz,647500
+773,ÇEKMEKÖY MEHMET AKİF'DE SATILIK 3+1 BALKONLU YÜKSEK GİRİŞ DAİRE, Çekmeköy, Mehmet Akif Mahallesi,3+1,5-10,4,Giriş,115,2,0,KombiDoğalgaz,475000
+774, ELZEM YAPIDAN 2+1 ASANSÖRLÜ İSKANLI KAÇIRILMAYACAK DAİRE, Sancaktepe, Yunus Emre Mahallesi,2+1,4,4,2. Kat,90,1,0,KombiDoğalgaz,359000
+775,YENİÇAĞ'DAN VELİBABA MAH ARAKAT GÜNEY CEPHE SIFIR 2+1 SATILIK, Pendik, Velibaba Mahallesi,2+1,0,5,4. Kat,90,1,0,KombiDoğalgaz,435000
+776,YENİÇAĞ'DAN HÜRRİYET MAH TAPU MASRAFSIZ ARAKAT 2+1FIRSAT SATILIK, Kartal, Hürriyet Mahallesi,2+1,0,4,2. Kat,90,1,0,KombiDoğalgaz,429000
+777,"Karlıdere Caddesi, Harika Konum 2+1 Çift Balkonlu Ara Kat", Üsküdar, Cumhuriyet Mahallesi,2+1,11-20,4,2. Kat,95,1,0,KombiDoğalgaz,615000
+778, ANADOLU KONUTLARI FARKI İLE AVM YANINDA SATILIK LÜKS SIFIR DAİRE, Çekmeköy, Mimar Sinan Mahallesi,2+1,0,5,1. Kat,90,1,0,KombiDoğalgaz,509999
+779,CENNET'TE SATILIK EBEVEYN BANYOLU 90 M2 BÜYÜK 2+1 SIFIR ARAKAT, Küçükçekmece, Cennet Mahallesi,2+1,0,4,1. Kat,100,2,0,KombiDoğalgaz,740000
+780, CADDEYE 2DK LÜX YAPIM SIFIR ARA DUBLEX 3+1 FIRSAT DAİRE, Sancaktepe, Mevlana Mahallesi,3+1,0,4,1. Kat,150,1,0,KombiDoğalgaz,362000
+781,"Next House'dan, Siyavuşpaşa'da, 2+1, 110M2, Ara Kat, Fırsat.", Bahçelievler, Siyavuşpaşa Mahallesi,2+1,11-20,5,3. Kat,110,1,0,KombiDoğalgaz,385000
+782,BEYLİKDÜZÜ KAVAKLIDA GENİŞ KULLANIMLI 3+1 FIRSAT DAİRE, Beylikdüzü, Kavaklı Mahallesi,3+1,0,4,1. Kat,130,2,0,KombiDoğalgaz,699000
+783, ERPAY İNŞAAT'TAN İSMETPAŞA MAH'DE SATILIK 110M2 ARAKAT DAİRE!!!!, Sultangazi, İsmetpaşa Mahallesi,2+1,5-10,5,1. Kat,115,1,0,KombiDoğalgaz,475000
+784, AKBAYIRLAR'DAN HÜRRİYETTE YENİ BİNADA İSKANLI ARA KATTA LÜX 2+1, Kartal, Hürriyet Mahallesi,2+1,2,7,4. Kat,90,1,0,KombiDoğalgaz,495000
+785,  AKBAYIRLAR'DAN SOĞANLIK YENİ'DE METROYA YAKIN ARA KATTA 3+1, Kartal, Soğanlık Yeni Mahallesi,3+1,5-10,5,4. Kat,130,1,0,KombiDoğalgaz,665000
+786, PARSELLER'DE METROBÜSE YAKIN ASANSÖRLÜ ARAKAT 2+1 SATILIK DAİRE, Avcılar, Mustafa Kemal Paşa Mahallesi,2+1,11-20,5,3. Kat,100,1,0,KombiDoğalgaz,615000
+787,Bulvar İstanbul 4+1 Garden Floor Suitable For CitizenShip, Başakşehir, Başakşehir Mahallesi,4+1,4,8,Bahçe Katı,189,2,0,Merkezi(PayÖlçer),2430000
+788,KRİSTAL İNŞAATTAN SANCAKTEPE'DE İSKANLI 2+1 ÜST DUBLEX!, Sancaktepe, İnönü Mahallesi,2+1,5-10,4,4. Kat,120,1,0,KombiDoğalgaz,430000
+789,"KRİSTAL İNŞAAT'TAN UYGUN,İSKANLI MERKEZİ KONUMDA SATILIK DAİRE !", Sancaktepe, Kemal Türkler Mahallesi,2+1,3,4,Giriş,100,1,0,KombiDoğalgaz,259000
+790,  Clk'dan Mimar Sinan Mahallesin de Satılık Dubleks, Çekmeköy, Mimar Sinan Mahallesi,4+2,5-10,5,3. Kat,210,2,0,KombiDoğalgaz,870000
+791, Bahçelievler Camlıkahveye yakın Arakat 2+1 Kredili Satılık Daire, Bahçelievler, Cumhuriyet Mahallesi,2+1,20,5,3. Kat,80,1,0,KombiDoğalgaz,338000
+792, SATILIK DUBLEX 4+2  190 M2 ERAY İNŞAAT & EMLAK, Başakşehir, Güvercintepe Mahallesi,4+2,0,4,4. Kat,190,2,0,KombiDoğalgaz,785000
+793,YELKENCİLERDEN ATAKENT MENEKŞEDE 132m2 ARAKAT 3+1 SATILIK DAİRE, Küçükçekmece, Atakent Mahallesi,3+1,5-10,16,10-20,132,1,0,KombiDoğalgaz,1200000
+794,"WEAL WORLD' den Basınsitesi'nde, Yeni Binada,  3+1, FIRSAT Daire ", Bahçelievler, Soğanlı Mahallesi,3+1,3,5,3. Kat,120,2,0,KombiDoğalgaz,830000
+795,SANAYİ MAHALLESİNDE MÜTHİŞ GENİŞ TERASLI 1+1 SATILIK, Kağıthane, Sultan Selim Mahallesi,1+1,0,7,6. Kat,65,1,0,Merkezi(PayÖlçer),520000
+796, ANADOLU KONUTLARINDAN MERKEZİ KONUMDA OTURUMA HAZIR 3+1 DUBLEKS, Çekmeköy, Ekşioğlu Mahallesi,3+1,0,5,4. Kat,150,2,0,KombiDoğalgaz,539999
+797, MÜSLÜM EMLAKTAN MUHTEŞEM KONUMDA 2+1 SATILIK DAİRE , Avcılar, Cihangir Mahallesi,2+1,5-10,4,Giriş,85,1,0,KombiDoğalgaz,530000
+798,HABİBLER MAH. SİTE İÇERİSİNDE SATILIK 2+1 GİRİŞ KAT DAİRE !, Sultangazi, Habibler Mahallesi,2+1,5-10,10,Giriş,100,1,0,KombiDoğalgaz,650000
+799,İMAMOĞLU DAN 2+1 İSKANLI ÇOK İYİ KONUMDA DAİRE, Bahçelievler, Soğanlı Mahallesi,2+1,20,5,Giriş,90,1,0,KombiDoğalgaz,295000
+800,OLD CİTY'DEN Ş.EVLER İ.Ö.O YANI YÜKSEK GİRİŞ 2+1 90M2 YATIRIMLIK, Bahçelievler, Siyavuşpaşa Mahallesi,2+1,20,5,Giriş,100,1,0,KombiDoğalgaz,325000
+801,Maltepe Zümrütevlerde Ayrık Nizam Balkonlu 2+1 Satılık Daire, Maltepe, Zümrütevler Mahallesi,2+1,5-10,8,Giriş,80,1,0,KombiDoğalgaz,360000
+802,شقة للبيع 3+1 Satılık daire Full Ada manzaralı, Pendik, Çınardere Mahallesi,3+1,0,15,8. Kat,100,2,0,Merkezi(PayÖlçer),740000
+803,OSMANGAZİ MAHALLESİ İSKANLI ASANSÖRLÜ OTURUMA HAZIR ORTA KAT, Sancaktepe, Osmangazi Mahallesi,2+1,4,4,2. Kat,95,1,0,KombiDoğalgaz,435000
+804,"ÇAĞLAYAN'DA SIFIR BİNADA ASANSÖRLÜ, OTOPARKLI 2+1 SATILIK DAİRE", Kağıthane, Çağlayan Mahallesi,2+1,0,7,Giriş,80,1,0,KombiDoğalgaz,480000
+805,█ FIRSAT KREDİYE UYGUN 1.KAT BALKONLU 2+1 SATILIK DAİRE, Gaziosmanpaşa, Şemsipaşa Mahallesi,2+1,20,5,1. Kat,85,1,0,KombiDoğalgaz,258000
+806,AĞAOĞLE ELTES GÜNEŞİNDE KAPALI MUTFAK HAVUZ CEP. 3+1 SATILIK DAİ, Ümraniye, Esenşehir Mahallesi,3+1,11-20,14,6. Kat,130,1,0,KombiDoğalgaz,1430000
+807,YÜRÜYÜŞ YOLUNDA TAPU MASRAFSIZ 1. ve 2. KAT DAİRE, Küçükçekmece, Cennet Mahallesi,2+1,0,5,1. Kat,95,1,0,KombiDoğalgaz,830000
+808, SİLİVRİ SELİMPAŞA'DA TEK YETKİLİDEN SATILIK VİLLA, Silivri, Selimpaşa Mahallesi,6+2,3,3,Villa Tipi,500,4,0,MerkeziDoğalgaz,9400000
+809, ESENYURT PINAR MAHALLESİNDE SATILIK 2+1 DAİRE, Esenyurt, Pınar Mahallesi,2+1,0,6,Giriş,95,1,0,KombiDoğalgaz,315000
+810,BAHÇELİEVLER ÇAMLIK CAD. ÜZERİ 3+1 GENİŞ KREDİYE UYGUN DAİRE, Bahçelievler, Siyavuşpaşa Mahallesi,3+1,20,6,2. Kat,135,1,0,KombiDoğalgaz,870000
+811, SEEWORLD KENTLİFE 2+1 ARAKAT 139 m2 SATILIK kent life, Sancaktepe, Emek Mahallesi,2+1,5-10,4,1. Kat,139,2,1,KombiDoğalgaz,960000
+812,YENİŞEHİR MERKEZDE LENSİST YANI YATIRIMLIK 1+1 SATILIK DAİRE, Pendik, Yenişehir Mahallesi,1+1,4,8,2. Kat,71,1,0,Merkezi(PayÖlçer),330000
+813,komisyonsuz sahibinden satılık daire شقة للبيع من صاحبها 1+1, Beylikdüzü, Cumhuriyet Mahallesi,1+1,4,13,7. Kat,70,1,0,KombiDoğalgaz,263500
+814,KAĞITHANE MERKEZDE REZİDANCE BİNADA SATILIK DAİRE, Kağıthane, Merkez Mahallesi,2+1,1,15,1. Kat,87,1,0,MerkeziDoğalgaz,679000
+815,TURYAP TAÇTAN BEYLİKDÜZÜNDE SATILIK VİLLA, Beylikdüzü, Dereağzı Mahallesi,6+1,0,2,Villa Tipi,360,4,0,KombiDoğalgaz,4000000
+816, Bahçelievler son kat 3+1, Bahçelievler, Bahçelievler Mahallesi,3+1,20,3,3. Kat,130,1,0,KombiDoğalgaz,800000
+817,süper manzaraya sahip adalar çamlıca deniz, Bahçelievler, Bahçelievler Mahallesi,2+1,20,13,10-20,80,1,1,KombiDoğalgaz,535000
+818, MASLAK ECLİPSE STÜDYO 1+0 FIRSAT SATILIK DAİRE, Sarıyer, Maslak Mahallesi,Stüdyo,5-10,20,10-20,60,1,1,Merkezi(PayÖlçer),1000000
+819,EN UYGUN 3+1 ÇEKMEKÖY, Sancaktepe, Atatürk Mahallesi,3+1,0,5,Giriş,130,2,0,KombiDoğalgaz,325000
+820, ESENYURT İNCİRTEPE'DE 2+1 SATILIK DAİRE, Esenyurt, İncirtepe Mahallesi,2+1,5-10,5,2. Kat,110,1,0,KombiDoğalgaz,350000
+821," İstanbul House'dan,Bahçelievler Yayla'da  2+1 100 M2, Daire", Bahçelievler, Siyavuşpaşa Mahallesi,2+1,11-20,5,3. Kat,100,1,0,KombiDoğalgaz,450000
+822, SEEWORLD KENTLİFE 156m2 3+1 FIRSAT SATILIK kent life, Sancaktepe, Emek Mahallesi,3+1,5-10,4,3. Kat,156,1,1,KombiDoğalgaz,990000
+823,ÇEKMEKÖY PARADİSE SİTEDINDE TEMIZ DAIRE, Çekmeköy, Mehmet Akif Mahallesi,3+1,11-20,5,2. Kat,130,1,0,KombiDoğalgaz,1350000
+824,GARANTİDEN ALTINTEPEDE BOSTANCI SINIRINDA MASRAFSIZ 3+1, Maltepe, Altıntepe Mahallesi,3+1,20,4,4. Kat,120,1,0,KombiDoğalgaz,615000
+825,ÖZ TRAKYADAN SATILIK DUBLEKS, Küçükçekmece, Mehmet Akif Mahallesi,3+2,4,4,4. Kat,140,1,0,KombiDoğalgaz,535000
+826,merkez mah. dubleks, Çekmeköy, Mimar Sinan Mahallesi,4+2,0,5,Çatı Katı,195,2,0,KombiDoğalgaz,910000
+827,Şeyhli Hilal Konutlarında 3+1 Satılık Daire, Pendik, Şeyhli Mahallesi,3+1,20,5,4. Kat,130,1,0,KombiDoğalgaz,500000
+828,Beylikdüzü Kavaklı Mahallesinde Lüks 2+1Satılık Daire, Beylikdüzü, Kavaklı Mahallesi,2+1,0,5,3. Kat,110,2,0,KombiDoğalgaz,800000
+829,BU DAİREYİ GÖRÜN ALMADAN GİTMİCEKSİNİZ, Ümraniye, Namık Kemal Mahallesi,4+1,4,4,4. Kat,180,3,0,KombiDoğalgaz,1489000
+830," Repix Farkıyla Geniş,Daireden Bahçeye Çıkışlı,Kullanışlı,Kredili", Esenler, Kazım Karabekir Mahallesi,2+1,5-10,4,Bahçe Katı,85,1,0,KombiDoğalgaz,335000
+831, BEYLİKDÜZÜ ACİL İHTİYAÇTAN SATILIK ULAŞIMA YÜKSEK GİRİŞ DAİRE, Beylikdüzü, Cumhuriyet Mahallesi,2+1,0,4,Giriş,100,1,0,KombiDoğalgaz,196000
+832,ŞİŞLİ KULELİ EVLERİ 3+1 SATILIK DAİRE, Şişli, Paşa Mahallesi,3+1,5-10,6,2. Kat,100,1,0,KombiDoğalgaz,730000
+833, AKBAYIRLAR'DAN YAKACIK YENİ MAH MERKEZİ KONUMDA SIFIR LÜX 2+1, Kartal, Yakacık Yeni Mahallesi,2+1,2,5,2. Kat,90,1,0,KombiDoğalgaz,550000
+834,MERKEZİ KONUMDA ANA CADDE ÜZERİNDE ŞIK DİZAYNI İLE 2+1 DAİRE, Çekmeköy, Aydınlar Mahallesi,2+1,0,4,1. Kat,105,1,0,KombiDoğalgaz,397500
+835,ORMANADA 'DA 3+1 LÜKS SATILIK VİLLA, Sarıyer, Uskumruköy Mahallesi,3+1,4,2,Bahçe Katı,180,2,1,Merkezi(PayÖlçer),6200000
+836,ARNAVUTKÖY ANADOLU MAH SATILIK 80 2+1 BAHÇE KATI, Arnavutköy, Anadolu Mahallesi,2+1,0,4,Bahçe Katı,80,1,0,KombiDoğalgaz,235000
+837, KARTAL CEVİZLİDE ADLİYE HASTANEYE YAKIN SIFIR 2+1 SATILIK DAİRE, Kartal, Cevizli Mahallesi,2+1,0,6,4. Kat,100,1,0,KombiDoğalgaz,690000
+838,EYÜP ALİBEYKÖYDE ANA CADDE ÜSTÜ DUBLEKS İSKANLI, Eyüpsultan, Esentepe Mahallesi,2+1,4,3,3. Kat,120,2,0,KombiDoğalgaz,498000
+839,EYÜP ALİBEYKÖYDE ANA CADDE ÜSTÜ DENİZ MANZARALI GENİŞ MUKFAK , Eyüpsultan, Esentepe Mahallesi,3+1,4,3,3. Kat,120,2,0,KombiDoğalgaz,539000
+840,AVCILAR ANKA GAYRİMENKUL DEN MERKEZ DE SATILIK DUBLEKS, Avcılar, Merkez Mahallesi,4+2,0,4,4. Kat,200,2,0,KombiDoğalgaz,1400000
+841,GÜNEYDEN METROYA 10 DAKİKA YÜRÜME 2+1 75M2 KARANLIK ODASIZ DAİRE, Maltepe, Zümrütevler Mahallesi,2+1,5-10,5,Giriş,75,1,0,KombiDoğalgaz,230000
+842,TURYAP TAÇTAN SATILIK MERKEZİ KONUMDA 3+1 DAİRE, Beylikdüzü, Cumhuriyet Mahallesi,3+1,20,14,6. Kat,165,2,0,KombiDoğalgaz,750000
+843,Sahibinden MERKEZİ KONUMDA OTOPARKLI FERAH AYRI MUTFAK 2+1 DÜZ GİRİŞ DAİRE, Beylikdüzü, Gürpınar Mahallesi,2+1,5-10,5,Giriş,95,1,0,KombiDoğalgaz,425000
+844,ZUHURATBABA HÜDAVERDİ ÇARŞI SK ÜZERİ SATILIK 2+1 DAİRE, Bakırköy, Zuhuratbaba Mahallesi,2+1,20,5,Bahçe Katı,80,1,0,KombiDoğalgaz,430000
+845,EYÜPSULTAN İSLAMBEY CADDESİNDE SATILIK 3+1 120 M2 DAİRE , Eyüpsultan, İslambey Mahallesi,3+1,11-20,4,2. Kat,130,1,0,KombiDoğalgaz,1000000
+846,Kağıthane İstova Residencede Satılık 2+1 Lüks Daire, Kağıthane, Hamidiye Mahallesi,2+1,0,14,10-20,127,1,0,Merkezi(PayÖlçer),1850000
+847,ADA EMLAK TAN METRO NUN YANINDA SATILIK DAİRE, Eyüpsultan, Nurtepe Mahallesi,3+1,11-20,6,1. Kat,110,1,0,KombiDoğalgaz,520000
+848,YAYLA ÇAMLIK CADDESİ ÇAM SOKAKDA SATILIK 3+1 YÜKSEK GİRİŞ, Bahçelievler, Siyavuşpaşa Mahallesi,3+1,20,5,Giriş,110,2,0,KombiDoğalgaz,465000
+849,YÜRÜYÜŞ YOLUNDA TAPU MASRAFSIZ 2 ADET ARAKAT DAİRE, Küçükçekmece, Cennet Mahallesi,2+1,0,5,1. Kat,95,1,0,KombiDoğalgaz,830000
+850,Sahibinden  Ağaoğlu My World Europe Sitesinde Satılık 76 m2 1+1 Daire, Başakşehir, Ziya Gökalp Mahallesi,1+1,5-10,25,10-20,76,1,1,Merkezi(PayÖlçer),780000
+851,HALKALI ZEYNEBİYE DE SATILIK 2+1 BAHÇE KATI DAİRE, Küçükçekmece, Halkalı Merkez Mahallesi,2+1,4,4,Bahçe Katı,80,1,0,KombiDoğalgaz,260000
+852,Kadıköy Bostancı'da Deniz Manzaralı 145m² Satılık 3+1 Daire, Kadıköy, Bostancı Mahallesi,3+1,20,8,7. Kat,145,2,0,MerkeziDoğalgaz,1950000
+853,"ŞAŞKINBAKKAL BAĞDATTA YÜZME HAVUZLU, GÜVENLİKLİ, DENİZ MANZARALI", Kadıköy, Caddebostan Mahallesi,3+1,5-10,17,10-20,134,2,0,Merkezi(PayÖlçer),3600000
+854,BAĞCILAR SANCAKTEPE MAH.MEYDANDA 2+1 95m2 SATLIK DAİRE, Bağcılar, Sancaktepe Mahallesi,2+1,20,4,4. Kat,100,1,0,KombiDoğalgaz,475555
+855,REFERANS BAŞAKŞEHİR VADİ'DE ÖN CEPHE KULLANIŞLI ŞIK 3+1 DAİRE, Başakşehir, Başak Mahallesi,3+1,0,17,10-20,195,2,0,Merkezi(PayÖlçer),3500000
+856,BÖLGENİN KELEPİR İSKANLI DAİRESİ SİZDE YENİ EVİNİZİN SAHBİ OLUN!, Esenyurt, İncirtepe Mahallesi,2+1,4,4,2. Kat,100,1,0,KombiDoğalgaz,285000
+857,SATILIK HİSSE PAYI YÜKSEK TOPRAK TAPULU MERKEZİ YERDE DAİRE, Kağıthane, Sultan Selim Mahallesi,2+1,20,4,3. Kat,124,1,0,KombiDoğalgaz,470000
+858,YILDIZTEPE MAHALLESİNDE FULL YAPILI 2+1 BALKONLU 4.KAT DAİRE, Bağcılar, Yıldıztepe Mahallesi,2+1,20,5,4. Kat,100,1,0,KombiDoğalgaz,239000
+859,ANADOLU MAHALLESİ MERKEZE YAKIN ARA KAT GİBİ YÜKSEK GİRİŞ, Arnavutköy, Anadolu Mahallesi,2+1,2,5,Giriş,95,1,0,KombiDoğalgaz,335000
+860,YEŞİLYURT'TA SIFIR 5+2 NET 260m² SATILIK DUBLEKS, Bakırköy, Yeşilyurt Mahallesi,5+2,0,5,5. Kat,280,5,0,KombiDoğalgaz,9000000
+861,NOKTA'DAN ZEKERİYAKÖY'DE GENİŞ BAHÇELİ KAPALI HAVUZLU KOZA VİLLA, Sarıyer, Zekeriyaköy Mahallesi,4+1,20,4,Giriş,340,3,0,KombiDoğalgaz,8500000
+862, MİMAR EMLAK'TAN MEHMET AKİFTE 120m² 2+1 1.KAT, Küçükçekmece, Mehmet Akif Mahallesi,2+1,11-20,7,1. Kat,120,1,0,KombiDoğalgaz,310000
+863,  E S GAYRİMENKUL  SEYYİDÖMER  MAH. 'DE   70m 2+1 SATILIK DAİRE , Fatih, Seyyid Ömer Mahallesi,2+1,20,4,Bahçe Katı,70,1,0,KombiDoğalgaz,385000
+864, MİMAR EMLAK'TAN MEHMET AKİFTE 5 KATLI BİNADA 3+1 1.KAT, Küçükçekmece, Mehmet Akif Mahallesi,3+1,11-20,5,1. Kat,140,1,0,KombiDoğalgaz,364000
+865,N-EVİM GAYRİMENKUL den Avcılar merkez Namık Kemal cad satılık, Avcılar, Merkez Mahallesi,3+1,20,5,3. Kat,135,1,0,KombiDoğalgaz,570000
+866,MST EMLAK BEYOĞLU SÜTLÜCE DE SATILIK HALİÇ MANZARALI 2+1 DAİRE, Beyoğlu, Örnektepe Mahallesi,2+1,5-10,5,Giriş,90,2,0,KombiDoğalgaz,770000
+867,MST EMLAK EYÜPPARK TA SATILIK YATIRIMLIK DAİRE 1+1, Eyüpsultan, Akşemsettin Mahallesi,1+1,5-10,14,10-20,43,1,0,Merkezi(PayÖlçer),530000
+868,Bahçeşehir Kiptaş Vaditepe Göl Evlerin de 4+1 Sıfır Eşyalı, Başakşehir, Bahçeşehir 1. Kısım Mahallesi,4+1,3,21,5. Kat,234,2,0,Merkezi(PayÖlçer),4000000
+869,SATILIK DÜBLEKS DAİRE 3+1 SULTANGAZİ CEBECİ KARTAL EMLAKTAN, Sultangazi, Cebeci Mahallesi,3+1,20,4,Çatı Dubleks,120,1,0,KombiDoğalgaz,290000
+870,BAHÇELİEVLER BEYAZ KONAK SİTESİNDE 3+1 165M2ARAKAT K.OTOPRKLI, Bahçelievler, Siyavuşpaşa Mahallesi,3+1,11-20,5,4. Kat,165,2,0,KombiDoğalgaz,1385000
+871,KAYAŞEHİR 5. BÖLGEDE 2+1 SATILIK DAİRE, Başakşehir, Kayabaşı Mahallesi,2+1,5-10,13,Giriş,85,1,0,Merkezi(PayÖlçer),585000
+872,"ZÜMRÜTEVLERDE;CADDEYE YAKIN,AYRI MUTFAKLI (2+1) YÜKSEK GİRİŞ", Maltepe, Zümrütevler Mahallesi,2+1,2,4,Giriş,80,1,0,KombiDoğalgaz,330000
+873,ARNAVUTKÖY ANADOLU MAH 85 M2 2 +1 YÜKSEK GİRİŞ KATI, Arnavutköy, Anadolu Mahallesi,2+1,0,5,Giriş,85,1,0,KombiDoğalgaz,295000
+874,EYÜPSULTAN İSLAM BEY CADDESİNDE SATILIK 3+1 DAİRE., Eyüpsultan, İslambey Mahallesi,3+1,11-20,5,1. Kat,110,2,0,KombiDoğalgaz,800000
+875,GOZTEPE NESRIN SOK.SIFIR 3+1YENI KOMBILI 1KAT 85M, Kadıköy, Merdivenköy Mahallesi,3+1,0,10,1. Kat,97,2,0,KombiDoğalgaz,1200000
+876,DÜNYAN EMLAK - NİDAPARK ZÜMRÜT SATILIK 3+1, Başakşehir, Kayabaşı Mahallesi,3+1,2,17,10-20,156,2,0,Merkezi(PayÖlçer),1800000
+877,BAHÇELİEVLER ÇAMLIK CAD. ÜZERİ GENİŞ 2+1 KREDİYE UYGUN DAİRE, Bahçelievler, Siyavuşpaşa Mahallesi,2+1,20,6,1. Kat,100,1,0,KombiDoğalgaz,620000
+878, BEYLİKDÜZÜ YAKUPLUDA KENDİSİ BÜYÜK FİYATI KÜÇÜK 3+1 DAİRE, Beylikdüzü, Yakuplu Mahallesi,3+1,0,7,4. Kat,130,1,0,KombiDoğalgaz,237000
+879,SEEWORLD SİMPLİCİTY 2+1 ARAKAT 120m2 SATILIK simpli city, Sancaktepe, Meclis Mahallesi,2+1,5-10,4,3. Kat,120,1,0,MerkeziDoğalgaz,695000
+880,NOFT YAPIDAN METROBÜSE CEPHE BALKONLU ASANSÖRLÜ KOMBİLİ 3+1 DAİRE, Esenyurt, Saadetdere Mahallesi,3+1,0,6,2. Kat,135,1,0,KombiDoğalgaz,569000
+881, soğanlı mah de satılık 90 m² -2+1- 3. kat daire  , Bahçelievler, Soğanlı Mahallesi,2+1,5-10,5,3. Kat,90,1,0,KombiDoğalgaz,409000
+882,"BAYRAMPAŞA KARTALTEPE MAH SATILIK ARAKAT DAİRE 105M /799,000", Bayrampaşa, Kartaltepe Mahallesi,2+1,4,5,1. Kat,105,2,0,KombiDoğalgaz,799000
+883,hedeften konaklarda 4 artı 1 mükemmel konumda hemen teslim, Bakırköy, Ataköy 2-5-6. Kısım Mahallesi,4+1,5-10,5,Giriş,214,2,0,KombiDoğalgaz,7350000
+884,EREN EMLAKTAN HIRKAİ ŞERİFTE KREDİYE UYGUN DAİRE, Fatih, Karagümrük Mahallesi,2+1,20,6,Giriş,90,1,0,KombiDoğalgaz,500000
+885,KÜÇÜKÇEKMECE CENNET METROBÜS YANIBAŞINDA SIFIR TAPU MASRAFSIZ, Küçükçekmece, Cennet Mahallesi,2+1,0,5,Bahçe Katı,80,1,0,KombiDoğalgaz,390000
+886, ÜÇEVLER MAH. 3+1 130M² BAHÇELİ BAHÇE KATI , Esenyurt, Üçevler Mahallesi,3+1,2,6,Bahçe Katı,145,1,0,KombiDoğalgaz,310000
+887, EMSALLERİN ALTINDA 2+1 MERKEZİ KONUMDAKİ LÜKS DAİRE !!  , Esenyurt, Güzelyurt Mahallesi,2+1,0,10,5. Kat,110,1,0,KombiDoğalgaz,205000
+888, ENTEPE ÇATI EMLAK'TAN SİTE İÇİNDE MANZARALI 2+1, Kağıthane, Nurtepe Mahallesi,2+1,4,13,10-20,95,1,0,Merkezi(PayÖlçer),945000
+889, ACİL SATILIK BEYLİKDÜZÜNDE METROBÜSE YAKIN 2+1 ARAKAT LÜKS DAİRE, Beylikdüzü, Beylikdüzü OSB Mahallesi,2+1,0,15,6. Kat,110,1,0,KombiDoğalgaz,215000
+890,TUNA GAYRİMENKULDEN BAHÇETEPEDE 2+1 SATILIKDAİRE, Başakşehir, Başakşehir Mahallesi,2+1,4,14,7. Kat,85,1,0,Merkezi(PayÖlçer),990000
+891,ANADOLU KONUTLARI HAFTANIN DAİRESİNİ SİZLERE DİP FİYATA SUNUYOR!, Çekmeköy, Ekşioğlu Mahallesi,2+1,0,5,1. Kat,105,1,0,KombiDoğalgaz,220000
+892, EVALMAK.TA SEFAKÖY MERKEZ'DE 2+1 BALKONLU 87 m2 ARAKAT DAİRE, Küçükçekmece, Fevzi Çakmak Mahallesi,2+1,0,4,1. Kat,87,1,0,KombiDoğalgaz,549000
+893,ÇEKMEKÖY MEHMET AKİF'TE METROYA YAKIN 2+1 FIRSAT DAİRE, Çekmeköy, Mehmet Akif Mahallesi,2+1,5-10,5,Giriş,88,1,0,KombiDoğalgaz,385000
+894,Sahibinden  SAHİBİNDEN FATIH ATİKALİ MAHALLESİNDE 2+1 SATILIK DAİRE , Fatih, Atikali Mahallesi,2+1,20,4,3. Kat,95,1,0,KombiDoğalgaz,650000
+895,KARTALTEPE MH SÜPER MANZARALI SATILIK DUBLEX 2+1 120 M KARE, Bayrampaşa, Kartaltepe Mahallesi,2+1,5-10,3,3. Kat,120,1,0,KombiDoğalgaz,725000
+896,FERAH MAHALLESINDE İSKANLI 2 +1 GENIS DAIRE, Üsküdar, Ferah Mahallesi,2+1,5-10,3,Giriş,85,1,0,KombiDoğalgaz,559000
+897,"ÇATALCA ELBASAN'DA 5.000 m2, SATILIK ÇİFTLİK", Çatalca, Elbasan Mahallesi,2+1,4,1,Giriş,150,4,0,IsıtmaYok,4150000
+898,GÜNEYDEN KELEPİR ARAKAT 2+1.80M2.AMERİKAN MUTFAKLI DAİRE, Maltepe, Zümrütevler Mahallesi,2+1,4,5,1. Kat,80,1,0,KombiDoğalgaz,340000
+899,ÇEKMEKÖY'DE KELEPİR 2+1 ARAKAT FIRSAT DAİRE, Çekmeköy, Mimar Sinan Mahallesi,2+1,11-20,5,2. Kat,100,1,0,KombiDoğalgaz,440000
+900, ŞİŞLİ GÜLBAHARDA SATILIK DAİRE , Şişli, Gülbahar Mahallesi,3+1,11-20,13,4. Kat,130,1,0,KombiDoğalgaz,700000
+901,KARTAL'DA 4+2 DUBLEX SATILIK DAİRE, Kartal, Yalı Mahallesi,4+2,11-20,5,Çatı Dubleks,150,1,0,KombiDoğalgaz,435000
+902,beylikdüzü Gürpınar da mustakil villa, Beylikdüzü, Gürpınar Mahallesi,2+2,20,2,Bahçe Dublex,815,2,0,KombiDoğalgaz,3300000
+903,Arnavutköy İslambey Mahallesi Satılık Arakat Daire, Arnavutköy, İslambey Mahallesi,2+1,3,4,1. Kat,115,1,0,KombiDoğalgaz,480000
+904,KAYAŞEHİR 14. BÖLGE CY-6 BLOK SATILIK 1+1 VADİ MANZARALI DAİRE, Başakşehir, Kayabaşı Mahallesi,1+1,5-10,6,Giriş,52,1,0,Merkezi(PayÖlçer),365000
+905, EREN EMLAKTAN YENİKAPIDA KREDİYE UYGUN DAİRE, Fatih, Nişanca Mahallesi,2+1,20,4,Giriş,90,1,0,KombiDoğalgaz,500000
+906,istanbul beykozun en güzel mahallelerinden elmalida satılık musta, Beykoz, Elmalı Mahallesi,6+4,11-20,3,Müstakil,430,4,0,KombiDoğalgaz,11500000
+907,SİLİVRİ ORTAKÖY DE 800m2 ARSA İÇİNDE HAVUZLU VİLLA, Silivri, Ortaköy Mahallesi,5+2,0,3,Villa Tipi,800,3,0,KombiDoğalgaz,4000000
+908,YAVUZ EMLAK`TAN SATILIK DUBLEX DAİRE, Pendik, Batı Mahallesi,3+2,5-10,4,4. Kat,150,3,0,KombiDoğalgaz,1450000
+909,3+1 120 m2 site konsepti, Bakırköy, Zuhuratbaba Mahallesi,3+1,0,5,3. Kat,120,2,0,KombiDoğalgaz,2450000
+910,İSTANBUL EYÜP GÜZELTEPE'DE 2+1 LÜKS DAİRE, Eyüpsultan, Güzeltepe Mahallesi,2+1,4,9,7. Kat,90,1,0,KombiDoğalgaz,725000
+911,SİTE İÇERİSİNDE KULLANIMA UYGUN 2+1 DAİRE, Pendik, Yenişehir Mahallesi,2+1,20,4,2. Kat,100,1,0,KombiDoğalgaz,410000
+912,KULLANIMA UYGUN GENİŞ 4+1 BAHÇE DUBLEKSİ, Sultanbeyli, Necip Fazıl Mahallesi,4+1,2,6,Bahçe Katı,140,2,0,KombiDoğalgaz,525000
+913,KULLANIMA UYGUN GENİŞ 2+1 DAİRE, Sultanbeyli, Necip Fazıl Mahallesi,2+1,2,6,2. Kat,140,2,0,KombiDoğalgaz,475000
+914,ERPAYDAN BOĞAZKÖYDE SATILIK YÜKSEK GİRİŞ, Arnavutköy, Boğazköy İstiklal Mahallesi,2+1,0,4,Giriş,90,1,0,KombiDoğalgaz,285000
+915,ABDULLAHOĞLU EMLAKTAN SATILIK 2+1 DAİRE, Maltepe, Fındıklı Mahallesi,2+1,3,5,Giriş,90,1,0,KombiDoğalgaz,420000
+916, ESENYURT GUZELYURT MAH. 1+1 SIFIR DAIRE RUZGAR YAPI'DAN, Esenyurt, Güzelyurt Mahallesi,1+1,2,5,1. Kat,85,1,0,KombiDoğalgaz,142000
+917, SELAMİÇEŞME CADDE ÜZERİ HEMEN TESLİM 3+1 SIFIR DAİRE , Kadıköy, Göztepe Mahallesi,3+1,0,4,1. Kat,125,2,0,Merkezi(PayÖlçer),3250000
+918,Akbatı AVM hemen yanındaki Akkoza evlerinde 2+1 Satılık Daire, Esenyurt, Koza Mahallesi,2+1,5-10,16,1. Kat,101,1,0,Merkezi(PayÖlçer),650000
+919,TEK YETKİLİ!! ADATEPE SAHİLDE ADALAR VE DENİZ MANZARALI İSKANLI, Maltepe, Feyzullah Mahallesi,4+2,3,6,6. Kat,220,1,0,Merkezi(PayÖlçer),1985000
+920,YILMAZ GAYRİMENKULDEN HÜRRİYETTE SIFIR LÜKS SATILIK DAİRELER, Gaziosmanpaşa, Hürriyet Mahallesi,2+1,0,3,2. Kat,90,1,0,KombiDoğalgaz,730000
+921,GÖKTAŞ YAPI'DAN %60 NAKİT GERİSİ ELDEN SENET 3 AY SONRA TESLİM!!, Esenyurt, Cumhuriyet Mahallesi,Stüdyo,0,12,6. Kat,60,1,0,KombiDoğalgaz,175000
+922,EREN EMLAKTAN AYVANSARAYDA YATIRIMLIK KREDİYE UYGUN DAİRE, Fatih, Ayvansaray Mahallesi,1+1,20,4,Bodrum,90,1,0,MerkeziDoğalgaz,300000
+923,Bura Residans da 1+1 72 m2 Satılık Daire..., Esenyurt, Yeşilkent Mahallesi,1+1,4,17,9. Kat,72,1,0,Merkezi(PayÖlçer),330000
+924, SELAMİÇEŞME  ÖZGÜRLÜK PARKI KARŞISINDA SIFIR DAİRE, Kadıköy, Göztepe Mahallesi,3+1,0,13,7. Kat,100,2,0,Merkezi(PayÖlçer),2550000
+925, CADDEBOSTAN 'DA 3+1 PROJEDEN SATILIK DAİRE , Kadıköy, Erenköy Mahallesi,3+1,0,8,8. Kat,120,2,0,KombiDoğalgaz,2900000
+926,NİSSA O2 RECİDENCE ACİL SATILIK BEYAZ EŞYALI, Avcılar, Tahtakale Mahallesi,2+1,4,29,9. Kat,133,1,0,Merkezi(PayÖlçer),820000
+927,DÜNYAN EMLAK - PARK MAVERA 1 SATILIK 2+1 DAİRE, Başakşehir, Kayabaşı Mahallesi,2+1,3,16,8. Kat,126,2,0,Merkezi(PayÖlçer),1800000
+928,Maltepe Fındıklı Dağ Yolunda Satılık 3+1 Lüks Arakat Daire, Maltepe, Fındıklı Mahallesi,3+1,5-10,4,2. Kat,110,1,0,KombiDoğalgaz,580000
+929,köşe vila satiliktir dışı yeni yapıldı içi yapilmamis, Başakşehir, Bahçeşehir 2. Kısım Mahallesi,5+2,11-20,4,Villa Tipi,400,4,0,KombiDoğalgaz,2250000
+930,Aslı emlaktan islambey mh kullanışlı giriş daire, Arnavutköy, İslambey Mahallesi,2+1,2,5,Giriş,100,1,0,KombiDoğalgaz,265000
+931,TUNA GYM KAYAŞEHİR 75M2 2+1 SATILIK, Başakşehir, Kayabaşı Mahallesi,2+1,5-10,12,1. Kat,75,1,0,Merkezi(PayÖlçer),555000
+932,3+1 4'ncü kat asansörlü KREDİLİ 8 YILLIK BİNA, Bahçelievler, Şirinevler Mahallesi,3+1,5-10,5,4. Kat,130,2,0,KombiDoğalgaz,815000
+933,Esenyurt Battalgazi mahallesi sıfır yapı 2+1 yüksek giriş , Esenyurt, Battalgazi Mahallesi,2+1,2,5,Giriş,90,1,0,KombiDoğalgaz,235000
+934,SATILIK KELEPİR 1+1 YENİ BİNA 75M², Esenyurt, Zafer Mahallesi,1+1,3,5,Giriş,75,1,0,KombiDoğalgaz,215000
+935,Sahibinden  BEYLERBEYİ'NDE BOĞAZ MANZARALI 7+1 550 m2 HAVUZLU KÖŞK, Üsküdar, Beylerbeyi Mahallesi,7+1,20,4,Villa Tipi,550,5,0,KombiDoğalgaz,27500000
+936,Remax Öncü ofisinden 3+1 satılık daire., Ümraniye, Mehmet Akif Mahallesi,3+1,11-20,7,7. Kat,140,1,0,KombiDoğalgaz,800000
+937,SEMBOL DE SATILIK 2+1 DAİRE, Esenyurt, Zafer Mahallesi,2+1,5-10,30,2. Kat,124,2,0,Merkezi(PayÖlçer),720000
+938,3+1 145 m2 elit lokasyon, Bakırköy, Zuhuratbaba Mahallesi,3+1,0,5,2. Kat,145,2,0,KombiDoğalgaz,2550000
+939, ESENYURT SAADETDERE 1+1 SIFIR DAİRE, Esenyurt, Saadetdere Mahallesi,1+1,0,4,Bodrum,90,1,0,KombiDoğalgaz,195000
+940,Kayaşehir 17 bölgede 2+1 daire, Başakşehir, Kayabaşı Mahallesi,2+1,5-10,16,Bahçe Katı,122,1,0,Merkezi(PayÖlçer),520000
+941,Sahibinden esenyurtun kalbinde ozyurtlara komsu, Esenyurt, Üçevler Mahallesi,2+1,4,5,5. Kat,90,1,0,DoğalgazSobalı,340000
+942,BARAN GAYRİMENKUL DEN 2+1 KELEPİR DAİRE, Esenyurt, Talatpaşa Mahallesi,2+1,5-10,5,5. Kat,115,1,0,MerkeziDoğalgaz,500000
+943,SATILIK DAİRE DUBLEKS , Zeytinburnu, Beştelsiz Mahallesi,4+1,11-20,5,4. Kat,180,2,0,KombiDoğalgaz,750000
+944,İSTANBUL EYÜP ÇIRÇIR MH 1+1 DAİRE, Eyüpsultan, Çırçır Mahallesi,1+1,0,10,1. Kat,65,1,0,KombiDoğalgaz,400000
+945,YILMAZ GAYRİMENKULDEN 3+1 110 M 8 YILLIK MASRAFSIZ BAHÇEKATI, Gaziosmanpaşa, Yeni Mahalle Mahallesi,3+1,5-10,3,Bahçe Katı,110,1,0,KombiDoğalgaz,450000
+946,YILMAZ GAYRİMENKULDEN YILDIRIMDA 2+1 BRÜT 80 M SIFIR YÜKSEKGİRİŞ, Bayrampaşa, Yıldırım Mahallesi,2+1,0,3,Giriş,80,1,0,KombiDoğalgaz,540000
+947,TEMA İSTANBUL 2+1 CAM BALKONLU 130 M2 SATILIK DAİRE, Küçükçekmece, Atakent Mahallesi,2+1,5-10,10,5. Kat,130,2,0,Merkezi(PayÖlçer),2200000
+948,Sahibinden ESENYURT KADIOĞLU DEVLET HASTANESİNE KOMŞU UYGUN DAİRE , Esenyurt, Fatih Mahallesi,2+1,4,6,5. Kat,120,1,0,KombiDoğalgaz,295000
+949,TEK YTK. REXART ALİCE VİLLAGE GÖLET MANZARA SATILIK 4+1 ÇATI DUB, Sancaktepe, Kemal Türkler Mahallesi,4+1,5-10,4,2. Kat,200,2,0,KombiDoğalgaz,2090000
+950, EMLAK WORKS'DEN CEVİZLİ'DE SATILIK YENİ BİNA 2+1 EBEVEYN BANYOLU, Maltepe, Cevizli Mahallesi,2+1,2,5,1. Kat,85,2,0,KombiDoğalgaz,750000
+951,HACIOSMANDA 380 METREKARE ARSA İÇERISINDE İKİ KATLI BİNA, Sarıyer, Tarabya Mahallesi,6+2,20,2,Giriş,380,2,0,KombiDoğalgaz,4500000
+952, Maltepe Adatepe'de Bahçe Kullanımlı Geniş 2+1 Satılık, Maltepe, Feyzullah Mahallesi,2+1,20,5,Giriş,110,1,0,KombiDoğalgaz,420000
+953, BEYLİKDÜZÜ GEZGEN İNŞAAT'TAN ACİL SATILIK 2+1 DAİRE, Beylikdüzü, Cumhuriyet Mahallesi,2+1,0,6,3. Kat,105,1,0,KombiDoğalgaz,321000
+954, ESENYURT GEZGEN İNŞAAT'TAN YATIRIMA UYGUN SATILIK 2+1 BAHÇE KATI, Esenyurt, Güzelyurt Mahallesi,2+1,0,5,Bahçe Katı,80,1,0,KombiDoğalgaz,196000
+955, 3+1 Fatih Fındıkzade'de Müthiş Lokasyonda Asnsörlü Satılık Daire, Fatih, Haseki Sultan Mahallesi,3+1,20,6,6. Kat,120,1,0,KombiDoğalgaz,995000
+956,ETİLER BADUR SİTESİNDE İYİ KONUMDA SATILIK 4+1, Beşiktaş, Etiler Mahallesi,4+1,11-20,5,1. Kat,184,2,0,MerkeziDoğalgaz,8000000
+957,SARİGAZİ MAH 4+2 AYRİ İKİ DAİRE TEK TAPU İSKANLI, Sancaktepe, Sarıgazi Mahallesi,4+2,5-10,4,3. Kat,180,2,0,KombiDoğalgaz,650000
+958,EYÜP YEŞİLPINAR WAYLANT KARŞISINDA LÜKS SİTE DE SOSYAL ALANLİ, Eyüpsultan, Yeşilpınar Mahallesi,2+1,4,10,8. Kat,90,2,0,KombiDoğalgaz,829000
+959,BEYLİKDÜZÜNDE METROBÜSE 10 DK 2+1 KAÇIRILMAYACAK SATILIK DAİRE, Beylikdüzü, Yakuplu Mahallesi,2+1,5-10,4,Giriş,95,1,0,KombiDoğalgaz,349000
+960,BEYLİKDÜZÜ YAKUPLUDA HAFTANIN FIRSATI 2+1 SATILIK DAİRE, Beylikdüzü, Yakuplu Mahallesi,2+1,4,4,2. Kat,105,1,0,KombiDoğalgaz,449000
+961,BURAK'TAN METROYA YÜRÜME MESAFESİNDE 2+1 ARAKAT DAİRE, Eyüpsultan, Karadolap Mahallesi,2+1,3,5,1. Kat,80,1,0,KombiDoğalgaz,465000
+962, DİKKAT CADDEYE 3. BİNA SIGINAKLI TOPRAK TEMASSIZ 2+1 GENİŞ DAİRE, Sancaktepe, Mevlana Mahallesi,2+1,2,4,Giriş,130,1,0,KombiDoğalgaz,275000
+963,ESENYURTDA İSKANLI KAT MÜLKİYETLİ 2+1 SATILIK DAİRE , Esenyurt, Piri Reis Mahallesi,2+1,0,5,Giriş,95,1,0,KombiDoğalgaz,320000
+964,CUMHURİYET MAHALLESİ SİTE İÇİ DEKORASYONLU 2+1 SATILIK DAİRE, Esenyurt, Cumhuriyet Mahallesi,2+1,4,18,10-20,110,1,0,KombiDoğalgaz,450000
+965,Eyüp Nişanca Düz Ayak Merkezi Konumlu Satılık Daire UYGUN'DAN, Eyüpsultan, Nişancı Mahallesi,2+1,20,4,2. Kat,75,1,0,KombiDoğalgaz,470000
+966, PARSELLER'DE METROBÜSE YAKIN ASANSÖRLÜ ARAKAT 2+1 SATILIK DAİRE, Avcılar, Mustafa Kemal Paşa Mahallesi,2+1,11-20,5,2. Kat,105,1,0,KombiDoğalgaz,585000
+967, HATUN GAYRİMENKUL YUVAM PARK SİTESİNDE 3+1 SATILIK DAİRE, Pendik, Çamçeşme Mahallesi,3+1,1,10,3. Kat,117,1,0,KombiDoğalgaz,615000
+968, silivri kiptaş 3.etapta giriş kat satılık daire 330.000 TL, Silivri, Mimar Sinan Mahallesi,2+1,1,7,Giriş,92,1,1,Merkezi(PayÖlçer),330000
+969, DÜŞÜK FAİZ ORANIYLA SİZİ EV SAHİBİ YAPIYORUZ , Avcılar, Ambarlı Mahallesi,3+1,11-20,4,Bahçe Katı,100,1,0,KombiDoğalgaz,630000
+970, AKTOWERS'TA  1+1 LÜKS SATILIK DAİRE , Beylikdüzü, Beylikdüzü OSB Mahallesi,1+1,1,25,5. Kat,70,1,0,KombiDoğalgaz,255000
+971, İNÖNÜ MAH. ULUSU CAD. PARALEL OKULA YAKIN BAKIMLI OTOPARKLI 3+1, Ataşehir, İnönü Mahallesi,3+1,11-20,4,1. Kat,110,2,0,KombiDoğalgaz,575000
+972,GÜVERCİN İNŞAAT'TAN EMSALLERİNİN 30.000 TL ALTINDA 2+1 Y. GİRİŞ!, Esenyurt, Pınar Mahallesi,2+1,2,5,Giriş,100,1,0,KombiDoğalgaz,205000
+973, Bahçelievler Soğanlı Mh. 4+2 230m2 Toplamda 2 Adet Satılık Daire, Bahçelievler, Cumhuriyet Mahallesi,4+2,20,6,6. Kat,230,2,0,KombiDoğalgaz,350000
+974,"Evimmm,den ÜMRANİYE SİTE ÖZELLİK,Lİ LÜX PROJE 2+1 SATILIK DAİRE", Ümraniye, İstiklal Mahallesi,2+1,0,13,2. Kat,90,1,0,Merkezi(PayÖlçer),780000
+975,ÜMRANİYE ESENEVELER SİTESİNDE 3+1 EBEVEYN BANYOLU KUSURSUZ DAİRE, Ümraniye, Esenevler Mahallesi,3+1,5-10,9,6. Kat,125,2,0,Merkezi(PayÖlçer),925000
+976,ÜMRANİYE İSTİKLAL MAH 2+1 EBEVEYN BANYOLU 85m2 SATILIK DAİRE, Ümraniye, İstiklal Mahallesi,2+1,0,14,6. Kat,85,2,0,Merkezi(PayÖlçer),780000
+977, Bahçelievler Cumhuriyet Mh.Satılık 4+1 Dubleks Daire 3yş Asansör, Bahçelievler, Cumhuriyet Mahallesi,4+1,3,4,4. Kat,170,2,0,KombiDoğalgaz,820000
+978, ESENYURT SAADETDERE MAH. 2+1 SIFIR DAIRE FIRSATI RUZGAR YAPI'DAN, Esenyurt, Saadetdere Mahallesi,2+1,2,5,Giriş,110,1,0,KombiDoğalgaz,189000
+979,ATAKENT GÜNEŞPARK EVLERİ 3 ARAKAT TEMİZ BAKIMLI SATILIK 4+1, Küçükçekmece, Atakent Mahallesi,4+1,11-20,15,9. Kat,180,3,0,KombiDoğalgaz,2750000
+980,HALKALI ATAKENT DUMANKAYA KONSEPTTE PEYZAJ CEPHE KÖŞE DAİRE 3+1, Küçükçekmece, Atakent Mahallesi,3+1,5-10,9,4. Kat,155,2,0,Merkezi(PayÖlçer),1950000
+981,PINAR MAHALLESİ BALKONLU 2+1 95 M2 KULLANIŞLI SATILIK ARAKAT, Esenyurt, Pınar Mahallesi,2+1,0,6,2. Kat,95,1,0,KombiDoğalgaz,298000
+982, SANCAKTEPE YUNUSEMRE MAH 2+1 ARAKAT SESTİNİ GAYRİMENKUL DEN, Sancaktepe, Yunus Emre Mahallesi,2+1,4,4,2. Kat,95,1,0,KombiDoğalgaz,365000
+983, AVCILAR MÜSLÜM EMLAKTAN AYRICALIKLI FIRSAT 2+1 SATILIK DAİRE, Avcılar, Ambarlı Mahallesi,2+1,5-10,4,2. Kat,90,1,0,KombiDoğalgaz,600000
+984, SANCAKTEPE MEVLANA MAH 2+1 ARAKAT SESTİNİ GAYRİMENKUL DEN, Sancaktepe, Mevlana Mahallesi,2+1,0,3,2. Kat,90,1,0,KombiDoğalgaz,380000
+985,REXART SANCAKTEPE SİNPAŞ LAGÜN 4+1 İRİS TERAS SATILIK DAİRE, Sancaktepe, Merve Mahallesi,4+1,5-10,2,2. Kat,256,2,0,YerdenIsıtma,3475000
+986,ASTORİA ARKASI 5850TL HAZIR KİRACILI 2 AYRI 1+1-İSKANLI DUBLEKS, Şişli, Esentepe Mahallesi,2+2,2,4,3. Kat,140,2,0,KombiDoğalgaz,850000
+987,Başakşehir'de Satılık Göl ve Baraj Manzaralı 2+1 Daire, Başakşehir, Altınşehir Mahallesi,2+1,2,2,Giriş,105,1,0,KombiDoğalgaz,560000
+988,H U Z U R | 5.Levent Kiptaş Satılık 3+1 166m2 Daire A Blok, Eyüpsultan, Güzeltepe Mahallesi,3+1,4,10,7. Kat,166,2,0,Merkezi(PayÖlçer),1565000
+989,H U Z U R | 5.Levent Kiptaş Satılık 3+1 167m2 B Blok - BOŞ DAİRE, Eyüpsultan, Güzeltepe Mahallesi,3+1,4,11,7. Kat,167,2,0,Merkezi(PayÖlçer),3000000
+990,SEFAKÖY İNÖNÜ MAH SATILIK 1+1 TERS DUBLEKS DAİRE GENİŞ BAHÇELİ, Küçükçekmece, İnönü Mahallesi,1+1,4,3,Giriş,85,1,0,KombiDoğalgaz,285000
+991,BEYLİKDÜZÜ VİSTA 4 'TE VATANDAŞLIĞA UYGUN İSKANLI 3+1 SATILIK, Büyükçekmece, Pınartepe Mahallesi,3+1,4,7,6. Kat,175,2,0,MerkeziDoğalgaz,2099000
+992,"ALBAYRAK'TAN KAT MÜLKİYETLİ GENİŞ, FERAH 3+1 LÜX SATILIK DAİRE", Beylikdüzü, Yakuplu Mahallesi,3+1,4,6,2. Kat,157,2,0,KombiDoğalgaz,462000
+993,OSMANBEY METROYA 10 DK 2+1 80M2 KEYİFLİ BAHÇEKATI MASRAFISZ LÜX, Şişli, Eskişehir Mahallesi,2+1,20,6,Giriş,85,1,0,KombiDoğalgaz,475000
+994,GÜRPINAR DA EŞSİZ DENİZ MANZARALI ŞOK FİYATA SATILIK VİLLA, Beylikdüzü, Dereağzı Mahallesi,5+2,11-20,3,Giriş,260,3,0,KombiDoğalgaz,1950000
+995,SURYAPI CORRİDOR'DA SATILIK BAHÇE KATI 3+1 175m2 ÖZEL DEKORASYON, Bağcılar, Bağlar Mahallesi,3+1,4,6,Bahçe Katı,175,2,0,Merkezi(PayÖlçer),2300000
+996,Avrupa Konutları Peyzaj Cephe Satılık 4+1 Güncel!!!, Başakşehir, Kayabaşı Mahallesi,4+1,2,10,7. Kat,215,3,0,Merkezi(PayÖlçer),2977000
+997,ALKAYA'DAN SUADİYE KAPTAN ARİF'DE SATILIK 2+1 ARA KAT DAİRE, Kadıköy, Suadiye Mahallesi,2+1,2,7,6. Kat,90,1,0,KombiDoğalgaz,1775000
+998,BEYLÜKDÜZÜ KAVAKLI'DA SATILIK 2+1 EŞYALI ARAKAT DAİRE, Beylikdüzü, Barış Mahallesi,2+1,4,5,1. Kat,110,2,0,KombiDoğalgaz,715000
+999,Pendik Çamçeşme de Satılık Dogalgaz Kombili Daire 3+1, Pendik, Çamçeşme Mahallesi,3+1,20,5,4. Kat,120,1,0,KombiDoğalgaz,225000
+1000,"ÇAPA'DA EŞYALI, TEMİZ, MERKEZİ KONUMDA 3+1 DAİRE", Fatih, Seyyid Ömer Mahallesi,3+1,20,4,3. Kat,120,2,0,KombiDoğalgaz,820000
+1001,TUZLA İSTASYON CAD. SATILIK 250 M2 ASANSÖRLÜ 5+1 DUBLEKS KONUT, Tuzla, İstasyon Mahallesi,5+1,20,4,4. Kat,250,3,0,KombiDoğalgaz,1300000
+1002,ESENYURT DOGAN ARASLI BULVARI CAD. 1+1 SİTE İÇİNDE SATILIK DAİRE, Esenyurt, Bağlarçeşme Mahallesi,1+1,5-10,12,4. Kat,72,1,0,KombiDoğalgaz,345000
+1003,ESENYURT İNNOVİA2 KARŞISI MEHTERÇEŞME MAH. 2+1 SATILIK, Esenyurt, Mehterçeşme Mahallesi,2+1,5-10,8,3. Kat,100,1,0,Merkezi(PayÖlçer),420000
+1004,DEVADAN NUH KUYUSU CAD.YAKIN MASRAFSIZ YATIRIMLIK KELEPİR 2+1, Üsküdar, Valide-i Atik Mahallesi,2+1,20,4,Giriş,70,1,0,KombiDoğalgaz,335000
+1005,BARIŞ'TAN TEPEÜSTÜ MERKEZDE 190 M2 GÖL MANZARALI LÜKS DUBLEKS, Küçükçekmece, Cumhuriyet Mahallesi,3+2,5-10,4,4. Kat,210,2,0,KombiDoğalgaz,1290000
+1006,TURYAP TAÇ'TAN BAHÇEKÖY KONAKLARINDA 7+2 İSKANLI VİLLA, Büyükçekmece, Yenimahalle Mahallesi,7+2,20,4,Giriş,600,3,0,KombiDoğalgaz,2100000
+1007,FIRSAT CEVAHİR AVM'YE YAKIN ORTAKLAR'DA 5+1 KÖŞE ASANSÖR DUBLEX, Şişli, Fulya Mahallesi,5+1,11-20,5,4. Kat,200,2,0,KombiDoğalgaz,1950000
+1008, ÇATALCA İZZETTİN CEYLANKENT VİLLALARINDA EŞYALI SATILIK VİLLA, Çatalca, İzzettin Mahallesi,5+2,11-20,3,Villa Tipi,1000,3,1,MerkeziDoğalgaz,2150000
+1009,ROYALMAX'DAN ANA CADDE VE TRAMVAYA YAKINI 2+1 90 M DAİRE, Eyüpsultan, Karadolap Mahallesi,2+1,0,5,Bahçe Katı,90,1,0,KombiDoğalgaz,455500
+1010,ROYALMAX'DAN İSFANBUL AVM YAKIN GÜVENLİK SİTE'DE 2+1 95 m DAİRE, Eyüpsultan, Karadolap Mahallesi,2+1,4,10,4. Kat,95,1,0,KombiDoğalgaz,690000
+1011,PYRAMID'DEN SEA PEARL DENİZ MANZARALI SATILIK 3+1 LÜKS DUBLEKS, Bakırköy, Ataköy 2-5-6. Kısım Mahallesi,3+1,0,20,10-20,193,3,0,Merkezi(PayÖlçer),11200000
+1012,AKÇABURGAZ OKUL YANI İSKANLI ARKA CEPHE 1.KAT 2+1 SATILIK DAİRE, Esenyurt, Akçaburgaz Mahallesi,2+1,4,3,1. Kat,90,1,0,KombiDoğalgaz,400000
+1013,METROPOL İSTANBUL ALIŞVERİŞ MERKEZİ ÜSTÜ 1+1 SIFIR 105 m2 DAİRE, Ataşehir, Atatürk Mahallesi,1+1,3,25,10-20,105,1,0,MerkeziDoğalgaz,2300000
+1014,MERKEZ MH. SATILIK 3+1 SORUNSUZ BAHÇE KULLANIM ALANLI DAİRE, Çekmeköy, Merkez Mahallesi,3+1,11-20,5,Bahçe Katı,105,1,0,KombiDoğalgaz,325000
+1015,3.İSTANBUL MODA EVLERİNDE SATILIK VADİ MANZARALI 4+1, Başakşehir, Başakşehir Mahallesi,4+1,2,13,6. Kat,225,2,0,Merkezi(PayÖlçer),2900000
+1016,"ALP EMLAK' TAN GENİŞ, FERAH, LÜKS 115 M2 2+1 SATILIK DAİRE", Kadıköy, Merdivenköy Mahallesi,2+1,20,5,1. Kat,135,1,0,KombiDoğalgaz,1200000
+1017, Bağcılar Yıldıztepe Mh.Satılık 2+1 Daire 7yş Kredili 2.Kat, Bağcılar, Yıldıztepe Mahallesi,2+1,5-10,3,2. Kat,85,1,0,KombiDoğalgaz,495000
+1018,JOKER GAYRİMENKUL DUMANKAYA CADDE FULL EŞYALI 1+1 YENİŞEHİR MAH, Pendik, Yenişehir Mahallesi,1+1,5-10,9,7. Kat,70,1,0,Merkezi(PayÖlçer),350000
+1019,Repix Farkıyla Kredili Geniş Mutfaklı Tek Daire Üzeri Masrafsız!, Esenler, Kazım Karabekir Mahallesi,2+1,11-20,4,1. Kat,100,1,0,KombiDoğalgaz,557000
+1020,Sancaktepe Sur Yapı Lavanderin 2+1 Tek Kapalı Mutfak Dairesi, Sancaktepe, Eyüp Sultan Mahallesi,2+1,0,5,1. Kat,116,2,0,Merkezi(PayÖlçer),1650000
+1021,Remax Akarat Cem Yılmaz'dan Satılık Penthouse 3+1 168 m2, Sancaktepe, Fatih Mahallesi,3+1,4,13,10-20,168,2,0,Merkezi(PayÖlçer),1395000
+1022, Güngören'de Sıfır Binada Çift Girişli 4+1 Satılık Dubleks Daire, Güngören, Mareşal Çakmak Mahallesi,3+2,4,4,4. Kat,170,2,0,KombiDoğalgaz,900000
+1023, ERPAY İNŞAAT'TAN İSMET PAŞA MAH DE SATILIK 3+1 Y.GİRİŞ DAİRE..., Sultangazi, İsmetpaşa Mahallesi,3+1,0,5,Giriş,125,1,0,KombiDoğalgaz,560000
+1024,Fatih Cerrahpaşada Deniz Manzaralı 3+1 Satılık Daire, Fatih, Cerrahpaşa Mahallesi,3+1,20,4,4. Kat,110,1,0,KatKaloriferi,840000
+1025,SAĞLIK OCAĞI KONUMLU DÜZLÜKTE 2+1 SATILIK DAİRE, Sancaktepe, Safa Mahallesi,2+1,4,4,Giriş,130,2,0,KombiDoğalgaz,285000
+1026, AVCILAR GÜMÜŞPALA'DA YENİ İSKANLI ASANSÖRLÜ BİNADA SATILIK DAİRE, Avcılar, Gümüşpala Mahallesi,3+1,3,3,1. Kat,120,2,0,KombiDoğalgaz,780000
+1027, BAHÇELİEVLER SOĞANLI MAH CADDE ÜSTÜ YENİ BİNADA 3+1-DAİRE, Bahçelievler, Soğanlı Mahallesi,3+1,4,5,4. Kat,160,2,0,KombiDoğalgaz,1055000
+1028,BEYLİKDÜZÜ İHLAS MARMARA EVLERİ 2. KISIM 2+1 85 M2 SATILIK DAİRE, Beylikdüzü, Kavaklı Mahallesi,2+1,11-20,8,2. Kat,85,1,0,KombiDoğalgaz,590000
+1029, CADDEYE 2DK LÜX YAPIM SIFIR ARA DUBLEX 3+1 FIRSAT DAİRE, Sancaktepe, Mevlana Mahallesi,3+1,0,4,1. Kat,150,1,0,KombiDoğalgaz,362000
+1030, AVCILAR MUSTAFA KEMAL PAŞA MAH 3+1 KULLANIŞLI YÜKSEK GİRİŞ DAİRE, Avcılar, Mustafa Kemal Paşa Mahallesi,3+1,11-20,4,Giriş,130,1,0,KombiDoğalgaz,430000
+1031," Repix Kalitesiyle Dağ Yolu Caddesine Yakın,Kullanışlı Kredili.!!", Esenler, Tuna Mahallesi,2+1,5-10,4,Giriş,85,1,0,KombiDoğalgaz,438000
+1032," AVRUPA EMLAK TAN FEVZİ ÇAKMAK MAH 100 M² 3+1 BAHÇE KAT,İSKANLI", Esenler, Fevzi Çakmak Mahallesi,3+1,4,4,Bahçe Katı,100,1,0,KombiDoğalgaz,399000
+1033,SANCAKTEPEDE GENİŞ 2+1 ARAKAT ARAYANLARA KAÇMAYACAK FIRSAT !, Sancaktepe, Mevlana Mahallesi,2+1,4,4,2. Kat,95,1,0,KombiDoğalgaz,358000
+1034,Bylikdüzü marmara mahallesinde satılık 150 m2 -3+1 fül tadilatl, Beylikdüzü, Marmara Mahallesi,3+1,20,10,1. Kat,150,2,0,KombiDoğalgaz,800000
+1035, FATİH MAH TÜRKİYE EMLAK 2+1 KREDİLİ 78m2 1.KAT DAİRE KOD 1952, Esenler, Fatih Mahallesi,2+1,5-10,4,1. Kat,78,1,0,KombiDoğalgaz,395000
+1036,AKBAL EMLAK DOĞU MAH. 85 M2 2+1 675.000 TL MASRAFSIZ TEMİZ DAİRE, Pendik, Doğu Mahallesi,2+1,5-10,5,3. Kat,85,1,0,KombiDoğalgaz,675000
+1037,AKBAL EMLAK BATI MAH. 90 M2 2+1 890.000 TL YENİ DAİRE, Pendik, Batı Mahallesi,2+1,0,6,3. Kat,90,1,0,Merkezi(PayÖlçer),890000
+1038,CADDEBOSTAN ÖMERPAŞA'da 45m² SALON BALKONLU EBEVEYNLİ GENİŞ 3+1, Kadıköy, Caddebostan Mahallesi,3+1,20,9,4. Kat,160,2,0,MerkeziDoğalgaz,2625000
+1039,DENİZ MANZARALI ŞAŞKINBAKKAL BAĞDAT CADDESİNE 1. BİNA LÜX 3+1, Kadıköy, Suadiye Mahallesi,3+1,5-10,8,7. Kat,145,2,0,KombiDoğalgaz,4695000
+1040,Güngören Haznedar Mah 3+1 150m2 Sıfır Satılık Dubleks Daire, Güngören, Haznedar Mahallesi,3+1,0,5,Çatı Dubleks,155,1,0,KombiDoğalgaz,1050000
+1041,Acıbademde Akasya AVM'ye Yakın Site İçerisinde 3+1 Daire, Üsküdar, Acıbadem Mahallesi,3+1,20,5,4. Kat,135,1,0,KombiDoğalgaz,1100000
+1042,FIRSAT DUBLEKS 5+2/280m2 ASANSÖRLÜ K.OTOPARKLI LÜKS MANZARALI, Büyükçekmece, Hürriyet Mahallesi,5+2,5-10,4,4. Kat,280,2,0,KombiDoğalgaz,1100000
+1043,ROYALTY TEAM SANCAKTEPE MECLİS MAHALLESİ 95M2 ARA KAT SATILIK, Sancaktepe, Meclis Mahallesi,2+1,4,4,3. Kat,95,2,0,KombiDoğalgaz,465000
+1044,REXART SANCAKTEPE SİNPAŞ LAGÜN 4+1 İRİS TERAS SATILIK DAİRE, Sancaktepe, Merve Mahallesi,4+1,5-10,2,2. Kat,256,2,0,YerdenIsıtma,3550000
+1045,SİLİVRİ KİPTAŞ 3.ETAPTA ORTA TİP SATILIK DAİRE 400.000TL, Silivri, Mimar Sinan Mahallesi,2+1,1,7,2. Kat,92,1,1,Merkezi(PayÖlçer),400000
+1046,SİLİVRİ ÇANTA SANCAKTEPEDE SATILIK 1022MARSA  VE MÜSTAKİL EV , Silivri, Sancaktepe Mahallesi,1+1,11-20,1,Bahçe Katı,1022,1,0,Sobalı,650000
+1047, %50 PEŞİNAT GERİ KALANI 60AY 0 FAİZ SENETLE SİZDE EV SAHİBİ OLUN, Esenyurt, Zafer Mahallesi,3+1,0,17,10-20,230,2,1,KombiDoğalgaz,450000
+1048,ÇOK ÇOK UCUZ ESENYURT BAĞLARCESME MAH.259.000TL 2.KAT DAİRE, Esenyurt, Bağlarçeşme Mahallesi,2+1,5-10,5,2. Kat,95,1,0,KombiDoğalgaz,259000
+1049,SUADİYE SAHİLDE DENİZE 2 ADIM 2009 YAPIMI 3+1 YENİLENMİŞ LÜX, Kadıköy, Bostancı Mahallesi,3+1,11-20,7,3. Kat,125,1,0,MerkeziDoğalgaz,3895000
+1050,AVRUPA EMLAK'DAN ÇATALCA KİPTAŞTA MİMOZA SİTESİNDE BAHÇE KATI, Çatalca, Ferhatpaşa Mahallesi,2+1,2,6,Bahçe Katı,85,1,0,KombiDoğalgaz,275000
+1051,AVRUPA EMLAK'DAN ÇATALCA KİPTAŞTA AÇELYA SİTESİNDE BAHÇE KATI, Çatalca, Ferhatpaşa Mahallesi,2+1,2,6,Bahçe Katı,85,1,0,KombiDoğalgaz,265000
+1052,"WEAL WORLD' den YAYLA DA 20 YILLIK, ASANSÖRLÜ, 3+1, ARAKAT DAİRE", Bahçelievler, Siyavuşpaşa Mahallesi,3+1,11-20,6,5. Kat,155,1,0,KombiDoğalgaz,750000
+1053,SİNPAŞ LAGÜN'E KOMŞU 2+1 85m2 2.KAT EBEVEYN BANYOLU İSKANLI, Sancaktepe, Abdurrahmangazi Mahallesi,2+1,4,4,2. Kat,85,2,0,KombiDoğalgaz,352500
+1054,ALBAYRAK'TAN GENİŞ ÖN CEPHE 1+1 ŞIK SATILIK DAİRE, Beylikdüzü, Yakuplu Mahallesi,1+1,0,6,3. Kat,97,1,0,KombiDoğalgaz,284000
+1055,SİLİVRİ KİPTAŞ 3.ETAPTA 3+1 SATILIK DAİRE 450.000TL, Silivri, Mimar Sinan Mahallesi,2+1,1,7,Giriş,92,1,0,Merkezi(PayÖlçer),450000
+1056, Mertcandan güllübağlar mah site içi fırsat yatırımlık 1+1 daire, Pendik, Güllü Bağlar Mahallesi,1+1,0,9,8. Kat,55,1,1,KombiDoğalgaz,380000
+1057, BEYLİKDÜZÜ YAKUPLU'DA EBEVEYN BANYOLU SIFIR 2+1 SATILIK DAİRE!, Beylikdüzü, Yakuplu Mahallesi,3+1,0,5,1. Kat,140,1,0,KombiDoğalgaz,665000
+1058,   EMLAK WORKS'DEN KARTAL TOPSELVİ'DE 2+1 SATILIK DAİRE, Kartal, Topselvi Mahallesi,2+1,4,4,1. Kat,80,1,0,KombiDoğalgaz,485000
+1059, ŞEREF EMLAK EYÜP SİLAHTARAĞA MAHAL.1+1 SATILIK DAİRE, Eyüpsultan, Silahtarağa Mahallesi,1+1,4,4,-1,70,1,0,KombiDoğalgaz,250000
+1060, SEEWORLD SİNPAŞ LAGÜN ULTRALÜX 260 m2 İRİS TERAS 4+1 SATILIK, Sancaktepe, Abdurrahmangazi Mahallesi,4+1,4,2,2. Kat,260,2,1,KombiDoğalgaz,4595000
+1061,Kurtköy Mira Beşyıldız Geniş Teraslı 90 m2 Büyük Tip 1+1, Pendik, Yenişehir Mahallesi,1+1,5-10,9,Bahçe Katı,90,1,0,Merkezi(PayÖlçer),670000
+1062,ZEKERİYAKÖY ÇARŞIYA YAKIN DRAGANİ SİTESİNDE ÇATI DUBLEKSİ, Sarıyer, Zekeriyaköy Mahallesi,2+1,5-10,4,2. Kat,120,2,0,KombiDoğalgaz,2500000
+1063, Mertcandan kurtköy mah ters dubleks 2+1 daire, Pendik, Kurtköy Mahallesi,2+1,5-10,4,Giriş,95,1,0,KombiDoğalgaz,260000
+1064, ESENYURT YENİKENT'TE KİPTAŞ 2 KONUTLARIN'DA 2+1 SATILIK DAİRELER, Esenyurt, Yenikent Mahallesi,2+1,11-20,12,6. Kat,75,1,0,KombiDoğalgaz,320000
+1065,SİLİVRİ CUMHURİYET MAH.ÖNÜ AÇIK DENİZ MANZARALI SATILIK2+1 DAİRE, Silivri, Cumhuriyet Mahallesi,2+1,20,6,3. Kat,75,1,0,KombiDoğalgaz,325000
+1066,170 M2 4+1 # 3500 # TL KIRA GETIRISI VARDIR 650 BIN TL, Güngören, Güneştepe Mahallesi,4+1,20,5,4. Kat,170,2,0,KombiDoğalgaz,650000
+1067,Çekmeköy Taşdelen Güngören Caddeye çok yakın Satılık 3+1 daire, Çekmeköy, Güngören Mahallesi,3+1,2,6,1. Kat,130,1,0,KombiDoğalgaz,570000
+1068,2+1 LUXURY RESIDENCE FOR SALE IN TALATPAŞA/KAĞITHANE, Kağıthane, Talatpaşa Mahallesi,2+1,1,16,10-20,85,1,0,Merkezi(PayÖlçer),810000
+1069,ETİLER SATILIK MAYA RESİDENCE 6+1 PENTHOUSE, Beşiktaş, Etiler Mahallesi,6+1,11-20,6,5. Kat,500,4,0,MerkeziDoğalgaz,56000000
+1070,DURDABAK GAYRİMENKUL'DEN SANCATEPE'DE MASRAFSIZ 2+1 DAİRE, Sancaktepe, Eyüp Sultan Mahallesi,2+1,3,4,3. Kat,84,1,0,KombiDoğalgaz,420000
+1071, beykoz da satılık müstakil villa, Beykoz, Yavuz Selim Mahallesi,4+2,5-10,3,Müstakil,320,2,0,KombiDoğalgaz,2500000
+1072,ARDIÇLI'DA 3+1 TERASLI DUBLEX, Esenyurt, Ardıçlı Mahallesi,3+1,5-10,5,Çatı Dubleks,150,2,0,KombiDoğalgaz,450000
+1073,Troyka'dan Yetkili Bağlarbaşın'da 2+1 Balkonlu İskanlı, Maltepe, Bağlarbaşı Mahallesi,2+1,5-10,4,2. Kat,75,1,0,KombiDoğalgaz,520000
+1074,CEVATPAŞA MAH.SATILIK ASANSÖRLÜ İSKANLI 2.KAT DAİRE, Bayrampaşa, Cevatpaşa Mahallesi,3+1,5-10,3,2. Kat,125,2,0,KombiDoğalgaz,850000
+1075,ADIM İSTANBUL 3+1 SATILIK DAİRE GÜNCEL, Başakşehir, Kayabaşı Mahallesi,3+1,2,14,4. Kat,178,2,0,Merkezi(PayÖlçer),1800000
+1076,MALTEPE AYDINEVLERDE SATILIK 5+1 DUBLEX DAİRE, Maltepe, Aydınevler Mahallesi,5+1,0,5,5. Kat,210,3,0,Merkezi(PayÖlçer),850000
+1077,GRİ`DEN EVLİYAÇELEBİ`DE KAYMAKAMLIGIN KARŞISI FIRSATDAİRE, Tuzla, Evliya Çelebi Mahallesi,2+1,2,4,3. Kat,95,1,0,KombiDoğalgaz,515000
+1078,BEYKOZ'DABOĞAZ MANZARALI LÜKS 3+1 DAİRE, Beykoz, Soğuksu Mahallesi,3+1,11-20,5,1. Kat,165,2,0,KombiDoğalgaz,2975000
+1079,Bağcılar Yıldıztepe Mh.2+1 Giriş Kat Daire, Bağcılar, Yıldıztepe Mahallesi,2+1,20,3,Giriş,75,1,0,KombiDoğalgaz,235000
+1080,KEMERBURGAZ CADDESİ SATILIK DUBLEKS DAİRE , Kağıthane, Merkez Mahallesi,3+2,5-10,5,Çatı Dubleks,165,3,0,KombiDoğalgaz,980000
+1081,ÜSKÜDAR ÖZYILMAZ GAYRİMENKUL MÜSTAKİL GİRİŞLİ 1+1SATILIK, Üsküdar, Zeynep Kamil Mahallesi,1+1,20,4,Giriş,65,1,0,KombiDoğalgaz,260000
+1082,ZEYNEPKAMİL MÜSTAKİL GİRİŞLŞİ 2+1 SATILIK, Üsküdar, Zeynep Kamil Mahallesi,2+1,20,5,Giriş,85,1,0,KombiDoğalgaz,265000
+1083,ÜSKÜDAR ÖZYILMAZ GAYRİMENKUL ZEYNEPKAMİL BALKON BAHÇELİ, Üsküdar, Zeynep Kamil Mahallesi,2+1,20,5,Bahçe Katı,75,2,0,KombiDoğalgaz,285000
+1084,SATILIK DAİRE-3+1-SIFIR DAİRE-YÜKSEK GİRİS-ASANSÖRLÜ, Sancaktepe, Abdurrahmangazi Mahallesi,3+1,0,3,Giriş,130,1,0,KombiDoğalgaz,310000
+1085,Gaziosmanpaşa Sarıgöl Mahallesi'nde Satılık 2+1 Daire, Gaziosmanpaşa, Sarıgöl Mahallesi,2+1,0,16,10-20,108,2,1,MerkeziDoğalgaz,1250000
+1086,Tasdelen Cumhuriyet mah.de Merkezi konumda.3±1 satılık, Çekmeköy, Cumhuriyet Mahallesi,3+1,3,7,6. Kat,110,2,0,KombiDoğalgaz,565000
+1087,"PAMA'dan 1.SINIF İŞÇİLİK,EBEVEYN BANYOLU,ANKASTRELİ 3+1 DAİRE", Tuzla, Aydınlı Mahallesi,3+1,0,4,1. Kat,120,2,0,KombiDoğalgaz,455000
+1088,"PAMA'dan AYDINLI'da,BUTİK SİTEDE,İSKANLI 3+1 KULLANIŞLI DAİRE", Tuzla, Aydınlı Mahallesi,3+1,5-10,6,1. Kat,135,1,0,Merkezi(PayÖlçer),515000
+1089,Çekmeköy Alemdağ 2+1 5. kat Satılık daire, Çekmeköy, Çatalmeşe Mahallesi,2+1,3,5,5. Kat,90,1,0,KombiDoğalgaz,460000
+1090,BLUE LAKE 2+1 F BLOK 5. KAT FULL GÖL MANZARALI KONUM! MEGA, Küçükçekmece, Fatih Mahallesi,2+1,2,15,5. Kat,120,2,0,Merkezi(PayÖlçer),2599000
+1091,RESİM' DEN ŞUA ELİT CONCEPT 2+1 AÇIK MUTFAK ÖZEL DEKORASYONLU, Kadıköy, Fikirtepe Mahallesi,2+1,2,24,1. Kat,107,1,0,Merkezi(PayÖlçer),1400000
+1092, EVALMAK.TA SEFAKÖY MERKEZ'DE 2+1 110 m2 BALKONLU Y.GİRİŞ DAİRE, Küçükçekmece, Fevzi Çakmak Mahallesi,2+1,0,4,Giriş,110,1,0,KombiDoğalgaz,649000
+1093,Gaziosmanpaşa Meydana Yakın 3+1 140m2 Daire, Gaziosmanpaşa, Merkez Mahallesi,3+1,11-20,3,1. Kat,140,1,0,KombiDoğalgaz,680000
+1094, BEYLIKDUZU YAKUPLU MAH. 1+1 SITE İÇİ LUX DAIRE FIRSATI !!!, Beylikdüzü, Yakuplu Mahallesi,1+1,1,7,6. Kat,85,1,0,KombiDoğalgaz,148000
+1095, ARIKOĞLUNDAN KAYAŞEHİR 11.Cİ BÖLGEDE GÜVENLİKLİ OTOPARKLI YGİRİŞ, Başakşehir, Kayabaşı Mahallesi,2+1,5-10,9,Giriş,75,1,1,Merkezi(PayÖlçer),505000
+1096,S-343 ARTI EMLAK'TAN HASKÖY'DE MASRAFSIZ ÇOK ACİL KELEPİR DAİRE, Beyoğlu, Keçeci Piri Mahallesi,2+1,11-20,5,2. Kat,85,1,0,KombiDoğalgaz,400000
+1097,2+1 LUXURY RESIDENCE FOR SALE IN TALATPAŞA/KAĞITHANE, Kağıthane, Talatpaşa Mahallesi,2+1,1,16,10-20,85,0,0,Merkezi(PayÖlçer),910000
+1098,BU BAHÇE KATI DAİRE TAM SİZE GÖRE ❗❗❗, Esenyurt, Çınar Mahallesi,2+1,4,5,Bahçe Katı,95,1,0,KombiDoğalgaz,215000
+1099,GÜNGÖREN MARAŞAL ÇAKMAK MAHALLESİ SATILIK DAİRE SIFIR LÜKS KAT 3, Güngören, Mareşal Çakmak Mahallesi,2+1,0,4,3. Kat,90,1,0,KombiDoğalgaz,600000
+1100,GÜNGÖREN GÜNEŞTEPE SATILIK DAİRE 3+1 YÜKSEK GİRİŞ HİSSELİ, Güngören, Güneştepe Mahallesi,3+1,20,6,Giriş,110,1,0,KombiDoğalgaz,380000
+1101, NESRİN EMLAK'TAN DENİZ MANZARALI YENİ BİNADA CADDEYE YAKIN 3+1, Kartal, Yakacık Yeni Mahallesi,3+1,4,12,9. Kat,120,1,0,KombiDoğalgaz,800000
+1102," Tuzla Orta Mahallede, Geniş Teraslı 3+1 Dubleks", Tuzla, Orta Mahallesi,3+1,3,4,Çatı Dubleks,160,2,0,KombiDoğalgaz,395000
+1103,3+1 SATILIK Y.GİRİŞ-135M2 ÇİFT BALKON İSKANLI KREDİLİ CUMHURİYET, Küçükçekmece, Cumhuriyet Mahallesi,3+1,5-10,4,Giriş,160,2,0,KombiDoğalgaz,700000
+1104,YUNUS EMRE MAHALLESİNDE SATILIK 1+1 YÜKSEK BAHÇE KATI DAİRE, Sultangazi, Yunus Emre Mahallesi,1+1,11-20,5,Bahçe Katı,75,1,0,KombiDoğalgaz,218000
+1105,LEVAZIMDA EN YÜKSEK BLOKTA DENİZ MANZARALI GENİŞ DAİRE, Beşiktaş, Levazım Mahallesi,3+1,20,7,7. Kat,190,2,0,MerkeziDoğalgaz,2600000
+1106,Levazım Birkent Sitesinde Bakımlı Pırıl pırıl Satılık Daire.., Beşiktaş, Levazım Mahallesi,4+1,20,5,4. Kat,210,2,0,MerkeziDoğalgaz,2350000
+1107,YORUM İSTANBUL VATANDAŞLIK UYGUN EŞYALI SATILIK 2+1 DAİRE, Bayrampaşa, Kocatepe Mahallesi,2+1,5-10,18,1. Kat,118,2,0,Merkezi(PayÖlçer),1850000
+1108,Kağıthane Nef 03 Residence Yatırımlık 1+1 Daire, Kağıthane, Merkez Mahallesi,1+1,3,14,2. Kat,56,1,0,Merkezi(PayÖlçer),765000
+1109,satılık dubleks alt 2+1 üst 1+1+teras krediye uygun, Bağcılar, Yavuz Selim Mahallesi,3+2,11-20,3,3. Kat,150,1,0,KombiDoğalgaz,650000
+1110,"ÇELİKTEPE ESKİ SONDURAKTA 90M2 2+1 KREDİYE UYGUN İSKANLI,ASANSÖR", Kağıthane, Çeliktepe Mahallesi,2+1,5-10,5,4. Kat,100,1,0,KombiDoğalgaz,605000
+1111,İstanbul Pendik'te Özel Bahçeli Daire Ay Sonuna Kadar Fiyat, Pendik, Sülüntepe Mahallesi,1+1,0,10,Bahçe Katı,70,1,0,KombiDoğalgaz,355000
+1112,BOSTANCI SAHİLDE MUHTEŞEM MANZARALI 5+2 SATILIK DUBLEX DAİRE, Maltepe, Altıntepe Mahallesi,5+2,0,6,5. Kat,260,2,0,KombiDoğalgaz,6000000
+1113,KAYAŞEHİR 19.BÖLGE HARİKA LOKASYON FUL MANZARA SÜPER KONUM, Başakşehir, Kayabaşı Mahallesi,2+1,5-10,25,21-29,118,1,0,Merkezi(PayÖlçer),670000
+1114,ALKAYA'DAN AVCILAR CİHANGİR MAH'DE SATILIK 2+1 DAİRE, Avcılar, Cihangir Mahallesi,2+1,4,3,Giriş,75,1,0,KombiDoğalgaz,399000
+1115,pendik alt kaynarca mah. 2+1 kombili yüksek giris satılık daire, Pendik, Kaynarca Mahallesi,2+1,11-20,3,Giriş,110,1,0,KombiDoğalgaz,320000
+1116,FIRSAT MEHMETHAN EMLAK TAN KELEPİR 3+1 5.YILLIK BİNA, Eyüpsultan, İslambey Mahallesi,3+1,5-10,5,Giriş,125,1,0,KombiDoğalgaz,345000
+1117,İLBEYOĞLUNDAN ACİL SATILIK DAİRE KELLEPİR FİYATA İLK GELEN ALIR, Bahçelievler, Zafer Mahallesi,3+1,20,5,3. Kat,130,2,0,KombiDoğalgaz,350000
+1118,YAVUZ GAYRİMENKUL'DEN KURTKÖY MERKEZDE SATILIK 2+1 DAİRE, Pendik, Kurtköy Mahallesi,2+1,5-10,6,1. Kat,120,2,0,KombiDoğalgaz,670000
+1119,Küçükçekmece Atakent 3.Etap ta Arakat Temiz Satılık 3+1 110m2, Küçükçekmece, Atakent Mahallesi,3+1,11-20,9,8. Kat,130,1,0,Merkezi(PayÖlçer),1040000
+1120,ulus emlaktan kirediye uygun 75 metre belediyenin orda bahçe kat, Bahçelievler, Siyavuşpaşa Mahallesi,2+1,20,6,Bahçe Katı,80,1,0,KombiFueloil,195000
+1121,AVCILAR ANKA GAYRİMENKUL DEN MERKEZ DE 2+1 90 M2 SATILIK DAİRE, Avcılar, Merkez Mahallesi,2+1,0,4,3. Kat,95,1,0,KombiDoğalgaz,755000
+1122,BOSTANCI MÜNÜBÜS CAD 2 BİNADA SATILIK GENIŞ 2+1 DAİRE, Kadıköy, Bostancı Mahallesi,2+1,20,4,1. Kat,100,1,0,KombiDoğalgaz,795000
+1123,Yeni Nesil Rezidans Point Habitat 3+1 Oben Kalitesiyle, Kadıköy, Bostancı Mahallesi,3+1,4,13,2. Kat,100,1,0,Merkezi(PayÖlçer),2200000
+1124,BAHÇELİEVLER SİYAVUŞPAŞADA ASANSÖRLÜ 3+1 120M2 SATILIK DAİRE, Bahçelievler, Siyavuşpaşa Mahallesi,3+1,20,5,4. Kat,120,1,0,KombiDoğalgaz,575000
+1125,ŞAŞKINBAKKAL SAHİLLE BAĞDAT ARASINDA 135M2 3+1 YENİ DAİRE, Kadıköy, Suadiye Mahallesi,3+1,5-10,5,4. Kat,135,2,0,KombiDoğalgaz,3795000
+1126,NURİPAŞA DA HATBOYUNA YAKIN K.UYGUN KLİMALI KOMBİLİ SATILIK DAİR, Zeytinburnu, Nuripaşa Mahallesi,2+1,11-20,4,1. Kat,85,1,0,KombiDoğalgaz,490000
+1127,SATILIK CUMA PAZAR KONUMDA GÜNEY CEPHE 2+1 TADİLATLI 2.KAT DAİRE, Küçükçekmece, Mehmet Akif Mahallesi,2+1,11-20,7,2. Kat,85,1,0,KombiDoğalgaz,265000
+1128,İSTANBUL SİLİVRİ BÜYÜKÇAVUŞLU MH SATILIK ÇİFTLİK VE ARAZISI OTAĞ, Silivri, Büyük Çavuşlu Mahallesi,6+3,4,1,Müstakil,16100,2,0,Sobalı,2500000
+1129,EYÜP SULTAN MAH. SATILIK 3+1 140 M2 TERS DUBLEX DAİRE, Sancaktepe, Eyüp Sultan Mahallesi,3+1,0,5,Giriş,140,1,0,KombiDoğalgaz,340000
+1130,"Ümraniye N.Kemalde 3+1 Satılık 125m,Sıfır 4.Kat Daire No:344 ", Ümraniye, Namık Kemal Mahallesi,3+1,0,5,4. Kat,125,2,0,KombiDoğalgaz,965000
+1131,DİYAR İNŞAAT EMLAK 2+1 SATILIK KURTULUŞ SON DURAK YANI, Beyoğlu, Hacıahmet Mahallesi,2+1,20,5,2. Kat,110,1,0,KombiDoğalgaz,450000
+1132,DİYAR İNŞAAT EMLAK 3+1 SATILIK BİLEZİKCİ SOK OSMANBEY METRO YANI, Şişli, Bozkurt Mahallesi,3+1,20,5,1. Kat,130,1,0,KombiDoğalgaz,750000
+1133, BEYLİKDÜZÜ'NDE GÜVENLİK OTOPARK KAPALI HAVUZ FİTNESS FULL DAİRE, Beylikdüzü, Cumhuriyet Mahallesi,3+1,0,15,6. Kat,130,2,0,KombiDoğalgaz,250000
+1134,NOFT YAPI'DAN SATILIK BALKONLU ASANSÖRLÜ DAİRE FIRSATI, Esenyurt, Güzelyurt Mahallesi,2+1,2,6,2. Kat,95,1,0,KombiDoğalgaz,289000
+1135, SEEWORLD SİNPAŞ LAGÜN 4+1 SATILIK 230 m2 LİLYUM BAHÇE lagün, Sancaktepe, Abdurrahmangazi Mahallesi,4+1,4,2,Bahçe Katı,230,2,1,KombiDoğalgaz,7600000
+1136,Seba suites de penthouse واحد پنت هاوس در رزیدانس مناسب شهروندی, Kağıthane, Merkez Mahallesi,1+1,0,15,10-20,100,1,0,Merkezi(PayÖlçer),1800000
+1137,OSMANBEY METROYA 12 DK 2+1 85M2 KOMBİLİ 2.KAT ÇİFT BALKON, Şişli, Yayla Mahallesi,2+1,11-20,5,2. Kat,90,1,0,KombiDoğalgaz,425000
+1138,Bura Residence Satılık 2+1 Ön Cephe Temiz Daire, Esenyurt, Yeşilkent Mahallesi,2+1,4,19,2. Kat,130,2,0,MerkeziDoğalgaz,550000
+1139, EVALMAK.TA SEFAKÖY MERKEZ'DE 2+1 118m2 BALKONLU BAHÇE KATI DAİRE, Küçükçekmece, Fevzi Çakmak Mahallesi,2+1,0,4,Bahçe Katı,118,1,0,KombiDoğalgaz,449000
+1140,Manzara Kartal Havuzlu Sitede 2+1 Fırsat Daire..., Kartal, Hürriyet Mahallesi,2+1,0,14,Giriş,72,0,0,Merkezi(PayÖlçer),390000
+1141,LÜKS SİTE İÇERİSİNDE İNANILMAZ DAİRE, Esenyurt, Talatpaşa Mahallesi,1+1,1,25,7. Kat,90,1,0,KombiDoğalgaz,359000
+1142, SEEWORLD SİNPAŞ LAGÜN 320 m2 İRİS BAHÇE SATILIK sinpaş lagün, Sancaktepe, Abdurrahmangazi Mahallesi,5+1,4,2,Bahçe Katı,320,3,1,KombiDoğalgaz,9450000
+1143,ISPARTAKULE BİZİMEVLER 7.ETAP_2+1 SATILIK DAİRE, Avcılar, Tahtakale Mahallesi,2+1,4,24,7. Kat,120,2,0,Merkezi(PayÖlçer),1250000
+1144,ÇEKMEKÖY MERKEZ MH. SATILIK 2+1 LÜKS ARAKAT DAİRE, Çekmeköy, Merkez Mahallesi,2+1,2,5,3. Kat,90,1,0,KombiDoğalgaz,555000
+1145,SANCKATEPE PASAKENT KONUTLARINDA SATILIK 3+1 130 M2 DAİRE, Sancaktepe, Osmangazi Mahallesi,3+1,11-20,7,4. Kat,130,1,0,KombiDoğalgaz,420000
+1146,# MEGA GAYRİMENKUL # BLUE LAKE 1+1 NET 64m2 #Citizenship, Küçükçekmece, Fatih Mahallesi,1+1,3,14,3. Kat,73,1,0,Merkezi(PayÖlçer),1250000
+1147,UĞUR GAYRİMENKULDEN ÇIRÇIR MAH. SATILIK 85M2 LÜX 2+1 DAİRE, Eyüpsultan, Çırçır Mahallesi,2+1,4,6,3. Kat,85,1,0,KombiDoğalgaz,575000
+1148,ZEYMAK YAPI DAN SAMANDIRA MERKEZİ KONUMDA 2+ 1 SON DAİRELER, Sancaktepe, Abdurrahmangazi Mahallesi,2+1,0,5,1. Kat,85,2,0,KombiDoğalgaz,485000
+1149,satılık daire kirazlı mah. kottan 1 kat 2+1 105m2 krediye uygun, Bağcılar, Kirazlı Mahallesi,2+1,11-20,3,Giriş,115,1,0,KombiDoğalgaz,470000
+1150,Eser Yapıdan Satılık2+1 80m2 Merkezi Konumda Yüksek Camlı B Katı, Başakşehir, Güvercintepe Mahallesi,2+1,2,4,Bahçe Katı,85,1,0,KombiDoğalgaz,280000
+1151,"HANCIOĞLU CADDESİNDE 2+1 90M2 FERAH, LÜKS DAİRE", Maltepe, Fındıklı Mahallesi,2+1,11-20,5,Giriş,110,1,0,KombiDoğalgaz,600000
+1152,Maslak mashattan 3+1 orman manzaralı Miele marka beyaz eşyallı, Sarıyer, Maslak Mahallesi,3+1,5-10,30,10-20,170,2,0,Merkezi(PayÖlçer),3600000
+1153, MERKEZİ KONUMDA FERAH GENİŞ KULLANIMLI 2+1 SATILIK DAİRE, Esenyurt, Mehterçeşme Mahallesi,2+1,5-10,6,4. Kat,100,1,0,KombiDoğalgaz,390000
+1154, BEYLİKDÜZÜNDE BAHÇE KULLANIMLI BUTİK SİTE DE 3+1 DAİRE FIRSATI, Beylikdüzü, Yakuplu Mahallesi,3+1,0,7,4. Kat,130,1,0,KombiDoğalgaz,239000
+1155,NOFT YAPI'DAN SATILIK BALKONLU KOMBİLİ DÜZ GİRİŞ DAİRE FIRSATI, Esenyurt, Güzelyurt Mahallesi,2+1,3,6,Giriş,95,1,0,KombiDoğalgaz,275000
+1156,4ETAP 1KISIM VADİ MANZARALI 125M2 3+1 FULL YAPILI SATILIK DAİRE, Başakşehir, Başak Mahallesi,3+1,11-20,9,5. Kat,125,1,0,KombiDoğalgaz,1100000
+1157,BEYLİKDÜZÜ SATILIK SÜPER KONUMDA STÜDYO DAİRE, Esenyurt, Cumhuriyet Mahallesi,Stüdyo,5-10,16,10-20,62,1,0,Merkezi(PayÖlçer),275000
+1158,Cadde üzeri satılık 1+1 daire ( Fırsat ), Bağcılar, Bağlar Mahallesi,1+1,5-10,4,1. Kat,75,1,0,KombiDoğalgaz,485000
+1159, AŞKIN EMLAKTAN NURTEPEDE 2+1 SATILIK DAİRE, Kağıthane, Nurtepe Mahallesi,2+1,11-20,5,-1,80,1,0,KombiDoğalgaz,370000
+1160,ADAKENT MERKEZDE İSKANLI TEMİZ BİNADA GÜNEY CEPHELİ, Beylikdüzü, Barış Mahallesi,3+1,11-20,14,10-20,145,1,0,KombiDoğalgaz,700000
+1161,CADDE ÜSTÜ YENİ BİNADA GENİŞ 4+1, Üsküdar, Çengelköy Mahallesi,4+1,0,5,2. Kat,165,2,0,KombiDoğalgaz,2350000
+1162,***** acil **** YENİ---2+1---GENİŞ---KREDİLİ daire, Küçükçekmece, Kanarya Mahallesi,2+1,4,3,Giriş,95,2,0,KombiDoğalgaz,402000
+1163, AŞKIN EMLAKTAN 1+1 70 METRE KARE SATILIK DAİRE, Eyüpsultan, Güzeltepe Mahallesi,1+1,11-20,6,-2,80,1,0,KombiDoğalgaz,320000
+1164,Üniversite bölgesinde satılık 3+1 fırsat daire, Beyoğlu, Örnektepe Mahallesi,3+1,11-20,6,4. Kat,120,1,0,KombiDoğalgaz,565000
+1165,ÖNAL GAYRİMENKULDEN SATILIK 2+1, Sancaktepe, Meclis Mahallesi,2+1,5-10,4,2. Kat,90,2,0,KombiDoğalgaz,460000
+1166, AHES MİSAL İSTANBUL'DA SATILIK DAİRE, Gaziosmanpaşa, Sarıgöl Mahallesi,2+1,0,16,3. Kat,75,1,1,Merkezi(PayÖlçer),700000
+1167, Gaziosmanpaşa'da Satılık 3+1 Daire, Gaziosmanpaşa, Sarıgöl Mahallesi,3+1,0,16,6. Kat,127,2,1,Merkezi(PayÖlçer),1500000
+1168,ARIEMLAK'TAN.3t2DUBLEX.130m2, Küçükçekmece, Söğütlü Çeşme Mahallesi,3+2,5-10,4,Çatı Katı,130,1,0,KombiDoğalgaz,510000
+1169,ŞİŞLİ FULYA DA KELEPİR DAİRE, Şişli, Fulya Mahallesi,3+1,11-20,6,1. Kat,120,1,0,KombiDoğalgaz,870000
+1170,AKATLAR 4.GAZETECİLER'DE SATILIK 3+1 YATIRIMLIK DAİRE, Beşiktaş, Levent Mahallesi,3+1,20,11,2. Kat,120,2,0,MerkeziDoğalgaz,1570000
+1171,BAHÇELİEVLER YENİBOSNADA NECİPFAZIL KISAKÜREK LİSESİNE YAKINKİRA, Bahçelievler, Hürriyet Mahallesi,3+1,20,5,2. Kat,135,1,0,KombiDoğalgaz,445000
+1172,ÖMER KAYA DAN ÇAKMAKTA BÜYÜK M22+1, Ümraniye, Çakmak Mahallesi,2+1,5-10,4,2. Kat,1000,2,0,KombiDoğalgaz,525000
+1173,EMLAK NET DEN YENİ BİNADA ASANSÖRLÜ YATIRIMLIK 2+1 70 M2 DAİRE, Beyoğlu, Kulaksız Mahallesi,2+1,2,5,Giriş,90,1,0,KombiDoğalgaz,450000
+1174,Sahibinden kapalı otopark site içi havuz spor salonu mevcuttur site içerisi, Eyüpsultan, Çırçır Mahallesi,2+1,2,10,1. Kat,95,1,0,KombiDoğalgaz,750000
+1175, Sultançifliği Mah'de HAKANLAR İNŞAATTAN 90M2 2+1 Satılık Daire, Sultangazi, Sultançiftliği Mahallesi,2+1,5-10,5,Giriş,90,1,0,KombiDoğalgaz,325000
+1176,KAYAŞEHİR 12. BÖLGE'DE 1+1 TAPULU SATILIK DAİRE, Başakşehir, Kayabaşı Mahallesi,1+1,5-10,4,1. Kat,48,1,0,Merkezi(PayÖlçer),375000
+1177,GÖZTEPE OYUNCAK MÜZESİNE KOMŞU 3 ODALI DAİRELER..., Kadıköy, Göztepe Mahallesi,3+1,0,8,7. Kat,141,2,0,KombiDoğalgaz,2400000
+1178,GÖZTEPE OYUNCAK MÜZESİNE KOMŞU 3 ODALI DAİRELER..., Kadıköy, Göztepe Mahallesi,3+1,0,8,7. Kat,127,2,0,KombiDoğalgaz,2100000
+1179,ÖNAL GAYRİMENKULDEN SATILIK 3+1, Sancaktepe, Sarıgazi Mahallesi,3+1,5-10,4,2. Kat,130,1,0,KombiDoğalgaz,675000
+1180,KADOSAN SANAYİYE ÇOK YAKIN 110m2 2+1 2.KAT BANYO WC AYRI, Ümraniye, Esenkent Mahallesi,2+1,20,4,2. Kat,110,1,0,KombiDoğalgaz,198500
+1181,ANKA GAYRİMENKUL DEN FATİH TE 2+1 SATILIK DAİRE, Fatih, Atikali Mahallesi,2+1,20,4,Bahçe Katı,80,1,0,KombiDoğalgaz,595000
+1182,TURYAP'TAN 2+1 MERKEZİ KONUMDA SATILIK DAİRELER, Pendik, Fevzi Çakmak Mahallesi,2+1,0,10,1. Kat,108,1,0,Merkezi(PayÖlçer),510000
+1183,SERAP GAYRİMENKUL VATADAŞLIK UYGUN SATILIK 1+1 DAİRE, Bayrampaşa, Kocatepe Mahallesi,1+1,5-10,9,2. Kat,67,2,0,Merkezi(PayÖlçer),895000
+1184,GÜLLÜBAĞLAR DA GENİS FERAH 2+1 DAİRE, Pendik, Güllü Bağlar Mahallesi,2+1,1,5,5. Kat,95,1,0,KombiDoğalgaz,429000
+1185,beyoğlu manzaralı full tadilatlı 2+1 satılık daire, Beyoğlu, Sururi Mehmet Efendi Mahallesi,2+1,20,4,4. Kat,90,1,0,KombiDoğalgaz,675000
+1186, ESENYURT İNNOVİA 2 KARŞISI SATILIK 2+1 DAİRE, Esenyurt, Mehterçeşme Mahallesi,2+1,5-10,7,6. Kat,90,1,0,KombiDoğalgaz,470000
+1187,Satılık Esenyurt Talatpaşa mahallesinde 2+1 yüksek giriş , Esenyurt, Talatpaşa Mahallesi,2+1,5-10,5,Giriş,100,1,0,KombiDoğalgaz,255000
+1188,Sahibinden  3 KATLI BAHÇELİ HAVUZLU VİLLA, Silivri, Kadıköy Mahallesi,5+3,11-20,3,Villa Tipi,1150,3,0,KombiDoğalgaz,1700000
+1189,2+1 -----YÜKSEK GİRİŞ----YENİ BİNA DA ----- SATILIK DAİRE, Küçükçekmece, Kanarya Mahallesi,2+1,5-10,5,Giriş,80,1,0,KombiDoğalgaz,319000
+1190,Kartal Petroliş mah Raman sok 2+1 Satılık Daire, Kartal, Petroliş Mahallesi,2+1,5-10,4,3. Kat,90,1,0,KombiDoğalgaz,685000
+1191,RUMELİ KAVAĞI MERKEZDE 2 EV İMARLI SAHİLE YAKIN ARSA, Sarıyer, Rumeli Kavağı Mahallesi,5+4,0,2,Giriş,450,3,0,KombiDoğalgaz,2250000
+1192,KADOSAN SANAYİYE ÇOK YAKIN 60m2 1+1 GİRİŞ BANYO WC AYRI, Ümraniye, Esenkent Mahallesi,1+1,20,4,Giriş,70,1,0,DoğalgazSobalı,148500
